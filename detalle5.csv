@@ -1,0 +1,454 @@
+Registro,Ticket,Origen,Hora,Descripción,PC,Hora Inicio,Hora Fin,Tiempo Total,Internet,Extras,Cobrar,Cobrado,Com.,Vta Directa,Nota
+1,,190317.log,12:34:24,Arranque del Servidor,,,,,,,,,0,, 1.647b
+2,,190317.log,13:37:47,Impresión,,,,,,,,,0,,id:49 Inicio:13:37:43 Demora:00:00:04 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:5424
+3,397,190317.log,14:14:00,Cobro de PC,1,13:18:51,14:14:00,0:54:40,9.11,0,9.11,9.11,0,, 
+4,398,190317.log,14:17:25,Cobro de PC,1,14:17:03,14:17:25,0:00:01,3,0,3,0,0,, Ejemplo
+5,399,190317.log,14:18:36,Venta de Extra,8,,,,,0,,,0,,1  Varios
+6,399,190317.log,14:18:36,Cobro de PC,8,13:27:59,14:18:36,0:50:15,8,0,8,8,0,, Ejemplo
+7,400,190317.log,14:20:45,Cobro de PC,2,14:20:32,14:20:45,0:00:01,3,0,3,3,0,, Ejemplo
+8,401,190317.log,14:32:25,Venta de Extra,8,,,,,7,,,0,,1  Varios
+9,401,190317.log,14:32:25,Cobro de PC,8,14:18:39,14:32:25,0:13:30,3,7,10,10,0,, 
+10,402,190317.log,15:24:10,Venta de Extra,2,,,,,10,,,0,,2  Impresion color grande
+11,402,190317.log,15:24:10,Cobro de PC,2,15:23:45,15:24:10,0:00:14,3,10,13,13,0,, Ejemplo
+12,403,190317.log,15:58:43,Cobro de PC,9,15:28:13,15:58:43,0:30:14,5,0,5,5,0,, 
+13,404,190317.log,16:13:21,Venta de Extra,8,,,,,1.5,,,0,,1  Varios
+14,404,190317.log,16:13:21,Cobro de PC,8,15:22:55,16:13:21,0:50:17,8.5,1.5,10,10,0,, 
+15,405,190317.log,16:29:06,Cobro de PC,9,15:58:54,16:29:06,0:30:10,5,0,5,5,0,, 
+16,406,190317.log,16:44:06,Cobro de PC,8,16:13:33,16:44:06,0:30:05,5,0,5,5,0,, 
+17,407,190317.log,16:49:36,Cobro de PC,9,16:49:14,16:49:36,0:00:01,3,0,3,3,0,, Me equivoque
+18,408,190317.log,16:49:48,Cobro de PC,8,16:44:09,16:49:48,0:05:31,3,0,3,3,0,, Ejemplo
+19,,190317.log,17:17:29,Impresión,,,,,,,,,0,,id:50 Inicio:17:17:09 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:34078720
+20,,190317.log,17:18:32,Impresión,,,,,,,,,0,,id:51 Inicio:17:17:50 Demora:00:00:42 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:29942860
+21,409,190317.log,17:24:59,Venta Directa,,,,,,,,,0,32,32  Impresion B/N
+22,410,190317.log,18:14:07,Cobro de PC,8,17:36:49,18:14:07,0:37:16,6,0,6,6,0,, 
+23,411,190317.log,19:17:34,Cobro de PC,9,18:14:12,19:17:34,1:03:09,10.5,0,10.5,10.5,0,, 
+24,412,190317.log,19:17:52,Cobro de PC,4,19:17:43,19:17:52,0:00:01,3,0,3,3,0,, Me equivoque
+25,413,190317.log,19:22:10,Venta de Extra,1,,,,,5,,,0,,5  Impresion B/N
+26,413,190317.log,19:22:10,Cobro de PC,1,19:21:22,19:22:10,0:00:03,3,5,8,8,0,, Ejemplo
+27,414,190317.log,19:33:52,Cobro de PC,8,18:57:46,19:33:52,0:35:42,6,0,6,6,0,, 
+28,415,190317.log,20:04:53,Cobro de PC,1,19:50:49,20:04:53,0:13:22,3,0,3,3,0,, 
+29,,190317.log,20:33:15,Cierre del Servidor,,,,,,,,,0,,
+30,,190317.log,20:33:15,Cierre del Servidor,,,,,,,,,0,,
+31,,190318.log,18:53:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+32,,190318.log,18:54:22,Impresión,,,,,,,,,0,,id:4 Inicio:18:54:03 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamaño:131072
+33,,190318.log,18:55:33,Impresión,,,,,,,,,0,,id:5 Inicio:18:55:26 Demora:00:00:07 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:204732
+34,,190318.log,18:56:05,Impresión,,,,,,,,,0,,id:6 Inicio:18:55:47 Demora:00:00:18 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1638400
+35,,190318.log,18:59:28,Impresión,,,,,,,,,0,,id:7 Inicio:18:59:01 Demora:00:00:27 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:13665296
+36,,190318.log,18:59:49,Impresión,,,,,,,,,0,,id:8 Inicio:18:59:31 Demora:00:00:18 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2162688
+37,,190318.log,19:09:52,Impresión,,,,,,,,,0,,id:9 Inicio:19:09:26 Demora:00:00:26 Estado:Finalizado Doc:Microsoft·Word·-·examen.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:851968
+38,,190318.log,19:10:32,Impresión,,,,,,,,,0,,id:10 Inicio:19:10:16 Demora:00:00:16 Estado:Finalizado Doc:Microsoft·Word·-·examen.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:270440
+39,,190318.log,19:11:46,Impresión,,,,,,,,,0,,id:11 Inicio:19:11:35 Demora:00:00:11 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:59948
+40,,190318.log,19:13:47,Impresión,,,,,,,,,0,,id:12 Inicio:19:13:33 Demora:00:00:14 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:196608
+41,416,190318.log,19:14:00,Venta de Extra,1,,,,,7,,,0,,1  Varios
+42,416,190318.log,19:14:00,Cobro de PC,1,18:54:06,19:14:00,0:17:54,3,7,10,10,0,, 
+43,,190318.log,19:17:22,Impresión,,,,,,,,,0,,id:13 Inicio:19:16:19 Demora:00:01:03 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamaño:33944660
+44,,190318.log,19:19:17,Impresión,,,,,,,,,0,,id:14 Inicio:19:19:03 Demora:00:00:14 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3406216
+45,,190318.log,19:42:53,Impresión,,,,,,,,,0,,id:15 Inicio:19:41:49 Demora:00:01:04 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:196608
+46,,190318.log,19:44:13,Impresión,,,,,,,,,0,,id:16 Inicio:19:43:23 Demora:00:00:50 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:196608
+47,,190318.log,19:45:55,Impresión,,,,,,,,,0,,id:17 Inicio:19:45:28 Demora:00:00:27 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:196608
+48,,190318.log,19:47:24,Impresión,,,,,,,,,0,,id:18 Inicio:19:46:39 Demora:00:00:45 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:141984
+49,,190318.log,19:56:42,Impresión,,,,,,,,,0,,id:19 Inicio:19:56:27 Demora:00:00:15 Estado:Finalizado Doc:Microsoft·Word·-·IMAGENES.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3531584
+50,,190318.log,19:58:12,Impresión,,,,,,,,,0,,id:20 Inicio:19:57:43 Demora:00:00:29 Estado:Finalizado Doc:CUARTO-A-Primer-examen-parcial.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:1114112
+51,,190318.log,19:58:51,Impresión,,,,,,,,,0,,id:21 Inicio:19:58:24 Demora:00:00:27 Estado:Finalizado Doc:CUARTO-A-Primer-examen-parcial.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:1176736
+52,,190318.log,19:59:22,Impresión,,,,,,,,,0,,id:22 Inicio:19:59:07 Demora:00:00:15 Estado:Finalizado Doc:Microsoft·Word·-·Rubrica·de·practicas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:5486100
+53,,190318.log,20:09:15,Impresión,,,,,,,,,0,,id:23 Inicio:20:08:42 Demora:00:00:33 Estado:Finalizado Doc:Microsoft·Word·-·el·viejo·xd.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:17591532
+54,,190318.log,20:20:16,Impresión,,,,,,,,,0,,id:24 Inicio:20:19:50 Demora:00:00:26 Estado:Finalizado Doc:Microsoft·Word·-·benito·juares.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:840900
+55,,190318.log,20:20:59,Impresión,,,,,,,,,0,,id:25 Inicio:20:20:42 Demora:00:00:17 Estado:Finalizado Doc:Microsoft·Word·-·imagenes.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:9748960
+56,417,190318.log,20:21:10,Venta de Extra,1,,,,,3,,,0,,1  Varios
+57,417,190318.log,20:21:10,Cobro de PC,1,19:39:31,20:21:10,0:41:19,7,3,10,10,0,, 
+58,418,190318.log,20:21:32,Venta de Extra,9,,,,,1,,,0,,1  Varios
+59,418,190318.log,20:21:32,Cobro de PC,9,20:01:14,20:21:32,0:20:04,3.5,1,4.5,4.5,0,, 
+60,419,190318.log,20:50:17,Cobro de PC,4,20:20:15,20:50:17,0:30:00,5,0,5,5,0,, 
+61,,190318.log,20:58:58,Impresión,,,,,,,,,0,,id:26 Inicio:20:58:25 Demora:00:00:33 Estado:Finalizado Doc:Index·-·Inicio.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamaño:739720
+62,420,190318.log,21:21:05,Cobro de PC,1,20:28:28,21:21:05,0:52:36,9,0,9,9,0,, 
+63,,190318.log,21:21:07,Cierre del Servidor,,,,,,,,,0,,
+64,,190318.log,21:21:07,Cierre del Servidor,,,,,,,,,0,,
+65,,190319.log,16:27:37,Arranque del Servidor,,,,,,,,,0,, 1.647b
+66,421,190319.log,17:00:50,Cobro de PC,9,16:27:55,17:00:50,0:30:00,5,0,5,5,0,, 
+67,,190319.log,17:09:50,Impresión,,,,,,,,,0,,id:29 Inicio:17:09:28 Demora:00:00:22 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:92772
+68,,190319.log,17:27:40,Impresión,,,,,,,,,0,,id:30 Inicio:17:26:17 Demora:00:01:23 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:275548
+69,422,190319.log,17:33:44,Cobro de PC,9,17:00:51,17:33:44,0:30:00,5,0,5,5,0,, 
+70,423,190319.log,17:57:57,Cobro de PC,8,17:04:13,17:57:57,0:53:25,9,0,9,9,0,, 
+71,424,190319.log,18:28:44,Cobro de PC,9,17:33:48,18:28:44,0:30:00,5,0,5,5,0,, 
+72,,190319.log,18:33:46,Impresión,,,,,,,,,0,,id:31 Inicio:18:33:07 Demora:00:00:39 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:61788
+73,425,190319.log,19:00:27,Cobro de PC,9,18:28:55,19:00:27,0:30:00,5,0,5,5,0,, 
+74,426,190319.log,19:19:34,Cobro de PC,1,18:49:22,19:19:34,0:30:00,5,0,5,5,0,, 
+75,,190319.log,19:23:01,Impresión,,,,,,,,,0,,id:32 Inicio:19:22:22 Demora:00:00:39 Estado:Finalizado Doc:Microsoft·Word·-·karen.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:4306584
+76,,190319.log,20:15:49,Impresión,,,,,,,,,0,,id:33 Inicio:20:09:01 Demora:00:06:48 Estado:Finalizado Doc:MANUAL·ECOLOGIA·.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:25 Total Hojas:25 Tamaño:39173420
+77,,190319.log,20:34:34,Impresión,,,,,,,,,0,,id:34 Inicio:20:34:03 Demora:00:00:31 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamaño:131072
+78,,190319.log,20:36:26,Impresión,,,,,,,,,0,,id:35 Inicio:20:36:18 Demora:00:00:08 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:7436
+79,,190319.log,20:38:04,Impresión,,,,,,,,,0,,id:36 Inicio:20:37:57 Demora:00:00:07 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+80,,190319.log,20:58:18,Impresión,,,,,,,,,0,,id:37 Inicio:20:56:34 Demora:00:01:44 Estado:Finalizado Doc:Microsoft·Word·-·portada·2.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:983040
+81,,190319.log,20:58:56,Impresión,,,,,,,,,0,,id:38 Inicio:20:58:12 Demora:00:00:44 Estado:Finalizado Doc:Microsoft·Word·-·portada·2.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:501228
+82,,190319.log,21:00:04,Impresión,,,,,,,,,0,,id:39 Inicio:20:59:59 Demora:00:00:05 Estado:Finalizado Doc:Microsoft·Word·-·portada·2.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:501228
+83,,190319.log,21:02:00,Impresión,,,,,,,,,0,,id:40 Inicio:21:01:40 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·portada·2.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:983040
+84,,190319.log,21:03:41,Impresión,,,,,,,,,0,,id:41 Inicio:21:03:21 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·portada·2.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:454112
+85,,190319.log,21:04:37,Impresión,,,,,,,,,0,,id:42 Inicio:21:04:15 Demora:00:00:22 Estado:Finalizado Doc:Microsoft·Word·-·portada·1.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+86,,190319.log,21:05:24,Impresión,,,,,,,,,0,,id:43 Inicio:21:04:59 Demora:00:00:25 Estado:Finalizado Doc:Microsoft·Word·-·portada·1.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+87,,190319.log,21:22:49,Impresión,,,,,,,,,0,,id:44 Inicio:21:21:32 Demora:00:01:17 Estado:Finalizado Doc:Tablas·cruzadas·de·respuestas·múltiples Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:3720248
+88,427,190319.log,21:41:36,Cobro de PC,2,20:39:56,21:41:36,0:58:12,9.5,0,9.5,9.5,0,, 
+89,,190319.log,21:45:47,Impresión,,,,,,,,,0,,id:45 Inicio:21:44:27 Demora:00:01:20 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:1154600
+90,,190319.log,21:51:04,Impresión,,,,,,,,,0,,id:46 Inicio:21:50:44 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1179648
+91,,190319.log,21:52:00,Cierre del Servidor,,,,,,,,,0,,
+92,,190319.log,21:54:32,Arranque del Servidor,,,,,,,,,0,, 1.647b
+93,,190319.log,22:08:02,Cierre del Servidor,,,,,,,,,0,,
+94,,190319.log,22:08:02,Cierre del Servidor,,,,,,,,,0,,
+95,,190320.log,17:11:45,Arranque del Servidor,,,,,,,,,0,, 1.647b
+96,,190320.log,17:32:09,Impresión,,,,,,,,,0,,id:48 Inicio:17:31:27 Demora:00:00:42 Estado:Finalizado Doc:Microsoft·Word·-·Características·de·las·células·procarióticas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:6202992
+97,428,190320.log,17:49:36,Cobro de PC,2,17:27:11,17:49:36,0:22:20,3.5,0,3.5,3.5,0,, 
+98,,190320.log,17:50:15,Impresión,,,,,,,,,0,,id:49 Inicio:17:49:45 Demora:00:00:30 Estado:Finalizado Doc:Microsoft·Word·-·karen·flores.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1310720
+99,429,190320.log,17:50:36,Venta de Extra,1,,,,,5,,,0,,1  Varios
+100,429,190320.log,17:50:36,Cobro de PC,1,17:11:54,17:50:36,0:38:40,6.5,5,11.5,11.5,0,, 
+101,430,190320.log,19:44:37,Cobro de PC,9,19:44:21,19:44:37,0:00:14,3,0,3,3,0,, 
+102,,190320.log,19:46:02,Impresión,,,,,,,,,0,,id:50 Inicio:19:45:31 Demora:00:00:31 Estado:Finalizado Doc:Microsoft·Word·-·trabajo·de·moleculas·chikito·medallas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:7798784
+103,,190320.log,19:46:35,Impresión,,,,,,,,,0,,id:51 Inicio:19:46:16 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·trabajo·de·moleculas·chikito·medallas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2509040
+104,,190320.log,20:19:47,Cierre del Servidor,,,,,,,,,0,,
+105,,190320.log,20:20:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+106,,190320.log,20:20:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+107,,190320.log,20:21:02,Cierre del Servidor,,,,,,,,,0,,
+108,,190320.log,20:22:39,Cierre del Servidor,,,,,,,,,0,,
+109,,190320.log,20:22:39,Cierre del Servidor,,,,,,,,,0,,
+110,,190321.log,16:53:41,Arranque del Servidor,,,,,,,,,0,, 1.647b
+111,,190321.log,17:19:30,Impresión,,,,,,,,,0,,id:53 Inicio:17:19:11 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·historia.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:4036
+112,431,190321.log,17:21:42,Venta de Extra,1,,,,,0,,,0,,1  Varios
+113,431,190321.log,17:21:42,Cobro de PC,1,16:53:45,17:21:42,0:27:50,4.5,0,4.5,4.5,0,, 
+114,432,190321.log,19:08:36,Cobro de PC,8,18:38:20,19:08:36,0:30:00,5,0,5,5,0,, 
+115,433,190321.log,19:38:54,Cobro de PC,8,19:08:38,19:38:54,0:30:00,5,0,5,5,0,, 
+116,434,190321.log,19:51:58,Cobro de PC,8,19:38:59,19:51:58,0:12:49,3,0,3,3,0,, 
+117,,190321.log,20:34:23,Impresión,,,,,,,,,0,,id:54 Inicio:20:34:00 Demora:00:00:23 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:65536
+118,,190321.log,20:35:51,Impresión,,,,,,,,,0,,id:55 Inicio:20:35:46 Demora:00:00:05 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+119,,190321.log,20:36:46,Impresión,,,,,,,,,0,,id:56 Inicio:20:36:32 Demora:00:00:14 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+120,,190321.log,20:37:26,Impresión,,,,,,,,,0,,id:57 Inicio:20:37:13 Demora:00:00:13 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:37380
+121,435,190321.log,21:08:56,Venta de Extra,1,,,,,0,,,0,,1  Varios
+122,435,190321.log,21:08:56,Cobro de PC,1,19:16:25,21:08:56,1:52:27,18.5,0,18.5,18.5,0,, 
+123,436,190321.log,21:09:02,Cobro de PC,2,20:24:45,21:09:02,0:44:12,7.5,0,7.5,7.5,0,, 
+124,,190321.log,21:09:04,Cierre del Servidor,,,,,,,,,0,,
+125,,190321.log,21:09:04,Cierre del Servidor,,,,,,,,,0,,
+126,,190322.log,16:34:22,Arranque del Servidor,,,,,,,,,0,, 1.647b
+127,,190322.log,17:28:20,Impresión,,,,,,,,,0,,id:58 Inicio:17:28:10 Demora:00:00:10 Estado:Finalizado Doc:Microsoft·Word·-·historieta.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1235296
+128,437,190322.log,17:29:47,Venta de Extra,1,,,,,0,,,0,,1  Varios
+129,437,190322.log,17:29:47,Venta de Extra,1,,,,,1,,,0,,1  Impresion B/N
+130,437,190322.log,17:29:47,Cobro de PC,1,16:34:27,17:29:47,0:54:45,9,1,10,10,0,, 
+131,438,190322.log,18:59:23,Venta de Extra,3,,,,,0,,,0,,1  Varios
+132,438,190322.log,18:59:23,Cobro de PC,3,18:20:52,18:59:23,0:37:29,6,0,6,6,0,, 
+133,,190322.log,19:03:29,Impresión,,,,,,,,,0,,id:59 Inicio:18:58:05 Demora:00:05:24 Estado:Finalizado Doc:Microsoft·Word·-·1234.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:20 Total Hojas:20 Tamaño:3908156
+134,,190322.log,19:07:39,Impresión,,,,,,,,,0,,id:60 Inicio:19:07:21 Demora:00:00:18 Estado:Finalizado Doc:246141201548·(1).pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:16588580
+135,439,190322.log,19:19:35,Cobro de PC,2,17:55:46,19:19:35,1:23:21,14,0,14,14,0,, 
+136,440,190322.log,19:39:30,Cobro de PC,9,19:39:08,19:39:30,0:00:19,3,0,3,3,0,, 
+137,441,190322.log,19:41:20,Cobro de PC,1,17:38:13,19:41:20,2:03:00,20.5,0,20.5,20.5,0,, 
+138,442,190322.log,19:41:26,Cobro de PC,2,19:19:37,19:41:26,0:21:45,3.5,0,3.5,3.5,0,, 
+139,443,190322.log,19:41:35,Venta de Extra,3,,,,,0,,,0,,1  Varios
+140,443,190322.log,19:41:35,Cobro de PC,3,19:34:04,19:41:35,0:07:29,3,0,3,3,0,, 
+141,444,190322.log,20:10:59,Cobro de PC,1,19:41:54,20:10:59,0:29:01,5,0,5,5,0,, 
+142,445,190322.log,20:11:06,Cobro de PC,2,19:47:54,20:11:06,0:23:07,4,0,4,4,0,, 
+143,446,190322.log,20:21:46,Cobro de PC,9,19:39:37,20:21:46,0:42:03,7,0,7,7,0,, 
+144,,190322.log,20:28:40,Cierre del Servidor,,,,,,,,,0,,
+145,,190322.log,20:28:40,Cierre del Servidor,,,,,,,,,0,,
+146,,190323.log,12:35:44,Arranque del Servidor,,,,,,,,,0,, 1.647b
+147,447,190323.log,14:35:11,Cobro de PC,1,14:00:46,14:35:11,0:34:22,5.5,0,5.5,5.5,0,, 
+148,,190323.log,14:52:19,Cierre del Servidor,,,,,,,,,0,,
+149,,190323.log,15:50:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+150,448,190323.log,16:52:52,Venta de Extra,8,,,,,0.3,,,0,,1  Varios
+151,448,190323.log,16:52:52,Cobro de PC,8,15:52:32,16:52:52,1:00:18,10,0.3,10.3,10.3,0,, 
+152,449,190323.log,17:23:08,Cobro de PC,8,16:53:03,17:23:08,0:30:00,5,0,5,5,0,, 
+153,450,190323.log,18:12:35,Cobro de PC,1,17:27:17,18:12:35,0:45:11,7.5,0,7.5,7.5,0,, 
+154,451,190323.log,18:27:32,Cobro de PC,2,17:27:24,18:27:32,1:00:00,10,0,10,10,0,, 
+155,452,190323.log,18:59:20,Cobro de PC,6,18:17:13,18:59:20,0:42:04,7,0,7,7,0,, 
+156,453,190323.log,19:01:27,Cobro de PC,6,19:01:22,19:01:27,0:00:02,3,0,3,3,0,, 
+157,454,190323.log,19:01:32,Cobro de PC,7,19:01:15,19:01:32,0:00:14,3,0,3,3,0,, 
+158,455,190323.log,19:09:34,Cobro de PC,6,19:01:47,19:09:34,0:07:44,3,0,3,3,0,, 
+159,456,190323.log,19:09:36,Cobro de PC,9,18:52:01,19:09:36,0:17:34,3,0,3,3,0,, 
+160,457,190323.log,19:40:16,Cobro de PC,6,19:36:00,19:40:16,0:04:13,3,0,3,3,0,, 
+161,458,190323.log,20:10:31,Venta de Extra,3,,,,,0,,,0,,1  Varios
+162,458,190323.log,20:10:31,Cobro de PC,3,19:40:26,20:10:31,0:30:00,5,0,5,5,0,, 
+163,459,190323.log,20:10:34,Cobro de PC,8,19:35:47,20:10:34,0:30:00,5,0,5,5,0,, 
+164,,190323.log,20:22:44,Cierre del Servidor,,,,,,,,,0,,
+165,,190323.log,20:22:44,Cierre del Servidor,,,,,,,,,0,,
+166,,190324.log,12:43:25,Arranque del Servidor,,,,,,,,,0,, 1.647b
+167,460,190324.log,13:31:37,Cobro de PC,1,12:49:52,13:31:37,0:41:26,7,0,7,7,0,, 
+168,,190324.log,13:59:56,Impresión,,,,,,,,,0,,id:61 Inicio:13:59:03 Demora:00:00:53 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:2490368
+169,,190324.log,14:03:33,Impresión,,,,,,,,,0,,id:62 Inicio:14:03:27 Demora:00:00:06 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:52832
+170,,190324.log,14:10:58,Impresión,,,,,,,,,0,,id:63 Inicio:14:10:33 Demora:00:00:25 Estado:Finalizado Doc:246060501890.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:36438016
+171,,190324.log,14:26:32,Impresión,,,,,,,,,0,,id:64 Inicio:14:24:11 Demora:00:02:21 Estado:Finalizado Doc:Microsoft·Word·-·gaceta1.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamaño:8096800
+172,461,190324.log,14:59:13,Cobro de PC,8,14:25:16,14:59:13,0:26:00,4.5,0,4.5,4.5,0,, 
+173,462,190324.log,15:42:47,Cobro de PC,8,14:59:24,15:42:47,0:36:00,6,0,6,6,0,, 
+174,463,190324.log,16:16:17,Cobro de PC,8,15:42:56,16:16:17,0:30:00,5,0,5,5,0,, 
+175,464,190324.log,16:24:18,Cobro de PC,9,14:59:18,16:24:18,1:24:56,14,0,14,14,0,, 
+176,465,190324.log,16:46:26,Cobro de PC,8,16:16:20,16:46:26,0:30:00,5,0,5,5,0,, 
+177,466,190324.log,18:10:17,Cobro de PC,8,17:39:56,18:10:17,0:30:00,5,0,5,5,0,, 
+178,467,190324.log,18:21:36,Cobro de PC,6,16:45:45,18:21:36,1:30:00,15,0,15,15,0,, 
+179,,190324.log,18:48:52,Impresión,,,,,,,,,0,,id:65 Inicio:18:48:50 Demora:00:00:02 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:0 Total Hojas:1 Tamaño:120
+180,,190324.log,18:53:34,Impresión,,,,,,,,,0,,id:66 Inicio:18:53:32 Demora:00:00:02 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamaño:120
+181,,190324.log,18:54:56,Impresión,,,,,,,,,0,,id:67 Inicio:18:54:54 Demora:00:00:02 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamaño:120
+182,,190324.log,20:34:01,Impresión,,,,,,,,,0,,id:68 Inicio:20:33:58 Demora:00:00:03 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:0 Total Hojas:1 Tamaño:120
+183,,190324.log,20:38:25,Cierre del Servidor,,,,,,,,,0,,
+184,,190324.log,20:38:25,Cierre del Servidor,,,,,,,,,0,,
+185,,190325.log,20:03:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+186,,190325.log,20:03:57,Impresión,,,,,,,,,0,,id:81 Inicio:20:03:43 Demora:00:00:14 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:77796
+187,,190325.log,20:07:27,Impresión,,,,,,,,,0,,id:82 Inicio:20:07:08 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:55956
+188,468,190325.log,20:46:45,Cobro de PC,1,20:03:53,20:46:45,0:42:50,7,0,7,7,0,, 
+189,,190325.log,20:46:46,Cierre del Servidor,,,,,,,,,0,,
+190,,190325.log,20:46:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+191,,190325.log,20:47:09,Cierre del Servidor,,,,,,,,,0,,
+192,,190325.log,20:47:09,Cierre del Servidor,,,,,,,,,0,,
+193,,190326.log,16:44:20,Arranque del Servidor,,,,,,,,,0,, 1.647b
+194,469,190326.log,17:16:04,Cobro de PC,9,16:44:27,17:16:04,0:30:00,5,0,5,5,0,, 
+195,,190326.log,17:29:05,Impresión,,,,,,,,,0,,id:83 Inicio:17:28:26 Demora:00:00:39 Estado:Finalizado Doc:CURP_HECR870729MPLRRS00.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3236412
+196,,190326.log,17:29:36,Impresión,,,,,,,,,0,,id:84 Inicio:17:29:25 Demora:00:00:11 Estado:Finalizado Doc:CURP_HECR870729MPLRRS00.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1220156
+197,470,190326.log,17:35:42,Cobro de PC,9,17:16:05,17:35:42,0:19:21,3,0,3,3,0,, 
+198,,190326.log,19:48:33,Impresión,,,,,,,,,0,,id:85 Inicio:19:48:12 Demora:00:00:21 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:589824
+199,,190326.log,19:59:58,Impresión,,,,,,,,,0,,id:86 Inicio:19:58:48 Demora:00:01:10 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamaño:102722
+200,471,190326.log,20:01:03,Cobro de PC,1,19:32:10,20:01:03,0:28:47,5,0,5,5,0,, 
+201,,190326.log,20:55:42,Impresión,,,,,,,,,0,,id:87 Inicio:20:55:05 Demora:00:00:37 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamaño:3425474
+202,,190326.log,20:56:28,Impresión,,,,,,,,,0,,id:88 Inicio:20:55:31 Demora:00:00:57 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamaño:48998
+203,,190326.log,21:13:09,Impresión,,,,,,,,,0,,id:89 Inicio:21:10:24 Demora:00:02:45 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:7 Total Hojas:7 Tamaño:6936369
+204,472,190326.log,21:14:10,Venta de Extra,1,,,,,20,,,0,,1  Varios
+205,472,190326.log,21:14:10,Cobro de PC,1,20:25:37,21:14:10,0:48:30,8,20,28,28,0,, 
+206,473,190326.log,21:43:40,Cobro de PC,2,21:05:56,21:43:40,0:37:41,6.5,0,6.5,6.5,0,, 
+207,,190326.log,21:43:42,Cierre del Servidor,,,,,,,,,0,,
+208,,190326.log,21:43:42,Cierre del Servidor,,,,,,,,,0,,
+209,,190327.log,20:34:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+210,474,190327.log,21:01:09,Cobro de PC,1,20:35:27,21:01:09,0:25:41,4.5,0,4.5,4.5,0,, 
+211,,190327.log,21:01:10,Cierre del Servidor,,,,,,,,,0,,
+212,,190327.log,21:01:10,Cierre del Servidor,,,,,,,,,0,,
+213,,190328.log,16:21:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+214,,190328.log,17:05:18,Impresión,,,,,,,,,0,,id:91 Inicio:17:04:59 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamaño:95002
+215,475,190328.log,17:13:17,Venta de Extra,1,,,,,3,,,0,,1  Varios
+216,475,190328.log,17:13:17,Cobro de PC,1,16:21:21,17:13:17,0:47:18,8,3,11,11,0,, 
+217,,190328.log,18:04:38,Impresión,,,,,,,,,0,,id:92 Inicio:18:03:17 Demora:00:01:21 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:30932992
+218,,190328.log,18:39:47,Impresión,,,,,,,,,0,,id:93 Inicio:18:39:12 Demora:00:00:35 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:115600
+219,,190328.log,18:40:54,Impresión,,,,,,,,,0,,id:94 Inicio:18:40:51 Demora:00:00:03 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:65536
+220,,190328.log,19:01:47,Impresión,,,,,,,,,0,,id:95 Inicio:19:01:27 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1164396
+221,,190328.log,19:12:51,Impresión,,,,,,,,,0,,id:96 Inicio:19:12:29 Demora:00:00:22 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1114112
+222,,190328.log,19:20:59,Impresión,,,,,,,,,0,,id:97 Inicio:19:20:54 Demora:00:00:05 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:458752
+223,476,190328.log,19:32:04,Cobro de PC,9,18:41:29,19:32:04,0:50:30,8.5,0,8.5,8.5,0,, 
+224,,190328.log,19:38:24,Impresión,,,,,,,,,0,,id:98 Inicio:19:37:23 Demora:00:01:01 Estado:Finalizado Doc:Microsoft·Word·-·Documento3 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamaño:14155844
+225,,190328.log,19:49:40,Impresión,,,,,,,,,0,,id:99 Inicio:19:49:17 Demora:00:00:23 Estado:Finalizado Doc:Laboratorios·Exakta·-·Zona·de·Resultados Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:4980736
+226,477,190328.log,19:54:46,Cobro de PC,2,19:08:09,19:54:46,0:46:24,7.5,0,7.5,7.5,0,, 
+227,478,190328.log,19:54:56,Cobro de PC,1,19:08:06,19:54:56,0:46:41,8,0,8,8,0,, 
+228,,190328.log,20:14:27,Cierre del Servidor,,,,,,,,,0,,
+229,,190328.log,20:14:27,Cierre del Servidor,,,,,,,,,0,,
+230,,190329.log,16:07:24,Arranque del Servidor,,,,,,,,,0,, 1.647b
+231,479,190329.log,16:08:07,Cobro de PC,7,16:07:56,16:08:07,0:00:07,3,0,3,3,0,, 
+232,480,190329.log,16:39:03,Cobro de PC,6,16:08:32,16:39:03,0:30:00,5,0,5,5,0,, 
+233,481,190329.log,20:23:41,Cobro de PC,1,19:56:13,20:23:41,0:27:26,4.5,0,4.5,4.5,0,, 
+234,482,190329.log,20:23:45,Cobro de PC,2,19:56:18,20:23:45,0:27:25,4.5,0,4.5,4.5,0,, 
+235,,190329.log,20:23:48,Cierre del Servidor,,,,,,,,,0,,
+236,,190329.log,20:23:48,Cierre del Servidor,,,,,,,,,0,,
+237,,190330.log,11:27:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+238,,190330.log,11:29:49,Cierre del Servidor,,,,,,,,,0,,
+239,,190330.log,14:53:06,Arranque del Servidor,,,,,,,,,0,, 1.647b
+240,,190330.log,15:32:28,Impresión,,,,,,,,,0,,id:103 Inicio:15:29:47 Demora:00:02:41 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:6 Total Hojas:6 Tamaño:1738456
+241,,190330.log,15:32:39,Impresión,,,,,,,,,0,,id:104 Inicio:15:30:23 Demora:00:02:16 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:5 Total Hojas:6 Tamaño:1738456
+242,483,190330.log,15:34:05,Venta de Extra,1,,,,,6,,,0,,1  Varios
+243,483,190330.log,15:34:05,Cobro de PC,1,14:53:16,15:34:05,0:40:13,6.5,6,12.5,12.5,0,, 
+244,484,190330.log,16:23:06,Cobro de PC,9,15:52:57,16:23:06,0:30:00,5,0,5,5,0,, 
+245,485,190330.log,16:52:05,Cobro de PC,9,16:23:07,16:52:05,0:28:54,5,0,5,5,0,, 
+246,486,190330.log,18:02:31,Cobro de PC,6,17:52:16,18:02:31,0:10:13,3,0,3,3,0,, 
+247,487,190330.log,18:14:06,Cobro de PC,8,17:10:29,18:14:06,1:03:35,10.5,0,10.5,10.5,0,, 
+248,488,190330.log,19:00:22,Cobro de PC,8,18:25:06,19:00:22,0:35:12,6,0,6,6,0,, 
+249,489,190330.log,19:00:50,Cobro de PC,6,18:02:33,19:00:50,0:58:03,9.5,0,9.5,9.5,0,, 
+250,,190330.log,19:37:33,Impresión,,,,,,,,,0,,id:105 Inicio:19:36:41 Demora:00:00:52 Estado:Finalizado Doc:CURP_COGA010114HPLRTLA6.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3222208
+251,,190330.log,19:37:43,Impresión,,,,,,,,,0,,id:106 Inicio:19:37:09 Demora:00:00:34 Estado:Finalizado Doc:CURP_COGA010114HPLRTLA6.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3222184
+252,,190330.log,20:11:42,Cierre del Servidor,,,,,,,,,0,,
+253,,190330.log,20:11:42,Cierre del Servidor,,,,,,,,,0,,
+254,,190331.log,14:29:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+255,,190331.log,14:29:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+256,490,190331.log,14:38:22,Cobro de PC,9,14:29:18,14:38:22,0:09:02,3,0,3,3,0,, 
+257,491,190331.log,14:59:00,Cobro de PC,8,14:38:15,14:59:00,0:20:42,3.5,0,3.5,3.5,0,, 
+258,492,190331.log,15:17:21,Cobro de PC,6,14:41:11,15:17:21,0:27:00,4.5,0,4.5,4.5,0,, 
+259,,190331.log,15:17:24,Cierre del Servidor,,,,,,,,,0,,
+260,,190331.log,15:17:24,Cierre del Servidor,,,,,,,,,0,,
+261,,190331.log,15:17:49,Arranque del Servidor,,,,,,,,,0,, 1.647b
+262,493,190331.log,16:35:02,Cobro de PC,9,16:08:30,16:35:02,0:26:29,4.5,0,4.5,4.5,0,, 
+263,494,190331.log,16:35:19,Cobro de PC,8,15:17:55,16:35:19,1:17:22,13,0,13,13,0,, 
+264,,190331.log,18:15:01,Impresión,,,,,,,,,0,,id:107 Inicio:18:14:20 Demora:00:00:41 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamaño:2214764
+265,495,190331.log,18:17:08,Venta de Extra,1,,,,,6,,,0,,1  Varios
+266,495,190331.log,18:17:08,Cobro de PC,1,17:55:22,18:17:08,0:21:05,3.5,6,9.5,9.5,0,, 
+267,,190331.log,18:50:05,Impresión,,,,,,,,,0,,id:108 Inicio:18:49:44 Demora:00:00:21 Estado:Finalizado Doc:Microsoft·Word·-·reporte-5.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:111668
+268,,190331.log,18:50:52,Impresión,,,,,,,,,0,,id:109 Inicio:18:50:40 Demora:00:00:12 Estado:Finalizado Doc:reporte-5.5.xlsx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:589824
+269,,190331.log,18:51:47,Impresión,,,,,,,,,0,,id:110 Inicio:18:51:43 Demora:00:00:04 Estado:Finalizado Doc:bitacoras·jere.xlsx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:40100
+270,,190331.log,18:52:57,Impresión,,,,,,,,,0,,id:111 Inicio:18:52:49 Demora:00:00:08 Estado:Finalizado Doc:bitacoras·jere.xlsx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:27480
+271,,190331.log,18:53:40,Impresión,,,,,,,,,0,,id:112 Inicio:18:53:35 Demora:00:00:05 Estado:Finalizado Doc:BITACORAS·OSCAR.xlsx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:84
+272,,190331.log,18:54:37,Impresión,,,,,,,,,0,,id:113 Inicio:18:54:30 Demora:00:00:07 Estado:Finalizado Doc:BITACORAS·OSCAR.xlsx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:28740
+273,496,190331.log,19:48:57,Venta Directa,,,,,,,,,0,6,6  Impresion B/N
+274,,190331.log,21:35:38,Cierre del Servidor,,,,,,,,,0,,
+275,,190331.log,21:35:38,Cierre del Servidor,,,,,,,,,0,,
+276,,190401.log,17:25:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+277,,190401.log,17:45:07,Impresión,,,,,,,,,0,,id:114 Inicio:17:44:48 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:3 Total Hojas:2 Tamaño:567190
+278,497,190401.log,17:49:41,Venta de Extra,1,,,,,3,,,0,,1  Varios
+279,497,190401.log,17:49:41,Cobro de PC,1,17:25:44,17:49:41,0:23:30,4,3,7,7,0,, 
+280,,190401.log,19:10:40,Impresión,,,,,,,,,0,,id:115 Inicio:19:09:55 Demora:00:00:45 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamaño:604782
+281,,190401.log,19:20:22,Impresión,,,,,,,,,0,,id:116 Inicio:19:20:09 Demora:00:00:13 Estado:Finalizado Doc:Microsoft·Word·-·fotos·de·octavio·paz.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2883584
+282,,190401.log,19:33:42,Impresión,,,,,,,,,0,,id:117 Inicio:19:31:56 Demora:00:01:46 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:5 Total Hojas:3 Tamaño:4021376
+283,498,190401.log,19:34:53,Venta de Extra,1,,,,,16,,,0,,1  Varios
+284,498,190401.log,19:34:53,Cobro de PC,1,18:23:28,19:34:53,1:11:13,12,16,28,28,0,, 
+285,499,190401.log,19:50:08,Venta de Extra,2,,,,,3,,,0,,1  Varios
+286,499,190401.log,19:50:08,Cobro de PC,2,19:00:45,19:50:08,0:49:15,8,3,11,11,0,, 
+287,,190401.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+288,,190401.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+289,,190402.log,16:24:43,Arranque del Servidor,,,,,,,,,0,, 1.647b
+290,500,190402.log,17:05:43,Venta de Extra,9,,,,,0.3,,,0,,1  Varios
+291,500,190402.log,17:05:43,Cobro de PC,9,16:25:05,17:05:43,0:40:37,7,0.3,7.3,7.3,0,, 
+292,501,190402.log,17:13:41,Cobro de PC,6,16:33:19,17:13:41,0:40:00,6.5,0,6.5,6.5,0,, 
+293,,190402.log,18:44:00,Impresión,,,,,,,,,0,,id:118 Inicio:18:42:59 Demora:00:01:01 Estado:Finalizado Doc:Microsoft·Word·-·Lípidos.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:20741176
+294,502,190402.log,18:44:12,Venta de Extra,1,,,,,10,,,0,,1  Varios
+295,502,190402.log,18:44:12,Cobro de PC,1,18:03:20,18:44:12,0:40:01,6.5,10,16.5,16.5,0,, 
+296,,190402.log,18:52:46,Impresión,,,,,,,,,0,,id:119 Inicio:18:52:33 Demora:00:00:13 Estado:Finalizado Doc:Microsoft·Word·-·2-Solicitud-de-servicio-Social-estudiante.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2100236
+297,,190402.log,19:02:53,Impresión,,,,,,,,,0,,id:120 Inicio:19:02:14 Demora:00:00:39 Estado:Finalizado Doc:Microsoft·Word·-·QUE·SON·YOUTUBERS.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:5 Total Hojas:5 Tamaño:29685364
+298,,190402.log,19:04:51,Impresión,,,,,,,,,0,,id:121 Inicio:19:03:15 Demora:00:01:36 Estado:Finalizado Doc:Microsoft·Word·-·QUE·SON·YOUTUBERS.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:5 Total Hojas:5 Tamaño:25666292
+299,503,190402.log,19:05:31,Venta de Extra,9,,,,,10,,,0,,1  Varios
+300,503,190402.log,19:05:31,Cobro de PC,9,18:12:45,19:05:31,0:52:33,9,10,19,19,0,, 
+301,504,190402.log,19:07:17,Cobro de PC,1,18:45:31,19:07:17,0:21:30,3.5,0,3.5,3.5,0,, 
+302,,190402.log,19:17:09,Impresión,,,,,,,,,0,,id:122 Inicio:19:16:30 Demora:00:00:39 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3212840
+303,,190402.log,19:17:23,Impresión,,,,,,,,,0,,id:123 Inicio:19:17:12 Demora:00:00:11 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3212816
+304,,190402.log,19:17:58,Impresión,,,,,,,,,0,,id:124 Inicio:19:17:46 Demora:00:00:12 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:96
+305,,190402.log,19:18:30,Impresión,,,,,,,,,0,,id:125 Inicio:19:18:10 Demora:00:00:20 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:96
+306,,190402.log,19:29:43,Impresión,,,,,,,,,0,,id:126 Inicio:19:29:16 Demora:00:00:27 Estado:Finalizado Doc:comprobanteNSS.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:80
+307,,190402.log,19:29:51,Impresión,,,,,,,,,0,,id:127 Inicio:19:29:39 Demora:00:00:12 Estado:Finalizado Doc:tarjetaNSS.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2328720
+308,,190402.log,20:07:09,Impresión,,,,,,,,,0,,id:128 Inicio:20:06:42 Demora:00:00:27 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:96
+309,,190402.log,20:07:45,Impresión,,,,,,,,,0,,id:129 Inicio:20:07:23 Demora:00:00:22 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:96
+310,,190402.log,20:08:38,Impresión,,,,,,,,,0,,id:130 Inicio:20:07:38 Demora:00:01:00 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3218800
+311,,190402.log,20:09:22,Cierre del Servidor,,,,,,,,,0,,
+312,,190402.log,20:19:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+313,,190402.log,20:20:03,Cierre del Servidor,,,,,,,,,0,,
+314,,190402.log,20:20:03,Cierre del Servidor,,,,,,,,,0,,
+315,,190403.log,17:53:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+316,,190403.log,18:26:49,Impresión,,,,,,,,,0,,id:133 Inicio:18:22:17 Demora:00:04:32 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:14 Total Hojas:12 Tamaño:559527848
+317,505,190403.log,19:01:35,Cobro de PC,8,18:12:32,19:01:35,0:49:01,8,0,8,8,0,, 
+318,506,190403.log,19:17:58,Cobro de PC,1,17:53:08,19:17:58,1:17:40,13,0,13,13,0,, 
+319,507,190403.log,19:19:28,Venta de Extra,3,,,,,0,,,0,,1  Varios
+320,507,190403.log,19:19:28,Cobro de PC,3,18:41:49,19:19:28,0:37:32,6.5,0,6.5,6.5,0,, 
+321,,190403.log,19:21:38,Impresión,,,,,,,,,0,,id:134 Inicio:19:20:32 Demora:00:01:06 Estado:Finalizado Doc:Microsoft·Word·-·1994·premios·de·octavio·paz.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:370928
+322,,190403.log,19:30:24,Impresión,,,,,,,,,0,,id:135 Inicio:19:30:04 Demora:00:00:20 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:1261024
+323,508,190403.log,19:41:24,Cobro de PC,8,19:02:22,19:41:24,0:39:00,6.5,0,6.5,6.5,0,, 
+324,,190403.log,19:56:40,Impresión,,,,,,,,,0,,id:136 Inicio:19:56:07 Demora:00:00:33 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:1261024
+325,,190403.log,20:00:48,Impresión,,,,,,,,,0,,id:137 Inicio:20:00:40 Demora:00:00:08 Estado:Finalizado Doc:Microsoft·Word·-·imprimir.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:89000
+326,,190403.log,20:01:14,Impresión,,,,,,,,,0,,id:138 Inicio:20:00:59 Demora:00:00:15 Estado:Finalizado Doc:Microsoft·Word·-·imprimir12.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:3090828
+327,509,190403.log,20:01:42,Venta de Extra,2,,,,,4,,,0,,1  Varios
+328,509,190403.log,20:01:42,Cobro de PC,2,19:49:10,20:01:42,0:12:14,3,4,7,7,0,, 
+329,,190403.log,21:04:18,Impresión,,,,,,,,,0,,id:139 Inicio:21:02:28 Demora:00:01:50 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:6 Total Hojas:7 Tamaño:10940689
+330,510,190403.log,21:29:57,Venta de Extra,1,,,,,13,,,0,,1  Varios
+331,510,190403.log,21:29:57,Cobro de PC,1,19:45:27,21:29:57,1:43:43,17.5,13,30.5,30.5,0,, 
+332,,190404.log,17:25:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+333,511,190404.log,18:48:14,Cobro de PC,7,18:06:57,18:48:14,0:41:01,7,0,7,7,0,, 
+334,,190404.log,18:58:05,Impresión,,,,,,,,,0,,id:140 Inicio:18:57:49 Demora:00:00:16 Estado:Finalizado Doc:Microsoft·Word·-·conectores.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:6029312
+335,512,190404.log,18:58:16,Cobro de PC,1,18:38:06,18:58:16,0:19:22,3,0,3,3,0,, 
+336,,190404.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+337,,190404.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+338,,190405.log,18:02:21,Arranque del Servidor,,,,,,,,,0,, 1.647b
+339,513,190405.log,19:03:26,Cobro de PC,8,18:03:09,19:03:26,1:00:00,10,0,10,10,0,, 
+340,514,190405.log,19:17:31,Cobro de PC,1,18:56:32,19:17:31,0:20:27,3.5,0,3.5,3.5,0,, 
+341,515,190405.log,19:19:20,Cobro de PC,2,19:01:13,19:19:20,0:18:02,3,0,3,3,0,, 
+342,516,190405.log,19:19:27,Venta de Extra,3,,,,,0,,,0,,1  Varios
+343,516,190405.log,19:19:27,Cobro de PC,3,19:01:12,19:19:27,0:18:12,3,0,3,3,0,, 
+344,,190406.log,14:38:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+345,517,190406.log,15:09:32,Cobro de PC,6,14:39:22,15:09:32,0:30:00,5,0,5,5,0,, 
+346,518,190406.log,15:53:51,Cobro de PC,8,15:08:27,15:53:51,0:45:20,7.5,0,7.5,7.5,0,, 
+347,519,190406.log,19:18:49,Cobro de PC,8,18:23:48,19:18:49,0:54:59,9,0,9,9,0,, 
+348,,190406.log,19:22:06,Cierre del Servidor,,,,,,,,,0,,
+349,,190406.log,19:22:06,Cierre del Servidor,,,,,,,,,0,,
+350,,190407.log,13:02:11,Arranque del Servidor,,,,,,,,,0,, 1.647b
+351,520,190407.log,14:35:17,Cobro de PC,6,13:34:41,14:35:17,1:00:00,10,0,10,10,0,, 
+352,521,190407.log,15:48:32,Cobro de PC,8,14:38:53,15:48:32,0:28:00,4.5,0,4.5,4.5,0,, 
+353,,190407.log,16:06:10,Impresión,,,,,,,,,0,,id:141 Inicio:16:05:25 Demora:00:00:45 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamaño:723178
+354,522,190407.log,16:18:29,Cobro de PC,8,15:48:36,16:18:29,0:29:00,5,0,5,5,0,, 
+355,523,190407.log,17:06:43,Cobro de PC,9,16:18:37,17:06:43,0:47:54,8,0,8,8,0,, 
+356,,190407.log,17:58:44,Impresión,,,,,,,,,0,,id:142 Inicio:17:58:17 Demora:00:00:27 Estado:Finalizado Doc:Microsoft·Word·-·SECANTE.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:2162688
+357,524,190407.log,18:50:38,Venta de Extra,3,,,,,0,,,0,,1  Varios
+358,524,190407.log,18:50:38,Cobro de PC,3,18:37:36,18:50:38,0:13:01,3,0,3,3,0,, 
+359,525,190407.log,19:11:51,Cobro de PC,8,18:37:37,19:11:51,0:34:05,5.5,0,5.5,5.5,0,, 
+360,526,190407.log,19:11:54,Cobro de PC,6,18:37:57,19:11:54,0:31:00,5,0,5,5,0,, 
+361,527,190407.log,19:14:19,Venta de Extra,3,,,,,0,,,0,,1  Varios
+362,527,190407.log,19:14:19,Cobro de PC,3,18:59:42,19:14:19,0:14:20,3,0,3,3,0,, 
+363,,190407.log,20:04:02,Impresión,,,,,,,,,0,,id:143 Inicio:20:03:41 Demora:00:00:21 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:1089340
+364,,190407.log,20:14:49,Impresión,,,,,,,,,0,,id:144 Inicio:20:04:45 Demora:00:10:04 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2162688
+365,528,190407.log,20:16:50,Cobro de PC,1,17:38:15,20:16:50,2:38:34,26.5,0,26.5,26.5,0,, 
+366,529,190407.log,20:16:53,Cobro de PC,2,17:38:15,20:16:53,2:38:37,26.5,0,26.5,26.5,0,, 
+367,,190407.log,22:38:40,Cierre del Servidor,,,,,,,,,0,,
+368,,190407.log,22:38:40,Cierre del Servidor,,,,,,,,,0,,
+369,,190408.log,17:43:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+370,,190408.log,17:59:01,Impresión,,,,,,,,,0,,id:146 Inicio:17:58:10 Demora:00:00:51 Estado:Finalizado Doc:Microsoft·Word·-·La.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamaño:4322488
+371,530,190408.log,17:59:29,Venta de Extra,3,,,,,6,,,0,,1  Varios
+372,530,190408.log,17:59:29,Cobro de PC,3,17:43:47,17:59:29,0:15:28,3,6,9,9,0,, 
+373,,190408.log,20:12:40,Impresión,,,,,,,,,0,,id:147 Inicio:20:10:20 Demora:00:02:20 Estado:Finalizado Doc:Microsoft·Word·-·JClic.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamaño:17992740
+374,531,190408.log,20:13:31,Venta de Extra,1,,,,,12,,,0,,1  Varios
+375,531,190408.log,20:13:31,Cobro de PC,1,19:08:48,20:13:31,1:02:19,10.5,12,22.5,22.5,0,, 
+376,,190408.log,20:33:36,Impresión,,,,,,,,,0,,id:148 Inicio:20:32:58 Demora:00:00:38 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:524288
+377,,190408.log,20:37:10,Impresión,,,,,,,,,0,,id:149 Inicio:20:36:54 Demora:00:00:16 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:131072
+378,,190408.log,20:39:22,Impresión,,,,,,,,,0,,id:150 Inicio:20:39:06 Demora:00:00:16 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:67156
+379,,190408.log,20:39:54,Cierre del Servidor,,,,,,,,,0,,
+380,,190408.log,20:39:54,Cierre del Servidor,,,,,,,,,0,,
+381,,190409.log,16:12:01,Arranque del Servidor,,,,,,,,,0,, 1.647b
+382,532,190409.log,16:44:25,Cobro de PC,6,16:13:16,16:44:25,0:30:00,5,0,5,5,0,, 
+383,533,190409.log,17:15:11,Cobro de PC,6,16:44:27,17:15:11,0:30:00,5,0,5,5,0,, 
+384,,190409.log,18:27:15,Impresión,,,,,,,,,0,,id:151 Inicio:18:26:11 Demora:00:01:04 Estado:Finalizado Doc:Microsoft·Word·-·Documento2 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:21996360
+385,,190409.log,18:36:22,Impresión,,,,,,,,,0,,id:152 Inicio:18:35:38 Demora:00:00:44 Estado:Finalizado Doc:Microsoft·Word·-·derechos.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:8 Total Hojas:8 Tamaño:257612
+386,534,190409.log,18:37:00,Venta de Extra,3,,,,,8,,,0,,1  Varios
+387,534,190409.log,18:37:00,Cobro de PC,3,17:59:19,18:37:00,0:37:32,6.5,8,14.5,14.5,0,, 
+388,,190409.log,18:40:40,Impresión,,,,,,,,,0,,id:153 Inicio:18:40:28 Demora:00:00:12 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2273416
+389,535,190409.log,18:51:06,Cobro de PC,1,17:51:04,18:51:06,1:00:01,10,0,10,10,0,, 
+390,536,190409.log,18:51:08,Cobro de PC,2,17:51:04,18:51:08,1:00:03,10,0,10,10,0,, 
+391,537,190409.log,18:51:53,Cobro de PC,2,18:51:50,18:51:53,0:00:02,3,0,3,3,0,, 
+392,538,190409.log,19:09:59,Cobro de PC,1,18:51:49,19:09:59,0:18:07,3,0,3,3,0,, 
+393,539,190409.log,19:10:02,Cobro de PC,2,18:51:59,19:10:02,0:18:00,3,0,3,3,0,, 
+394,,190409.log,20:07:08,Impresión,,,,,,,,,0,,id:154 Inicio:20:06:15 Demora:00:00:53 Estado:Finalizado Doc:Microsoft·Word·-·Derecho·a·la·igualdad.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:65536
+395,,190409.log,20:13:01,Impresión,,,,,,,,,0,,id:155 Inicio:20:11:59 Demora:00:01:02 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamaño:227732
+396,,190409.log,20:18:42,Cierre del Servidor,,,,,,,,,0,,
+397,,190409.log,20:18:42,Cierre del Servidor,,,,,,,,,0,,
+398,,190410.log,16:19:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+399,,190410.log,17:02:33,Impresión,,,,,,,,,0,,id:156 Inicio:17:02:03 Demora:00:00:30 Estado:Finalizado Doc:Microsoft·Word·-·geometria.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:266448
+400,,190410.log,17:11:27,Impresión,,,,,,,,,0,,id:157 Inicio:17:10:40 Demora:00:00:47 Estado:Finalizado Doc:Microsoft·Word·-·imagen.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:301932
+401,540,190410.log,17:48:52,Venta de Extra,1,,,,,12,,,0,,1  Varios
+402,540,190410.log,17:48:52,Cobro de PC,1,16:19:52,17:48:52,1:27:55,14.5,12,26.5,26.5,0,, 
+403,541,190410.log,18:06:22,Cobro de PC,2,18:01:54,18:06:22,0:04:26,3,0,3,3,0,, 
+404,542,190410.log,18:28:37,Cobro de PC,1,17:58:05,18:28:37,0:30:00,5,0,5,5,0,, 
+405,543,190410.log,18:29:18,Cobro de PC,2,18:06:23,18:29:18,0:22:51,4,0,4,4,0,, 
+406,,190410.log,19:38:17,Impresión,,,,,,,,,0,,id:158 Inicio:19:37:40 Demora:00:00:37 Estado:Finalizado Doc:Microsoft·Word·-·impresion.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:9153672
+407,,190410.log,19:50:49,Impresión,,,,,,,,,0,,id:159 Inicio:19:50:19 Demora:00:00:30 Estado:Finalizado Doc:Microsoft·Word·-·fotos.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:849852
+408,544,190410.log,19:51:05,Venta de Extra,1,,,,,6,,,0,,1  Varios
+409,544,190410.log,19:51:05,Cobro de PC,1,19:20:23,19:51:05,0:30:10,5,6,11,11,0,, 
+410,,190410.log,20:34:59,Impresión,,,,,,,,,0,,id:160 Inicio:20:34:38 Demora:00:00:21 Estado:Finalizado Doc:Cardex·Simple Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamaño:36820
+411,,190410.log,20:35:38,Impresión,,,,,,,,,0,,id:161 Inicio:20:35:23 Demora:00:00:15 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamaño:306247
+412,,190410.log,20:37:55,Impresión,,,,,,,,,0,,id:162 Inicio:20:37:37 Demora:00:00:18 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamaño:961387
+413,545,190410.log,20:44:13,Cobro de PC,1,20:18:45,20:44:13,0:25:22,4,0,4,4,0,, 
+414,,190410.log,20:44:22,Cierre del Servidor,,,,,,,,,0,,
+415,,190410.log,20:44:22,Cierre del Servidor,,,,,,,,,0,,
+416,,190411.log,16:18:53,Arranque del Servidor,,,,,,,,,0,, 1.647b
+417,546,190411.log,17:14:20,Cobro de PC,9,16:25:32,17:14:20,0:48:07,8,0,8,8,0,, 
+418,547,190411.log,17:43:15,Cobro de PC,7,17:16:58,17:43:15,0:26:14,4.5,0,4.5,4.5,0,, 
+419,,190411.log,19:34:01,Impresión,,,,,,,,,0,,id:166 Inicio:19:33:12 Demora:00:00:49 Estado:Finalizado Doc:Microsoft·Word·-·TIPO·DE·EXTENCIONES.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:2388184
+420,,190411.log,19:38:50,Impresión,,,,,,,,,0,,id:167 Inicio:19:38:26 Demora:00:00:24 Estado:Finalizado Doc:Microsoft·Word·-·FREEMID.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamaño:2791184
+421,548,190411.log,19:49:02,Venta de Extra,1,,,,,12,,,0,,1  Varios
+422,548,190411.log,19:49:02,Cobro de PC,1,17:21:10,19:49:02,2:17:44,23,12,35,35,0,, 
+423,,190411.log,20:10:11,Impresión,,,,,,,,,0,,id:168 Inicio:20:09:28 Demora:00:00:43 Estado:Finalizado Doc:Microsoft·PowerPoint·-·infografia.ppt·[Modo·de·compatibilidad] Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:9953412
+424,,190411.log,20:17:50,Impresión,,,,,,,,,0,,id:169 Inicio:20:17:19 Demora:00:00:31 Estado:Finalizado Doc:Microsoft·PowerPoint·-·infografia.ppt·[Modo·de·compatibilidad] Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:10565820
+425,549,190411.log,20:18:53,Cobro de PC,2,17:52:44,20:18:53,2:26:06,24.5,0,24.5,24.5,0,, 
+426,,190411.log,20:30:17,Impresión,,,,,,,,,0,,id:170 Inicio:20:30:03 Demora:00:00:14 Estado:Finalizado Doc:Microsoft·Word·-·2-Solicitud-de-servicio-Social.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:143220
+427,,190411.log,20:31:09,Impresión,,,,,,,,,0,,id:171 Inicio:20:30:43 Demora:00:00:26 Estado:Finalizado Doc:Microsoft·Word·-·Oficio·de·aceptacion.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:2115136
+428,,190411.log,20:36:05,Impresión,,,,,,,,,0,,id:172 Inicio:20:35:35 Demora:00:00:30 Estado:Finalizado Doc:Microsoft·PowerPoint·-·infografia.ppt·[Modo·de·compatibilidad] Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamaño:5774184
+429,,190411.log,20:37:42,Impresión,,,,,,,,,0,,id:173 Inicio:20:37:12 Demora:00:00:30 Estado:Finalizado Doc:Microsoft·PowerPoint·-·infografia.ppt·[Modo·de·compatibilidad] Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:168
+430,,190411.log,20:54:04,Impresión,,,,,,,,,0,,id:174 Inicio:20:52:42 Demora:00:01:22 Estado:Finalizado Doc:Microsoft·Word·-·Documento1 Imp:EPSON·Color Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:5 Total Hojas:5 Tamaño:6473348
+431,550,190411.log,21:05:06,Cobro de PC,1,20:18:50,21:05:06,0:46:13,7.5,0,7.5,7.5,0,, 
+432,,190411.log,21:19:34,Impresión,,,,,,,,,0,,id:175 Inicio:21:19:15 Demora:00:00:19 Estado:Finalizado Doc:Microsoft·Word·-·Lancenter·Marshmello·A.C.··CArta·liberacion·de·Practicas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:125048
+433,,190411.log,21:20:22,Impresión,,,,,,,,,0,,id:176 Inicio:21:20:15 Demora:00:00:07 Estado:Finalizado Doc:Microsoft·Word·-·Lancenter·Marshmello·A.C.··CArta·liberacion·de·Practicas.docx Imp:EPSON·Color Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamaño:200
+434,,190411.log,21:42:58,Cierre del Servidor,,,,,,,,,0,,
+435,,190411.log,21:42:58,Cierre del Servidor,,,,,,,,,0,,
+436,,190412.log,18:40:55,Arranque del Servidor,,,,,,,,,0,, 1.647b
+437,551,190412.log,18:41:14,Cobro de PC,7,18:41:06,18:41:14,0:00:05,3,0,3,3,0,, 
+438,552,190412.log,19:28:41,Cobro de PC,7,18:41:32,19:28:41,0:46:53,8,0,8,8,0,, 
+439,,190412.log,19:37:37,Cierre del Servidor,,,,,,,,,0,,
+440,,190412.log,19:37:37,Cierre del Servidor,,,,,,,,,0,,
+441,,190413.log,15:28:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+442,553,190413.log,16:30:17,Cobro de PC,7,15:35:04,16:30:17,0:54:57,9,0,9,9,0,, 
+443,554,190413.log,16:40:14,Cobro de PC,7,16:30:19,16:40:14,0:09:14,3,0,3,3,0,, 
+444,,190413.log,19:13:45,Cierre del Servidor,,,,,,,,,0,,
+445,,190413.log,19:17:27,Arranque del Servidor,,,,,,,,,0,, 1.647b
+446,555,190413.log,20:08:54,Cobro de PC,6,19:18:34,20:08:54,0:39:36,6.5,0,6.5,6.5,0,, 
+447,,190413.log,20:08:56,Cierre del Servidor,,,,,,,,,0,,
+448,,190413.log,20:15:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+449,556,190413.log,21:08:13,Cobro de PC,1,20:16:05,21:08:13,0:52:02,8.5,0,8.5,8.5,0,, 
+450,,190413.log,21:11:12,Cierre del Servidor,,,,,,,,,0,,
+451,,190413.log,21:11:12,Cierre del Servidor,,,,,,,,,0,,
+452,,190414.log,12:36:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+453,,190414.log,12:42:56,Arranque del Servidor,,,,,,,,,0,, 1.647b

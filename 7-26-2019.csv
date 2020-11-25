@@ -1,0 +1,1638 @@
+Registro,Ticket,Origen,Hora,Descripción,PC,Hora Inicio,Hora Fin,Tiempo Total,Internet,Extras,Cobrar,Cobrado,Com.,Vta Directa,Nota
+1,,190317.log,12:34:24,Arranque del Servidor,,,,,,,,,0,, 1.647b
+2,,190317.log,13:37:47,Impresión,,,,,,,,,0,,id:49 Inicio:13:37:43 Demora:00:00:04 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:5424
+3,397,190317.log,14:14:00,Cobro de PC,1,13:18:51,14:14:00,0:54:40,9.11,0,9.11,9.11,0,, 
+4,398,190317.log,14:17:25,Cobro de PC,1,14:17:03,14:17:25,0:00:01,3,0,3,0,0,, Ejemplo
+5,399,190317.log,14:18:36,Venta de Extra,8,,,,,0,,,0,,1  Varios
+6,399,190317.log,14:18:36,Cobro de PC,8,13:27:59,14:18:36,0:50:15,8,0,8,8,0,, Ejemplo
+7,400,190317.log,14:20:45,Cobro de PC,2,14:20:32,14:20:45,0:00:01,3,0,3,3,0,, Ejemplo
+8,401,190317.log,14:32:25,Venta de Extra,8,,,,,7,,,0,,1  Varios
+9,401,190317.log,14:32:25,Cobro de PC,8,14:18:39,14:32:25,0:13:30,3,7,10,10,0,, 
+10,402,190317.log,15:24:10,Venta de Extra,2,,,,,10,,,0,,2  Impresion color grande
+11,402,190317.log,15:24:10,Cobro de PC,2,15:23:45,15:24:10,0:00:14,3,10,13,13,0,, Ejemplo
+12,403,190317.log,15:58:43,Cobro de PC,9,15:28:13,15:58:43,0:30:14,5,0,5,5,0,, 
+13,404,190317.log,16:13:21,Venta de Extra,8,,,,,1.5,,,0,,1  Varios
+14,404,190317.log,16:13:21,Cobro de PC,8,15:22:55,16:13:21,0:50:17,8.5,1.5,10,10,0,, 
+15,405,190317.log,16:29:06,Cobro de PC,9,15:58:54,16:29:06,0:30:10,5,0,5,5,0,, 
+16,406,190317.log,16:44:06,Cobro de PC,8,16:13:33,16:44:06,0:30:05,5,0,5,5,0,, 
+17,407,190317.log,16:49:36,Cobro de PC,9,16:49:14,16:49:36,0:00:01,3,0,3,3,0,, Me equivoque
+18,408,190317.log,16:49:48,Cobro de PC,8,16:44:09,16:49:48,0:05:31,3,0,3,3,0,, Ejemplo
+19,,190317.log,17:17:29,Impresión,,,,,,,,,0,,id:50 Inicio:17:17:09 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:34078720
+20,,190317.log,17:18:32,Impresión,,,,,,,,,0,,id:51 Inicio:17:17:50 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:29942860
+21,409,190317.log,17:24:59,Venta Directa,,,,,,,,,0,32,32  Impresion B/N
+22,410,190317.log,18:14:07,Cobro de PC,8,17:36:49,18:14:07,0:37:16,6,0,6,6,0,, 
+23,411,190317.log,19:17:34,Cobro de PC,9,18:14:12,19:17:34,1:03:09,10.5,0,10.5,10.5,0,, 
+24,412,190317.log,19:17:52,Cobro de PC,4,19:17:43,19:17:52,0:00:01,3,0,3,3,0,, Me equivoque
+25,413,190317.log,19:22:10,Venta de Extra,1,,,,,5,,,0,,5  Impresion B/N
+26,413,190317.log,19:22:10,Cobro de PC,1,19:21:22,19:22:10,0:00:03,3,5,8,8,0,, Ejemplo
+27,414,190317.log,19:33:52,Cobro de PC,8,18:57:46,19:33:52,0:35:42,6,0,6,6,0,, 
+28,415,190317.log,20:04:53,Cobro de PC,1,19:50:49,20:04:53,0:13:22,3,0,3,3,0,, 
+29,,190317.log,20:33:15,Cierre del Servidor,,,,,,,,,0,,
+30,,190317.log,20:33:15,Cierre del Servidor,,,,,,,,,0,,
+31,,190318.log,18:53:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+32,,190318.log,18:54:22,Impresión,,,,,,,,,0,,id:4 Inicio:18:54:03 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:131072
+33,,190318.log,18:55:33,Impresión,,,,,,,,,0,,id:5 Inicio:18:55:26 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:204732
+34,,190318.log,18:56:05,Impresión,,,,,,,,,0,,id:6 Inicio:18:55:47 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1638400
+35,,190318.log,18:59:28,Impresión,,,,,,,,,0,,id:7 Inicio:18:59:01 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:13665296
+36,,190318.log,18:59:49,Impresión,,,,,,,,,0,,id:8 Inicio:18:59:31 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2162688
+37,,190318.log,19:09:52,Impresión,,,,,,,,,0,,id:9 Inicio:19:09:26 Demora:00:00:26 Estado:Finalizado Doc:MicrosoftkWordk-kexamen.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:851968
+38,,190318.log,19:10:32,Impresión,,,,,,,,,0,,id:10 Inicio:19:10:16 Demora:00:00:16 Estado:Finalizado Doc:MicrosoftkWordk-kexamen.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:270440
+39,,190318.log,19:11:46,Impresión,,,,,,,,,0,,id:11 Inicio:19:11:35 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:59948
+40,,190318.log,19:13:47,Impresión,,,,,,,,,0,,id:12 Inicio:19:13:33 Demora:00:00:14 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:196608
+41,416,190318.log,19:14:00,Venta de Extra,1,,,,,7,,,0,,1  Varios
+42,416,190318.log,19:14:00,Cobro de PC,1,18:54:06,19:14:00,0:17:54,3,7,10,10,0,, 
+43,,190318.log,19:17:22,Impresión,,,,,,,,,0,,id:13 Inicio:19:16:19 Demora:00:01:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamako:33944660
+44,,190318.log,19:19:17,Impresión,,,,,,,,,0,,id:14 Inicio:19:19:03 Demora:00:00:14 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3406216
+45,,190318.log,19:42:53,Impresión,,,,,,,,,0,,id:15 Inicio:19:41:49 Demora:00:01:04 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:196608
+46,,190318.log,19:44:13,Impresión,,,,,,,,,0,,id:16 Inicio:19:43:23 Demora:00:00:50 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:196608
+47,,190318.log,19:45:55,Impresión,,,,,,,,,0,,id:17 Inicio:19:45:28 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:196608
+48,,190318.log,19:47:24,Impresión,,,,,,,,,0,,id:18 Inicio:19:46:39 Demora:00:00:45 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:141984
+49,,190318.log,19:56:42,Impresión,,,,,,,,,0,,id:19 Inicio:19:56:27 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kIMAGENES.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3531584
+50,,190318.log,19:58:12,Impresión,,,,,,,,,0,,id:20 Inicio:19:57:43 Demora:00:00:29 Estado:Finalizado Doc:CUARTO-A-Primer-examen-parcial.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:1114112
+51,,190318.log,19:58:51,Impresión,,,,,,,,,0,,id:21 Inicio:19:58:24 Demora:00:00:27 Estado:Finalizado Doc:CUARTO-A-Primer-examen-parcial.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:1176736
+52,,190318.log,19:59:22,Impresión,,,,,,,,,0,,id:22 Inicio:19:59:07 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kRubricakdekpracticas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:5486100
+53,,190318.log,20:09:15,Impresión,,,,,,,,,0,,id:23 Inicio:20:08:42 Demora:00:00:33 Estado:Finalizado Doc:MicrosoftkWordk-kelkviejokxd.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:17591532
+54,,190318.log,20:20:16,Impresión,,,,,,,,,0,,id:24 Inicio:20:19:50 Demora:00:00:26 Estado:Finalizado Doc:MicrosoftkWordk-kbenitokjuares.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:840900
+55,,190318.log,20:20:59,Impresión,,,,,,,,,0,,id:25 Inicio:20:20:42 Demora:00:00:17 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:9748960
+56,417,190318.log,20:21:10,Venta de Extra,1,,,,,3,,,0,,1  Varios
+57,417,190318.log,20:21:10,Cobro de PC,1,19:39:31,20:21:10,0:41:19,7,3,10,10,0,, 
+58,418,190318.log,20:21:32,Venta de Extra,9,,,,,1,,,0,,1  Varios
+59,418,190318.log,20:21:32,Cobro de PC,9,20:01:14,20:21:32,0:20:04,3.5,1,4.5,4.5,0,, 
+60,419,190318.log,20:50:17,Cobro de PC,4,20:20:15,20:50:17,0:30:00,5,0,5,5,0,, 
+61,,190318.log,20:58:58,Impresión,,,,,,,,,0,,id:26 Inicio:20:58:25 Demora:00:00:33 Estado:Finalizado Doc:Indexk-kInicio.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:739720
+62,420,190318.log,21:21:05,Cobro de PC,1,20:28:28,21:21:05,0:52:36,9,0,9,9,0,, 
+63,,190318.log,21:21:07,Cierre del Servidor,,,,,,,,,0,,
+64,,190318.log,21:21:07,Cierre del Servidor,,,,,,,,,0,,
+65,,190319.log,16:27:37,Arranque del Servidor,,,,,,,,,0,, 1.647b
+66,421,190319.log,17:00:50,Cobro de PC,9,16:27:55,17:00:50,0:30:00,5,0,5,5,0,, 
+67,,190319.log,17:09:50,Impresión,,,,,,,,,0,,id:29 Inicio:17:09:28 Demora:00:00:22 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:92772
+68,,190319.log,17:27:40,Impresión,,,,,,,,,0,,id:30 Inicio:17:26:17 Demora:00:01:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:275548
+69,422,190319.log,17:33:44,Cobro de PC,9,17:00:51,17:33:44,0:30:00,5,0,5,5,0,, 
+70,423,190319.log,17:57:57,Cobro de PC,8,17:04:13,17:57:57,0:53:25,9,0,9,9,0,, 
+71,424,190319.log,18:28:44,Cobro de PC,9,17:33:48,18:28:44,0:30:00,5,0,5,5,0,, 
+72,,190319.log,18:33:46,Impresión,,,,,,,,,0,,id:31 Inicio:18:33:07 Demora:00:00:39 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:61788
+73,425,190319.log,19:00:27,Cobro de PC,9,18:28:55,19:00:27,0:30:00,5,0,5,5,0,, 
+74,426,190319.log,19:19:34,Cobro de PC,1,18:49:22,19:19:34,0:30:00,5,0,5,5,0,, 
+75,,190319.log,19:23:01,Impresión,,,,,,,,,0,,id:32 Inicio:19:22:22 Demora:00:00:39 Estado:Finalizado Doc:MicrosoftkWordk-kkaren.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4306584
+76,,190319.log,20:15:49,Impresión,,,,,,,,,0,,id:33 Inicio:20:09:01 Demora:00:06:48 Estado:Finalizado Doc:MANUALkECOLOGIAk.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:25 Total Hojas:25 Tamako:39173420
+77,,190319.log,20:34:34,Impresión,,,,,,,,,0,,id:34 Inicio:20:34:03 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:131072
+78,,190319.log,20:36:26,Impresión,,,,,,,,,0,,id:35 Inicio:20:36:18 Demora:00:00:08 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:7436
+79,,190319.log,20:38:04,Impresión,,,,,,,,,0,,id:36 Inicio:20:37:57 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+80,,190319.log,20:58:18,Impresión,,,,,,,,,0,,id:37 Inicio:20:56:34 Demora:00:01:44 Estado:Finalizado Doc:MicrosoftkWordk-kportadak2.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:983040
+81,,190319.log,20:58:56,Impresión,,,,,,,,,0,,id:38 Inicio:20:58:12 Demora:00:00:44 Estado:Finalizado Doc:MicrosoftkWordk-kportadak2.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:501228
+82,,190319.log,21:00:04,Impresión,,,,,,,,,0,,id:39 Inicio:20:59:59 Demora:00:00:05 Estado:Finalizado Doc:MicrosoftkWordk-kportadak2.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:501228
+83,,190319.log,21:02:00,Impresión,,,,,,,,,0,,id:40 Inicio:21:01:40 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kportadak2.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:983040
+84,,190319.log,21:03:41,Impresión,,,,,,,,,0,,id:41 Inicio:21:03:21 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kportadak2.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:454112
+85,,190319.log,21:04:37,Impresión,,,,,,,,,0,,id:42 Inicio:21:04:15 Demora:00:00:22 Estado:Finalizado Doc:MicrosoftkWordk-kportadak1.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+86,,190319.log,21:05:24,Impresión,,,,,,,,,0,,id:43 Inicio:21:04:59 Demora:00:00:25 Estado:Finalizado Doc:MicrosoftkWordk-kportadak1.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+87,,190319.log,21:22:49,Impresión,,,,,,,,,0,,id:44 Inicio:21:21:32 Demora:00:01:17 Estado:Finalizado Doc:Tablaskcruzadaskdekrespuestaskmkltiples Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:3720248
+88,427,190319.log,21:41:36,Cobro de PC,2,20:39:56,21:41:36,0:58:12,9.5,0,9.5,9.5,0,, 
+89,,190319.log,21:45:47,Impresión,,,,,,,,,0,,id:45 Inicio:21:44:27 Demora:00:01:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:1154600
+90,,190319.log,21:51:04,Impresión,,,,,,,,,0,,id:46 Inicio:21:50:44 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1179648
+91,,190319.log,21:52:00,Cierre del Servidor,,,,,,,,,0,,
+92,,190319.log,21:54:32,Arranque del Servidor,,,,,,,,,0,, 1.647b
+93,,190319.log,22:08:02,Cierre del Servidor,,,,,,,,,0,,
+94,,190319.log,22:08:02,Cierre del Servidor,,,,,,,,,0,,
+95,,190320.log,17:11:45,Arranque del Servidor,,,,,,,,,0,, 1.647b
+96,,190320.log,17:32:09,Impresión,,,,,,,,,0,,id:48 Inicio:17:31:27 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kCaracterksticaskdeklaskcklulaskprocarikticas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:6202992
+97,428,190320.log,17:49:36,Cobro de PC,2,17:27:11,17:49:36,0:22:20,3.5,0,3.5,3.5,0,, 
+98,,190320.log,17:50:15,Impresión,,,,,,,,,0,,id:49 Inicio:17:49:45 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kkarenkflores.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1310720
+99,429,190320.log,17:50:36,Venta de Extra,1,,,,,5,,,0,,1  Varios
+100,429,190320.log,17:50:36,Cobro de PC,1,17:11:54,17:50:36,0:38:40,6.5,5,11.5,11.5,0,, 
+101,430,190320.log,19:44:37,Cobro de PC,9,19:44:21,19:44:37,0:00:14,3,0,3,3,0,, 
+102,,190320.log,19:46:02,Impresión,,,,,,,,,0,,id:50 Inicio:19:45:31 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkWordk-ktrabajokdekmoleculaskchikitokmedallas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:7798784
+103,,190320.log,19:46:35,Impresión,,,,,,,,,0,,id:51 Inicio:19:46:16 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-ktrabajokdekmoleculaskchikitokmedallas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2509040
+104,,190320.log,20:19:47,Cierre del Servidor,,,,,,,,,0,,
+105,,190320.log,20:20:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+106,,190320.log,20:20:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+107,,190320.log,20:21:02,Cierre del Servidor,,,,,,,,,0,,
+108,,190320.log,20:22:39,Cierre del Servidor,,,,,,,,,0,,
+109,,190320.log,20:22:39,Cierre del Servidor,,,,,,,,,0,,
+110,,190321.log,16:53:41,Arranque del Servidor,,,,,,,,,0,, 1.647b
+111,,190321.log,17:19:30,Impresión,,,,,,,,,0,,id:53 Inicio:17:19:11 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-khistoria.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4036
+112,431,190321.log,17:21:42,Venta de Extra,1,,,,,0,,,0,,1  Varios
+113,431,190321.log,17:21:42,Cobro de PC,1,16:53:45,17:21:42,0:27:50,4.5,0,4.5,4.5,0,, 
+114,432,190321.log,19:08:36,Cobro de PC,8,18:38:20,19:08:36,0:30:00,5,0,5,5,0,, 
+115,433,190321.log,19:38:54,Cobro de PC,8,19:08:38,19:38:54,0:30:00,5,0,5,5,0,, 
+116,434,190321.log,19:51:58,Cobro de PC,8,19:38:59,19:51:58,0:12:49,3,0,3,3,0,, 
+117,,190321.log,20:34:23,Impresión,,,,,,,,,0,,id:54 Inicio:20:34:00 Demora:00:00:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:65536
+118,,190321.log,20:35:51,Impresión,,,,,,,,,0,,id:55 Inicio:20:35:46 Demora:00:00:05 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+119,,190321.log,20:36:46,Impresión,,,,,,,,,0,,id:56 Inicio:20:36:32 Demora:00:00:14 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+120,,190321.log,20:37:26,Impresión,,,,,,,,,0,,id:57 Inicio:20:37:13 Demora:00:00:13 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:37380
+121,435,190321.log,21:08:56,Venta de Extra,1,,,,,0,,,0,,1  Varios
+122,435,190321.log,21:08:56,Cobro de PC,1,19:16:25,21:08:56,1:52:27,18.5,0,18.5,18.5,0,, 
+123,436,190321.log,21:09:02,Cobro de PC,2,20:24:45,21:09:02,0:44:12,7.5,0,7.5,7.5,0,, 
+124,,190321.log,21:09:04,Cierre del Servidor,,,,,,,,,0,,
+125,,190321.log,21:09:04,Cierre del Servidor,,,,,,,,,0,,
+126,,190322.log,16:34:22,Arranque del Servidor,,,,,,,,,0,, 1.647b
+127,,190322.log,17:28:20,Impresión,,,,,,,,,0,,id:58 Inicio:17:28:10 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-khistorieta.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1235296
+128,437,190322.log,17:29:47,Venta de Extra,1,,,,,0,,,0,,1  Varios
+129,437,190322.log,17:29:47,Venta de Extra,1,,,,,1,,,0,,1  Impresion B/N
+130,437,190322.log,17:29:47,Cobro de PC,1,16:34:27,17:29:47,0:54:45,9,1,10,10,0,, 
+131,438,190322.log,18:59:23,Venta de Extra,3,,,,,0,,,0,,1  Varios
+132,438,190322.log,18:59:23,Cobro de PC,3,18:20:52,18:59:23,0:37:29,6,0,6,6,0,, 
+133,,190322.log,19:03:29,Impresión,,,,,,,,,0,,id:59 Inicio:18:58:05 Demora:00:05:24 Estado:Finalizado Doc:MicrosoftkWordk-k1234.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:20 Total Hojas:20 Tamako:3908156
+134,,190322.log,19:07:39,Impresión,,,,,,,,,0,,id:60 Inicio:19:07:21 Demora:00:00:18 Estado:Finalizado Doc:246141201548k(1).pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:16588580
+135,439,190322.log,19:19:35,Cobro de PC,2,17:55:46,19:19:35,1:23:21,14,0,14,14,0,, 
+136,440,190322.log,19:39:30,Cobro de PC,9,19:39:08,19:39:30,0:00:19,3,0,3,3,0,, 
+137,441,190322.log,19:41:20,Cobro de PC,1,17:38:13,19:41:20,2:03:00,20.5,0,20.5,20.5,0,, 
+138,442,190322.log,19:41:26,Cobro de PC,2,19:19:37,19:41:26,0:21:45,3.5,0,3.5,3.5,0,, 
+139,443,190322.log,19:41:35,Venta de Extra,3,,,,,0,,,0,,1  Varios
+140,443,190322.log,19:41:35,Cobro de PC,3,19:34:04,19:41:35,0:07:29,3,0,3,3,0,, 
+141,444,190322.log,20:10:59,Cobro de PC,1,19:41:54,20:10:59,0:29:01,5,0,5,5,0,, 
+142,445,190322.log,20:11:06,Cobro de PC,2,19:47:54,20:11:06,0:23:07,4,0,4,4,0,, 
+143,446,190322.log,20:21:46,Cobro de PC,9,19:39:37,20:21:46,0:42:03,7,0,7,7,0,, 
+144,,190322.log,20:28:40,Cierre del Servidor,,,,,,,,,0,,
+145,,190322.log,20:28:40,Cierre del Servidor,,,,,,,,,0,,
+146,,190323.log,12:35:44,Arranque del Servidor,,,,,,,,,0,, 1.647b
+147,447,190323.log,14:35:11,Cobro de PC,1,14:00:46,14:35:11,0:34:22,5.5,0,5.5,5.5,0,, 
+148,,190323.log,14:52:19,Cierre del Servidor,,,,,,,,,0,,
+149,,190323.log,15:50:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+150,448,190323.log,16:52:52,Venta de Extra,8,,,,,0.3,,,0,,1  Varios
+151,448,190323.log,16:52:52,Cobro de PC,8,15:52:32,16:52:52,1:00:18,10,0.3,10.3,10.3,0,, 
+152,449,190323.log,17:23:08,Cobro de PC,8,16:53:03,17:23:08,0:30:00,5,0,5,5,0,, 
+153,450,190323.log,18:12:35,Cobro de PC,1,17:27:17,18:12:35,0:45:11,7.5,0,7.5,7.5,0,, 
+154,451,190323.log,18:27:32,Cobro de PC,2,17:27:24,18:27:32,1:00:00,10,0,10,10,0,, 
+155,452,190323.log,18:59:20,Cobro de PC,6,18:17:13,18:59:20,0:42:04,7,0,7,7,0,, 
+156,453,190323.log,19:01:27,Cobro de PC,6,19:01:22,19:01:27,0:00:02,3,0,3,3,0,, 
+157,454,190323.log,19:01:32,Cobro de PC,7,19:01:15,19:01:32,0:00:14,3,0,3,3,0,, 
+158,455,190323.log,19:09:34,Cobro de PC,6,19:01:47,19:09:34,0:07:44,3,0,3,3,0,, 
+159,456,190323.log,19:09:36,Cobro de PC,9,18:52:01,19:09:36,0:17:34,3,0,3,3,0,, 
+160,457,190323.log,19:40:16,Cobro de PC,6,19:36:00,19:40:16,0:04:13,3,0,3,3,0,, 
+161,458,190323.log,20:10:31,Venta de Extra,3,,,,,0,,,0,,1  Varios
+162,458,190323.log,20:10:31,Cobro de PC,3,19:40:26,20:10:31,0:30:00,5,0,5,5,0,, 
+163,459,190323.log,20:10:34,Cobro de PC,8,19:35:47,20:10:34,0:30:00,5,0,5,5,0,, 
+164,,190323.log,20:22:44,Cierre del Servidor,,,,,,,,,0,,
+165,,190323.log,20:22:44,Cierre del Servidor,,,,,,,,,0,,
+166,,190324.log,12:43:25,Arranque del Servidor,,,,,,,,,0,, 1.647b
+167,460,190324.log,13:31:37,Cobro de PC,1,12:49:52,13:31:37,0:41:26,7,0,7,7,0,, 
+168,,190324.log,13:59:56,Impresión,,,,,,,,,0,,id:61 Inicio:13:59:03 Demora:00:00:53 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:2490368
+169,,190324.log,14:03:33,Impresión,,,,,,,,,0,,id:62 Inicio:14:03:27 Demora:00:00:06 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:52832
+170,,190324.log,14:10:58,Impresión,,,,,,,,,0,,id:63 Inicio:14:10:33 Demora:00:00:25 Estado:Finalizado Doc:246060501890.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:36438016
+171,,190324.log,14:26:32,Impresión,,,,,,,,,0,,id:64 Inicio:14:24:11 Demora:00:02:21 Estado:Finalizado Doc:MicrosoftkWordk-kgaceta1.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamako:8096800
+172,461,190324.log,14:59:13,Cobro de PC,8,14:25:16,14:59:13,0:26:00,4.5,0,4.5,4.5,0,, 
+173,462,190324.log,15:42:47,Cobro de PC,8,14:59:24,15:42:47,0:36:00,6,0,6,6,0,, 
+174,463,190324.log,16:16:17,Cobro de PC,8,15:42:56,16:16:17,0:30:00,5,0,5,5,0,, 
+175,464,190324.log,16:24:18,Cobro de PC,9,14:59:18,16:24:18,1:24:56,14,0,14,14,0,, 
+176,465,190324.log,16:46:26,Cobro de PC,8,16:16:20,16:46:26,0:30:00,5,0,5,5,0,, 
+177,466,190324.log,18:10:17,Cobro de PC,8,17:39:56,18:10:17,0:30:00,5,0,5,5,0,, 
+178,467,190324.log,18:21:36,Cobro de PC,6,16:45:45,18:21:36,1:30:00,15,0,15,15,0,, 
+179,,190324.log,18:48:52,Impresión,,,,,,,,,0,,id:65 Inicio:18:48:50 Demora:00:00:02 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:0 Total Hojas:1 Tamako:120
+180,,190324.log,18:53:34,Impresión,,,,,,,,,0,,id:66 Inicio:18:53:32 Demora:00:00:02 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamako:120
+181,,190324.log,18:54:56,Impresión,,,,,,,,,0,,id:67 Inicio:18:54:54 Demora:00:00:02 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:120
+182,,190324.log,20:34:01,Impresión,,,,,,,,,0,,id:68 Inicio:20:33:58 Demora:00:00:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:0 Total Hojas:1 Tamako:120
+183,,190324.log,20:38:25,Cierre del Servidor,,,,,,,,,0,,
+184,,190324.log,20:38:25,Cierre del Servidor,,,,,,,,,0,,
+185,,190325.log,20:03:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+186,,190325.log,20:03:57,Impresión,,,,,,,,,0,,id:81 Inicio:20:03:43 Demora:00:00:14 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:77796
+187,,190325.log,20:07:27,Impresión,,,,,,,,,0,,id:82 Inicio:20:07:08 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:55956
+188,468,190325.log,20:46:45,Cobro de PC,1,20:03:53,20:46:45,0:42:50,7,0,7,7,0,, 
+189,,190325.log,20:46:46,Cierre del Servidor,,,,,,,,,0,,
+190,,190325.log,20:46:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+191,,190325.log,20:47:09,Cierre del Servidor,,,,,,,,,0,,
+192,,190325.log,20:47:09,Cierre del Servidor,,,,,,,,,0,,
+193,,190326.log,16:44:20,Arranque del Servidor,,,,,,,,,0,, 1.647b
+194,469,190326.log,17:16:04,Cobro de PC,9,16:44:27,17:16:04,0:30:00,5,0,5,5,0,, 
+195,,190326.log,17:29:05,Impresión,,,,,,,,,0,,id:83 Inicio:17:28:26 Demora:00:00:39 Estado:Finalizado Doc:CURP_HECR870729MPLRRS00.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3236412
+196,,190326.log,17:29:36,Impresión,,,,,,,,,0,,id:84 Inicio:17:29:25 Demora:00:00:11 Estado:Finalizado Doc:CURP_HECR870729MPLRRS00.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1220156
+197,470,190326.log,17:35:42,Cobro de PC,9,17:16:05,17:35:42,0:19:21,3,0,3,3,0,, 
+198,,190326.log,19:48:33,Impresión,,,,,,,,,0,,id:85 Inicio:19:48:12 Demora:00:00:21 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:589824
+199,,190326.log,19:59:58,Impresión,,,,,,,,,0,,id:86 Inicio:19:58:48 Demora:00:01:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamako:102722
+200,471,190326.log,20:01:03,Cobro de PC,1,19:32:10,20:01:03,0:28:47,5,0,5,5,0,, 
+201,,190326.log,20:55:42,Impresión,,,,,,,,,0,,id:87 Inicio:20:55:05 Demora:00:00:37 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamako:3425474
+202,,190326.log,20:56:28,Impresión,,,,,,,,,0,,id:88 Inicio:20:55:31 Demora:00:00:57 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamako:48998
+203,,190326.log,21:13:09,Impresión,,,,,,,,,0,,id:89 Inicio:21:10:24 Demora:00:02:45 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:7 Total Hojas:7 Tamako:6936369
+204,472,190326.log,21:14:10,Venta de Extra,1,,,,,20,,,0,,1  Varios
+205,472,190326.log,21:14:10,Cobro de PC,1,20:25:37,21:14:10,0:48:30,8,20,28,28,0,, 
+206,473,190326.log,21:43:40,Cobro de PC,2,21:05:56,21:43:40,0:37:41,6.5,0,6.5,6.5,0,, 
+207,,190326.log,21:43:42,Cierre del Servidor,,,,,,,,,0,,
+208,,190326.log,21:43:42,Cierre del Servidor,,,,,,,,,0,,
+209,,190327.log,20:34:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+210,474,190327.log,21:01:09,Cobro de PC,1,20:35:27,21:01:09,0:25:41,4.5,0,4.5,4.5,0,, 
+211,,190327.log,21:01:10,Cierre del Servidor,,,,,,,,,0,,
+212,,190327.log,21:01:10,Cierre del Servidor,,,,,,,,,0,,
+213,,190328.log,16:21:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+214,,190328.log,17:05:18,Impresión,,,,,,,,,0,,id:91 Inicio:17:04:59 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:95002
+215,475,190328.log,17:13:17,Venta de Extra,1,,,,,3,,,0,,1  Varios
+216,475,190328.log,17:13:17,Cobro de PC,1,16:21:21,17:13:17,0:47:18,8,3,11,11,0,, 
+217,,190328.log,18:04:38,Impresión,,,,,,,,,0,,id:92 Inicio:18:03:17 Demora:00:01:21 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:30932992
+218,,190328.log,18:39:47,Impresión,,,,,,,,,0,,id:93 Inicio:18:39:12 Demora:00:00:35 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:115600
+219,,190328.log,18:40:54,Impresión,,,,,,,,,0,,id:94 Inicio:18:40:51 Demora:00:00:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+220,,190328.log,19:01:47,Impresión,,,,,,,,,0,,id:95 Inicio:19:01:27 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1164396
+221,,190328.log,19:12:51,Impresión,,,,,,,,,0,,id:96 Inicio:19:12:29 Demora:00:00:22 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1114112
+222,,190328.log,19:20:59,Impresión,,,,,,,,,0,,id:97 Inicio:19:20:54 Demora:00:00:05 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:458752
+223,476,190328.log,19:32:04,Cobro de PC,9,18:41:29,19:32:04,0:50:30,8.5,0,8.5,8.5,0,, 
+224,,190328.log,19:38:24,Impresión,,,,,,,,,0,,id:98 Inicio:19:37:23 Demora:00:01:01 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:14155844
+225,,190328.log,19:49:40,Impresión,,,,,,,,,0,,id:99 Inicio:19:49:17 Demora:00:00:23 Estado:Finalizado Doc:LaboratorioskExaktak-kZonakdekResultados Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:4980736
+226,477,190328.log,19:54:46,Cobro de PC,2,19:08:09,19:54:46,0:46:24,7.5,0,7.5,7.5,0,, 
+227,478,190328.log,19:54:56,Cobro de PC,1,19:08:06,19:54:56,0:46:41,8,0,8,8,0,, 
+228,,190328.log,20:14:27,Cierre del Servidor,,,,,,,,,0,,
+229,,190328.log,20:14:27,Cierre del Servidor,,,,,,,,,0,,
+230,,190329.log,16:07:24,Arranque del Servidor,,,,,,,,,0,, 1.647b
+231,479,190329.log,16:08:07,Cobro de PC,7,16:07:56,16:08:07,0:00:07,3,0,3,3,0,, 
+232,480,190329.log,16:39:03,Cobro de PC,6,16:08:32,16:39:03,0:30:00,5,0,5,5,0,, 
+233,481,190329.log,20:23:41,Cobro de PC,1,19:56:13,20:23:41,0:27:26,4.5,0,4.5,4.5,0,, 
+234,482,190329.log,20:23:45,Cobro de PC,2,19:56:18,20:23:45,0:27:25,4.5,0,4.5,4.5,0,, 
+235,,190329.log,20:23:48,Cierre del Servidor,,,,,,,,,0,,
+236,,190329.log,20:23:48,Cierre del Servidor,,,,,,,,,0,,
+237,,190330.log,11:27:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+238,,190330.log,11:29:49,Cierre del Servidor,,,,,,,,,0,,
+239,,190330.log,14:53:06,Arranque del Servidor,,,,,,,,,0,, 1.647b
+240,,190330.log,15:32:28,Impresión,,,,,,,,,0,,id:103 Inicio:15:29:47 Demora:00:02:41 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:6 Total Hojas:6 Tamako:1738456
+241,,190330.log,15:32:39,Impresión,,,,,,,,,0,,id:104 Inicio:15:30:23 Demora:00:02:16 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:5 Total Hojas:6 Tamako:1738456
+242,483,190330.log,15:34:05,Venta de Extra,1,,,,,6,,,0,,1  Varios
+243,483,190330.log,15:34:05,Cobro de PC,1,14:53:16,15:34:05,0:40:13,6.5,6,12.5,12.5,0,, 
+244,484,190330.log,16:23:06,Cobro de PC,9,15:52:57,16:23:06,0:30:00,5,0,5,5,0,, 
+245,485,190330.log,16:52:05,Cobro de PC,9,16:23:07,16:52:05,0:28:54,5,0,5,5,0,, 
+246,486,190330.log,18:02:31,Cobro de PC,6,17:52:16,18:02:31,0:10:13,3,0,3,3,0,, 
+247,487,190330.log,18:14:06,Cobro de PC,8,17:10:29,18:14:06,1:03:35,10.5,0,10.5,10.5,0,, 
+248,488,190330.log,19:00:22,Cobro de PC,8,18:25:06,19:00:22,0:35:12,6,0,6,6,0,, 
+249,489,190330.log,19:00:50,Cobro de PC,6,18:02:33,19:00:50,0:58:03,9.5,0,9.5,9.5,0,, 
+250,,190330.log,19:37:33,Impresión,,,,,,,,,0,,id:105 Inicio:19:36:41 Demora:00:00:52 Estado:Finalizado Doc:CURP_COGA010114HPLRTLA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3222208
+251,,190330.log,19:37:43,Impresión,,,,,,,,,0,,id:106 Inicio:19:37:09 Demora:00:00:34 Estado:Finalizado Doc:CURP_COGA010114HPLRTLA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3222184
+252,,190330.log,20:11:42,Cierre del Servidor,,,,,,,,,0,,
+253,,190330.log,20:11:42,Cierre del Servidor,,,,,,,,,0,,
+254,,190331.log,14:29:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+255,,190331.log,14:29:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+256,490,190331.log,14:38:22,Cobro de PC,9,14:29:18,14:38:22,0:09:02,3,0,3,3,0,, 
+257,491,190331.log,14:59:00,Cobro de PC,8,14:38:15,14:59:00,0:20:42,3.5,0,3.5,3.5,0,, 
+258,492,190331.log,15:17:21,Cobro de PC,6,14:41:11,15:17:21,0:27:00,4.5,0,4.5,4.5,0,, 
+259,,190331.log,15:17:24,Cierre del Servidor,,,,,,,,,0,,
+260,,190331.log,15:17:24,Cierre del Servidor,,,,,,,,,0,,
+261,,190331.log,15:17:49,Arranque del Servidor,,,,,,,,,0,, 1.647b
+262,493,190331.log,16:35:02,Cobro de PC,9,16:08:30,16:35:02,0:26:29,4.5,0,4.5,4.5,0,, 
+263,494,190331.log,16:35:19,Cobro de PC,8,15:17:55,16:35:19,1:17:22,13,0,13,13,0,, 
+264,,190331.log,18:15:01,Impresión,,,,,,,,,0,,id:107 Inicio:18:14:20 Demora:00:00:41 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamako:2214764
+265,495,190331.log,18:17:08,Venta de Extra,1,,,,,6,,,0,,1  Varios
+266,495,190331.log,18:17:08,Cobro de PC,1,17:55:22,18:17:08,0:21:05,3.5,6,9.5,9.5,0,, 
+267,,190331.log,18:50:05,Impresión,,,,,,,,,0,,id:108 Inicio:18:49:44 Demora:00:00:21 Estado:Finalizado Doc:MicrosoftkWordk-kreporte-5.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:111668
+268,,190331.log,18:50:52,Impresión,,,,,,,,,0,,id:109 Inicio:18:50:40 Demora:00:00:12 Estado:Finalizado Doc:reporte-5.5.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:589824
+269,,190331.log,18:51:47,Impresión,,,,,,,,,0,,id:110 Inicio:18:51:43 Demora:00:00:04 Estado:Finalizado Doc:bitacoraskjere.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:40100
+270,,190331.log,18:52:57,Impresión,,,,,,,,,0,,id:111 Inicio:18:52:49 Demora:00:00:08 Estado:Finalizado Doc:bitacoraskjere.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:27480
+271,,190331.log,18:53:40,Impresión,,,,,,,,,0,,id:112 Inicio:18:53:35 Demora:00:00:05 Estado:Finalizado Doc:BITACORASkOSCAR.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:84
+272,,190331.log,18:54:37,Impresión,,,,,,,,,0,,id:113 Inicio:18:54:30 Demora:00:00:07 Estado:Finalizado Doc:BITACORASkOSCAR.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:28740
+273,496,190331.log,19:48:57,Venta Directa,,,,,,,,,0,6,6  Impresion B/N
+274,,190331.log,21:35:38,Cierre del Servidor,,,,,,,,,0,,
+275,,190331.log,21:35:38,Cierre del Servidor,,,,,,,,,0,,
+276,,190401.log,17:25:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+277,,190401.log,17:45:07,Impresión,,,,,,,,,0,,id:114 Inicio:17:44:48 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:3 Total Hojas:2 Tamako:567190
+278,497,190401.log,17:49:41,Venta de Extra,1,,,,,3,,,0,,1  Varios
+279,497,190401.log,17:49:41,Cobro de PC,1,17:25:44,17:49:41,0:23:30,4,3,7,7,0,, 
+280,,190401.log,19:10:40,Impresión,,,,,,,,,0,,id:115 Inicio:19:09:55 Demora:00:00:45 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:604782
+281,,190401.log,19:20:22,Impresión,,,,,,,,,0,,id:116 Inicio:19:20:09 Demora:00:00:13 Estado:Finalizado Doc:MicrosoftkWordk-kfotoskdekoctaviokpaz.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2883584
+282,,190401.log,19:33:42,Impresión,,,,,,,,,0,,id:117 Inicio:19:31:56 Demora:00:01:46 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:5 Total Hojas:3 Tamako:4021376
+283,498,190401.log,19:34:53,Venta de Extra,1,,,,,16,,,0,,1  Varios
+284,498,190401.log,19:34:53,Cobro de PC,1,18:23:28,19:34:53,1:11:13,12,16,28,28,0,, 
+285,499,190401.log,19:50:08,Venta de Extra,2,,,,,3,,,0,,1  Varios
+286,499,190401.log,19:50:08,Cobro de PC,2,19:00:45,19:50:08,0:49:15,8,3,11,11,0,, 
+287,,190401.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+288,,190401.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+289,,190402.log,16:24:43,Arranque del Servidor,,,,,,,,,0,, 1.647b
+290,500,190402.log,17:05:43,Venta de Extra,9,,,,,0.3,,,0,,1  Varios
+291,500,190402.log,17:05:43,Cobro de PC,9,16:25:05,17:05:43,0:40:37,7,0.3,7.3,7.3,0,, 
+292,501,190402.log,17:13:41,Cobro de PC,6,16:33:19,17:13:41,0:40:00,6.5,0,6.5,6.5,0,, 
+293,,190402.log,18:44:00,Impresión,,,,,,,,,0,,id:118 Inicio:18:42:59 Demora:00:01:01 Estado:Finalizado Doc:MicrosoftkWordk-kLkpidos.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:20741176
+294,502,190402.log,18:44:12,Venta de Extra,1,,,,,10,,,0,,1  Varios
+295,502,190402.log,18:44:12,Cobro de PC,1,18:03:20,18:44:12,0:40:01,6.5,10,16.5,16.5,0,, 
+296,,190402.log,18:52:46,Impresión,,,,,,,,,0,,id:119 Inicio:18:52:33 Demora:00:00:13 Estado:Finalizado Doc:MicrosoftkWordk-k2-Solicitud-de-servicio-Social-estudiante.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2100236
+297,,190402.log,19:02:53,Impresión,,,,,,,,,0,,id:120 Inicio:19:02:14 Demora:00:00:39 Estado:Finalizado Doc:MicrosoftkWordk-kQUEkSONkYOUTUBERS.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:5 Total Hojas:5 Tamako:29685364
+298,,190402.log,19:04:51,Impresión,,,,,,,,,0,,id:121 Inicio:19:03:15 Demora:00:01:36 Estado:Finalizado Doc:MicrosoftkWordk-kQUEkSONkYOUTUBERS.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:5 Total Hojas:5 Tamako:25666292
+299,503,190402.log,19:05:31,Venta de Extra,9,,,,,10,,,0,,1  Varios
+300,503,190402.log,19:05:31,Cobro de PC,9,18:12:45,19:05:31,0:52:33,9,10,19,19,0,, 
+301,504,190402.log,19:07:17,Cobro de PC,1,18:45:31,19:07:17,0:21:30,3.5,0,3.5,3.5,0,, 
+302,,190402.log,19:17:09,Impresión,,,,,,,,,0,,id:122 Inicio:19:16:30 Demora:00:00:39 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3212840
+303,,190402.log,19:17:23,Impresión,,,,,,,,,0,,id:123 Inicio:19:17:12 Demora:00:00:11 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3212816
+304,,190402.log,19:17:58,Impresión,,,,,,,,,0,,id:124 Inicio:19:17:46 Demora:00:00:12 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+305,,190402.log,19:18:30,Impresión,,,,,,,,,0,,id:125 Inicio:19:18:10 Demora:00:00:20 Estado:Finalizado Doc:CURP_JUTL951217MPLRRR08.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+306,,190402.log,19:29:43,Impresión,,,,,,,,,0,,id:126 Inicio:19:29:16 Demora:00:00:27 Estado:Finalizado Doc:comprobanteNSS.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:80
+307,,190402.log,19:29:51,Impresión,,,,,,,,,0,,id:127 Inicio:19:29:39 Demora:00:00:12 Estado:Finalizado Doc:tarjetaNSS.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2328720
+308,,190402.log,20:07:09,Impresión,,,,,,,,,0,,id:128 Inicio:20:06:42 Demora:00:00:27 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+309,,190402.log,20:07:45,Impresión,,,,,,,,,0,,id:129 Inicio:20:07:23 Demora:00:00:22 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+310,,190402.log,20:08:38,Impresión,,,,,,,,,0,,id:130 Inicio:20:07:38 Demora:00:01:00 Estado:Finalizado Doc:CURP_SAGM030521MPLNTRA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3218800
+311,,190402.log,20:09:22,Cierre del Servidor,,,,,,,,,0,,
+312,,190402.log,20:19:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+313,,190402.log,20:20:03,Cierre del Servidor,,,,,,,,,0,,
+314,,190402.log,20:20:03,Cierre del Servidor,,,,,,,,,0,,
+315,,190403.log,17:53:04,Arranque del Servidor,,,,,,,,,0,, 1.647b
+316,,190403.log,18:26:49,Impresión,,,,,,,,,0,,id:133 Inicio:18:22:17 Demora:00:04:32 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:14 Total Hojas:12 Tamako:559527848
+317,505,190403.log,19:01:35,Cobro de PC,8,18:12:32,19:01:35,0:49:01,8,0,8,8,0,, 
+318,506,190403.log,19:17:58,Cobro de PC,1,17:53:08,19:17:58,1:17:40,13,0,13,13,0,, 
+319,507,190403.log,19:19:28,Venta de Extra,3,,,,,0,,,0,,1  Varios
+320,507,190403.log,19:19:28,Cobro de PC,3,18:41:49,19:19:28,0:37:32,6.5,0,6.5,6.5,0,, 
+321,,190403.log,19:21:38,Impresión,,,,,,,,,0,,id:134 Inicio:19:20:32 Demora:00:01:06 Estado:Finalizado Doc:MicrosoftkWordk-k1994kpremioskdekoctaviokpaz.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:370928
+322,,190403.log,19:30:24,Impresión,,,,,,,,,0,,id:135 Inicio:19:30:04 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:1261024
+323,508,190403.log,19:41:24,Cobro de PC,8,19:02:22,19:41:24,0:39:00,6.5,0,6.5,6.5,0,, 
+324,,190403.log,19:56:40,Impresión,,,,,,,,,0,,id:136 Inicio:19:56:07 Demora:00:00:33 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:1261024
+325,,190403.log,20:00:48,Impresión,,,,,,,,,0,,id:137 Inicio:20:00:40 Demora:00:00:08 Estado:Finalizado Doc:MicrosoftkWordk-kimprimir.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:89000
+326,,190403.log,20:01:14,Impresión,,,,,,,,,0,,id:138 Inicio:20:00:59 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kimprimir12.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3090828
+327,509,190403.log,20:01:42,Venta de Extra,2,,,,,4,,,0,,1  Varios
+328,509,190403.log,20:01:42,Cobro de PC,2,19:49:10,20:01:42,0:12:14,3,4,7,7,0,, 
+329,,190403.log,21:04:18,Impresión,,,,,,,,,0,,id:139 Inicio:21:02:28 Demora:00:01:50 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:6 Total Hojas:7 Tamako:10940689
+330,510,190403.log,21:29:57,Venta de Extra,1,,,,,13,,,0,,1  Varios
+331,510,190403.log,21:29:57,Cobro de PC,1,19:45:27,21:29:57,1:43:43,17.5,13,30.5,30.5,0,, 
+332,,190404.log,17:25:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+333,511,190404.log,18:48:14,Cobro de PC,7,18:06:57,18:48:14,0:41:01,7,0,7,7,0,, 
+334,,190404.log,18:58:05,Impresión,,,,,,,,,0,,id:140 Inicio:18:57:49 Demora:00:00:16 Estado:Finalizado Doc:MicrosoftkWordk-kconectores.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:6029312
+335,512,190404.log,18:58:16,Cobro de PC,1,18:38:06,18:58:16,0:19:22,3,0,3,3,0,, 
+336,,190404.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+337,,190404.log,20:11:55,Cierre del Servidor,,,,,,,,,0,,
+338,,190405.log,18:02:21,Arranque del Servidor,,,,,,,,,0,, 1.647b
+339,513,190405.log,19:03:26,Cobro de PC,8,18:03:09,19:03:26,1:00:00,10,0,10,10,0,, 
+340,514,190405.log,19:17:31,Cobro de PC,1,18:56:32,19:17:31,0:20:27,3.5,0,3.5,3.5,0,, 
+341,515,190405.log,19:19:20,Cobro de PC,2,19:01:13,19:19:20,0:18:02,3,0,3,3,0,, 
+342,516,190405.log,19:19:27,Venta de Extra,3,,,,,0,,,0,,1  Varios
+343,516,190405.log,19:19:27,Cobro de PC,3,19:01:12,19:19:27,0:18:12,3,0,3,3,0,, 
+344,,190406.log,14:38:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+345,517,190406.log,15:09:32,Cobro de PC,6,14:39:22,15:09:32,0:30:00,5,0,5,5,0,, 
+346,518,190406.log,15:53:51,Cobro de PC,8,15:08:27,15:53:51,0:45:20,7.5,0,7.5,7.5,0,, 
+347,519,190406.log,19:18:49,Cobro de PC,8,18:23:48,19:18:49,0:54:59,9,0,9,9,0,, 
+348,,190406.log,19:22:06,Cierre del Servidor,,,,,,,,,0,,
+349,,190406.log,19:22:06,Cierre del Servidor,,,,,,,,,0,,
+350,,190408.log,17:43:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+351,,190408.log,17:59:01,Impresión,,,,,,,,,0,,id:146 Inicio:17:58:10 Demora:00:00:51 Estado:Finalizado Doc:MicrosoftkWordk-kLa.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamako:4322488
+352,530,190408.log,17:59:29,Venta de Extra,3,,,,,6,,,0,,1  Varios
+353,530,190408.log,17:59:29,Cobro de PC,3,17:43:47,17:59:29,0:15:28,3,6,9,9,0,, 
+354,,190408.log,20:12:40,Impresión,,,,,,,,,0,,id:147 Inicio:20:10:20 Demora:00:02:20 Estado:Finalizado Doc:MicrosoftkWordk-kJClic.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamako:17992740
+355,531,190408.log,20:13:31,Venta de Extra,1,,,,,12,,,0,,1  Varios
+356,531,190408.log,20:13:31,Cobro de PC,1,19:08:48,20:13:31,1:02:19,10.5,12,22.5,22.5,0,, 
+357,,190408.log,20:33:36,Impresión,,,,,,,,,0,,id:148 Inicio:20:32:58 Demora:00:00:38 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:524288
+358,,190408.log,20:37:10,Impresión,,,,,,,,,0,,id:149 Inicio:20:36:54 Demora:00:00:16 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:131072
+359,,190408.log,20:39:22,Impresión,,,,,,,,,0,,id:150 Inicio:20:39:06 Demora:00:00:16 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:67156
+360,,190408.log,20:39:54,Cierre del Servidor,,,,,,,,,0,,
+361,,190408.log,20:39:54,Cierre del Servidor,,,,,,,,,0,,
+362,,190409.log,16:12:01,Arranque del Servidor,,,,,,,,,0,, 1.647b
+363,532,190409.log,16:44:25,Cobro de PC,6,16:13:16,16:44:25,0:30:00,5,0,5,5,0,, 
+364,533,190409.log,17:15:11,Cobro de PC,6,16:44:27,17:15:11,0:30:00,5,0,5,5,0,, 
+365,,190409.log,18:27:15,Impresión,,,,,,,,,0,,id:151 Inicio:18:26:11 Demora:00:01:04 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:21996360
+366,,190409.log,18:36:22,Impresión,,,,,,,,,0,,id:152 Inicio:18:35:38 Demora:00:00:44 Estado:Finalizado Doc:MicrosoftkWordk-kderechos.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:8 Total Hojas:8 Tamako:257612
+367,534,190409.log,18:37:00,Venta de Extra,3,,,,,8,,,0,,1  Varios
+368,534,190409.log,18:37:00,Cobro de PC,3,17:59:19,18:37:00,0:37:32,6.5,8,14.5,14.5,0,, 
+369,,190409.log,18:40:40,Impresión,,,,,,,,,0,,id:153 Inicio:18:40:28 Demora:00:00:12 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2273416
+370,535,190409.log,18:51:06,Cobro de PC,1,17:51:04,18:51:06,1:00:01,10,0,10,10,0,, 
+371,536,190409.log,18:51:08,Cobro de PC,2,17:51:04,18:51:08,1:00:03,10,0,10,10,0,, 
+372,537,190409.log,18:51:53,Cobro de PC,2,18:51:50,18:51:53,0:00:02,3,0,3,3,0,, 
+373,538,190409.log,19:09:59,Cobro de PC,1,18:51:49,19:09:59,0:18:07,3,0,3,3,0,, 
+374,539,190409.log,19:10:02,Cobro de PC,2,18:51:59,19:10:02,0:18:00,3,0,3,3,0,, 
+375,,190409.log,20:07:08,Impresión,,,,,,,,,0,,id:154 Inicio:20:06:15 Demora:00:00:53 Estado:Finalizado Doc:MicrosoftkWordk-kDerechokaklakigualdad.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:65536
+376,,190409.log,20:13:01,Impresión,,,,,,,,,0,,id:155 Inicio:20:11:59 Demora:00:01:02 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:227732
+377,,190409.log,20:18:42,Cierre del Servidor,,,,,,,,,0,,
+378,,190409.log,20:18:42,Cierre del Servidor,,,,,,,,,0,,
+379,,190410.log,16:19:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+380,,190410.log,17:02:33,Impresión,,,,,,,,,0,,id:156 Inicio:17:02:03 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kgeometria.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:266448
+381,,190410.log,17:11:27,Impresión,,,,,,,,,0,,id:157 Inicio:17:10:40 Demora:00:00:47 Estado:Finalizado Doc:MicrosoftkWordk-kimagen.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:301932
+382,540,190410.log,17:48:52,Venta de Extra,1,,,,,12,,,0,,1  Varios
+383,540,190410.log,17:48:52,Cobro de PC,1,16:19:52,17:48:52,1:27:55,14.5,12,26.5,26.5,0,, 
+384,541,190410.log,18:06:22,Cobro de PC,2,18:01:54,18:06:22,0:04:26,3,0,3,3,0,, 
+385,542,190410.log,18:28:37,Cobro de PC,1,17:58:05,18:28:37,0:30:00,5,0,5,5,0,, 
+386,543,190410.log,18:29:18,Cobro de PC,2,18:06:23,18:29:18,0:22:51,4,0,4,4,0,, 
+387,,190410.log,19:38:17,Impresión,,,,,,,,,0,,id:158 Inicio:19:37:40 Demora:00:00:37 Estado:Finalizado Doc:MicrosoftkWordk-kimpresion.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:9153672
+388,,190410.log,19:50:49,Impresión,,,,,,,,,0,,id:159 Inicio:19:50:19 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kfotos.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:849852
+389,544,190410.log,19:51:05,Venta de Extra,1,,,,,6,,,0,,1  Varios
+390,544,190410.log,19:51:05,Cobro de PC,1,19:20:23,19:51:05,0:30:10,5,6,11,11,0,, 
+391,,190410.log,20:34:59,Impresión,,,,,,,,,0,,id:160 Inicio:20:34:38 Demora:00:00:21 Estado:Finalizado Doc:CardexkSimple Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamako:36820
+392,,190410.log,20:35:38,Impresión,,,,,,,,,0,,id:161 Inicio:20:35:23 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:0 Total Hojas:1 Tamako:306247
+393,,190410.log,20:37:55,Impresión,,,,,,,,,0,,id:162 Inicio:20:37:37 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:961387
+394,545,190410.log,20:44:13,Cobro de PC,1,20:18:45,20:44:13,0:25:22,4,0,4,4,0,, 
+395,,190410.log,20:44:22,Cierre del Servidor,,,,,,,,,0,,
+396,,190410.log,20:44:22,Cierre del Servidor,,,,,,,,,0,,
+397,,190411.log,16:18:53,Arranque del Servidor,,,,,,,,,0,, 1.647b
+398,546,190411.log,17:14:20,Cobro de PC,9,16:25:32,17:14:20,0:48:07,8,0,8,8,0,, 
+399,547,190411.log,17:43:15,Cobro de PC,7,17:16:58,17:43:15,0:26:14,4.5,0,4.5,4.5,0,, 
+400,,190411.log,19:34:01,Impresión,,,,,,,,,0,,id:166 Inicio:19:33:12 Demora:00:00:49 Estado:Finalizado Doc:MicrosoftkWordk-kTIPOkDEkEXTENCIONES.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:2388184
+401,,190411.log,19:38:50,Impresión,,,,,,,,,0,,id:167 Inicio:19:38:26 Demora:00:00:24 Estado:Finalizado Doc:MicrosoftkWordk-kFREEMID.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:2791184
+402,548,190411.log,19:49:02,Venta de Extra,1,,,,,12,,,0,,1  Varios
+403,548,190411.log,19:49:02,Cobro de PC,1,17:21:10,19:49:02,2:17:44,23,12,35,35,0,, 
+404,,190411.log,20:10:11,Impresión,,,,,,,,,0,,id:168 Inicio:20:09:28 Demora:00:00:43 Estado:Finalizado Doc:MicrosoftkPowerPointk-kinfografia.pptk[Modokdekcompatibilidad] Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:9953412
+405,,190411.log,20:17:50,Impresión,,,,,,,,,0,,id:169 Inicio:20:17:19 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkPowerPointk-kinfografia.pptk[Modokdekcompatibilidad] Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:10565820
+406,549,190411.log,20:18:53,Cobro de PC,2,17:52:44,20:18:53,2:26:06,24.5,0,24.5,24.5,0,, 
+407,,190411.log,20:30:17,Impresión,,,,,,,,,0,,id:170 Inicio:20:30:03 Demora:00:00:14 Estado:Finalizado Doc:MicrosoftkWordk-k2-Solicitud-de-servicio-Social.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:143220
+408,,190411.log,20:31:09,Impresión,,,,,,,,,0,,id:171 Inicio:20:30:43 Demora:00:00:26 Estado:Finalizado Doc:MicrosoftkWordk-kOficiokdekaceptacion.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2115136
+409,,190411.log,20:36:05,Impresión,,,,,,,,,0,,id:172 Inicio:20:35:35 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkPowerPointk-kinfografia.pptk[Modokdekcompatibilidad] Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:5774184
+410,,190411.log,20:37:42,Impresión,,,,,,,,,0,,id:173 Inicio:20:37:12 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkPowerPointk-kinfografia.pptk[Modokdekcompatibilidad] Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:168
+411,,190411.log,20:54:04,Impresión,,,,,,,,,0,,id:174 Inicio:20:52:42 Demora:00:01:22 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:5 Total Hojas:5 Tamako:6473348
+412,550,190411.log,21:05:06,Cobro de PC,1,20:18:50,21:05:06,0:46:13,7.5,0,7.5,7.5,0,, 
+413,,190411.log,21:19:34,Impresión,,,,,,,,,0,,id:175 Inicio:21:19:15 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kLancenterkMarshmellokA.C.kkCArtakliberacionkdekPracticas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:125048
+414,,190411.log,21:20:22,Impresión,,,,,,,,,0,,id:176 Inicio:21:20:15 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kLancenterkMarshmellokA.C.kkCArtakliberacionkdekPracticas.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:200
+415,,190411.log,21:42:58,Cierre del Servidor,,,,,,,,,0,,
+416,,190411.log,21:42:58,Cierre del Servidor,,,,,,,,,0,,
+417,,190412.log,18:40:55,Arranque del Servidor,,,,,,,,,0,, 1.647b
+418,551,190412.log,18:41:14,Cobro de PC,7,18:41:06,18:41:14,0:00:05,3,0,3,3,0,, 
+419,552,190412.log,19:28:41,Cobro de PC,7,18:41:32,19:28:41,0:46:53,8,0,8,8,0,, 
+420,,190412.log,19:37:37,Cierre del Servidor,,,,,,,,,0,,
+421,,190412.log,19:37:37,Cierre del Servidor,,,,,,,,,0,,
+422,,190413.log,15:28:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+423,553,190413.log,16:30:17,Cobro de PC,7,15:35:04,16:30:17,0:54:57,9,0,9,9,0,, 
+424,554,190413.log,16:40:14,Cobro de PC,7,16:30:19,16:40:14,0:09:14,3,0,3,3,0,, 
+425,,190413.log,19:13:45,Cierre del Servidor,,,,,,,,,0,,
+426,,190413.log,19:17:27,Arranque del Servidor,,,,,,,,,0,, 1.647b
+427,555,190413.log,20:08:54,Cobro de PC,6,19:18:34,20:08:54,0:39:36,6.5,0,6.5,6.5,0,, 
+428,,190413.log,20:08:56,Cierre del Servidor,,,,,,,,,0,,
+429,,190413.log,20:15:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+430,556,190413.log,21:08:13,Cobro de PC,1,20:16:05,21:08:13,0:52:02,8.5,0,8.5,8.5,0,, 
+431,,190413.log,21:11:12,Cierre del Servidor,,,,,,,,,0,,
+432,,190413.log,21:11:12,Cierre del Servidor,,,,,,,,,0,,
+433,,190414.log,12:36:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+434,,190414.log,12:42:56,Arranque del Servidor,,,,,,,,,0,, 1.647b
+435,557,190414.log,13:33:12,Cobro de PC,7,12:36:57,13:33:12,0:55:46,9.5,0,9.5,9.5,0,, 
+436,558,190414.log,16:22:20,Cobro de PC,7,14:03:50,16:22:20,0:30:00,5,0,5,5,0,, 
+437,559,190414.log,17:32:30,Cobro de PC,9,16:25:21,17:32:30,1:00:00,10,0,10,10,0,, 
+438,,190414.log,17:35:05,Impresión,,,,,,,,,0,,id:2 Inicio:17:33:07 Demora:00:01:58 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:5 Total Hojas:2 Tamako:424229
+439,560,190414.log,18:37:01,Cobro de PC,7,17:20:41,18:37:01,1:15:53,12.5,0,12.5,12.5,0,, 
+440,561,190414.log,19:15:09,Cobro de PC,9,17:32:36,19:15:09,1:30:00,15,0,15,15,0,, 
+441,562,190414.log,19:15:17,Cobro de PC,7,18:45:24,19:15:17,0:27:00,4.5,0,4.5,4.5,0,, 
+442,563,190414.log,19:46:07,Cobro de PC,7,19:15:23,19:46:07,0:30:00,5,0,5,5,0,, 
+443,564,190414.log,20:15:19,Cobro de PC,7,19:46:44,20:15:19,0:28:28,4.5,0,4.5,4.5,0,, 
+444,565,190414.log,20:15:22,Cobro de PC,9,19:40:45,20:15:22,0:30:00,5,0,5,5,0,, 
+445,566,190414.log,20:44:59,Cobro de PC,1,19:00:30,20:44:59,1:44:25,17.5,0,17.5,17.5,0,, 
+446,567,190414.log,20:45:41,Cobro de PC,9,20:17:51,20:45:41,0:27:10,4.5,0,4.5,4.5,0,, 
+447,,190414.log,20:46:15,Cierre del Servidor,,,,,,,,,0,,
+448,,190414.log,20:46:15,Cierre del Servidor,,,,,,,,,0,,
+449,,190415.log,20:01:52,Arranque del Servidor,,,,,,,,,0,, 1.647b
+450,568,190415.log,20:59:34,Cobro de PC,9,20:02:05,20:59:34,0:57:28,9.5,0,9.5,9.5,0,, 
+451,,190415.log,21:06:21,Cierre del Servidor,,,,,,,,,0,,
+452,,190415.log,21:06:21,Cierre del Servidor,,,,,,,,,0,,
+453,,190416.log,16:42:19,Arranque del Servidor,,,,,,,,,0,, 1.647b
+454,,190416.log,17:45:08,Impresión,,,,,,,,,0,,id:4 Inicio:17:44:48 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:2 Total Hojas:1 Tamako:171
+455,569,190416.log,17:53:53,Venta de Extra,1,,,,,2,,,0,,1  Varios
+456,569,190416.log,17:53:53,Cobro de PC,1,16:42:24,17:53:53,1:11:27,12,2,14,14,0,, 
+457,570,190416.log,19:12:26,Venta de Extra,9,,,,,1,,,0,,1  Varios
+458,570,190416.log,19:12:26,Cobro de PC,9,18:24:46,19:12:26,0:47:31,8,1,9,9,0,, 
+459,,190416.log,20:27:33,Cierre del Servidor,,,,,,,,,0,,
+460,,190416.log,20:28:02,Arranque del Servidor,,,,,,,,,0,, 1.647b
+461,,190416.log,20:28:19,Cierre del Servidor,,,,,,,,,0,,
+462,,190416.log,20:28:19,Cierre del Servidor,,,,,,,,,0,,
+463,,190418.log,12:47:31,Arranque del Servidor,,,,,,,,,0,, 1.647b
+464,,190418.log,12:47:39,Cierre del Servidor,,,,,,,,,0,,
+465,,190418.log,12:47:39,Cierre del Servidor,,,,,,,,,0,,
+466,,190421.log,13:11:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+467,571,190421.log,13:47:14,Cobro de PC,7,13:12:05,13:47:14,0:31:00,5,0,5,5,0,, 
+468,572,190421.log,14:30:36,Cobro de PC,8,14:30:32,14:30:36,0:00:02,3,0,3,3,0,, 
+469,,190421.log,14:47:23,Impresión,,,,,,,,,0,,id:2 Inicio:14:46:43 Demora:00:00:40 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:745072
+470,573,190421.log,16:21:56,Cobro de PC,6,15:51:10,16:21:56,0:30:00,5,0,5,5,0,, 
+471,574,190421.log,17:30:55,Cobro de PC,7,14:30:32,17:30:55,3:00:00,30,0,30,30,0,, 
+472,575,190421.log,17:30:57,Cobro de PC,9,14:30:37,17:30:57,3:00:00,30,0,30,30,0,, 
+473,,190422.log,18:18:00,Arranque del Servidor,,,,,,,,,0,, 1.647b
+474,576,190422.log,19:01:12,Cobro de PC,7,18:19:18,19:01:12,0:41:51,7,0,7,7,0,, 
+475,577,190422.log,19:01:43,Cobro de PC,9,18:18:21,19:01:43,0:43:21,7,0,7,7,0,, 
+476,578,190422.log,19:32:09,Cobro de PC,3,19:02:02,19:32:09,0:30:00,5,0,5,5,0,, 
+477,579,190422.log,20:10:38,Cobro de PC,9,19:02:28,20:10:38,1:08:08,11.5,0,11.5,11.5,0,, 
+478,,190422.log,21:03:14,Cierre del Servidor,,,,,,,,,0,,
+479,,190422.log,21:03:14,Cierre del Servidor,,,,,,,,,0,,
+480,,190423.log,15:46:18,Arranque del Servidor,,,,,,,,,0,, 1.647b
+481,580,190423.log,16:33:32,Cobro de PC,7,15:46:29,16:33:32,0:46:58,8,0,8,8,0,, 
+482,581,190423.log,18:17:36,Cobro de PC,1,17:46:34,18:17:36,0:30:54,5,0,5,5,0,, 
+483,582,190423.log,19:41:32,Cobro de PC,6,18:56:25,19:41:32,0:45:00,7.5,0,7.5,7.5,0,, 
+484,583,190423.log,19:41:35,Cobro de PC,8,18:56:27,19:41:35,0:45:00,7.5,0,7.5,7.5,0,, 
+485,584,190423.log,19:57:06,Cobro de PC,6,19:41:58,19:57:06,0:15:00,3,0,3,3,0,, 
+486,585,190423.log,19:57:08,Cobro de PC,8,19:41:49,19:57:08,0:15:00,3,0,3,3,0,, 
+487,,190423.log,20:34:36,Cierre del Servidor,,,,,,,,,0,,
+488,,190423.log,20:34:36,Cierre del Servidor,,,,,,,,,0,,
+489,,190424.log,18:15:20,Arranque del Servidor,,,,,,,,,0,, 1.647b
+490,586,190424.log,18:32:38,Cobro de PC,9,18:17:19,18:32:38,0:05:25,3,0,3,3,0,, 
+491,587,190424.log,18:49:56,Cobro de PC,8,18:16:47,18:49:56,0:30:00,5,0,5,5,0,, 
+492,588,190424.log,19:18:02,Venta de Extra,7,,,,,0,,,0,,1  Varios
+493,588,190424.log,19:18:02,Cobro de PC,7,18:17:27,19:18:02,1:00:00,10,0,10,10,0,, 
+494,589,190424.log,19:19:35,Venta de Extra,7,,,,,0,,,0,,1  Varios
+495,589,190424.log,19:19:35,Cobro de PC,7,19:19:33,19:19:35,0:00:01,3,0,3,3,0,, 
+496,590,190424.log,19:19:38,Cobro de PC,8,18:49:57,19:19:38,0:29:39,5,0,5,5,0,, 
+497,591,190424.log,19:54:44,Cobro de PC,6,19:18:10,19:54:44,0:30:00,5,0,5,5,0,, 
+498,,190424.log,19:54:46,Cierre del Servidor,,,,,,,,,0,,
+499,,190424.log,19:54:46,Cierre del Servidor,,,,,,,,,0,,
+500,,190425.log,15:45:21,Arranque del Servidor,,,,,,,,,0,, 1.647b
+501,,190425.log,17:17:07,Impresión,,,,,,,,,0,,id:2 Inicio:17:15:49 Demora:00:01:18 Estado:Finalizado Doc:MicrosoftkWordk-kensayo Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:8 Total Hojas:8 Tamako:2594478
+502,592,190425.log,17:17:22,Cobro de PC,1,15:46:01,17:17:22,1:31:04,15,0,15,15,0,, 
+503,593,190425.log,18:19:44,Cobro de PC,9,17:52:29,18:19:44,0:27:09,4.5,0,4.5,4.5,0,, 
+504,594,190425.log,18:20:31,Cobro de PC,9,18:19:47,18:20:31,0:00:39,3,0,3,3,0,, Me equivoque
+505,595,190425.log,18:46:15,Venta de Extra,7,,,,,0,,,0,,1  Varios
+506,595,190425.log,18:46:15,Cobro de PC,7,17:45:50,18:46:15,1:00:00,10,0,10,10,0,, 
+507,596,190425.log,18:51:57,Cobro de PC,8,18:46:26,18:51:57,0:05:26,3,0,3,3,0,, 
+508,,190425.log,20:15:29,Impresión,,,,,,,,,0,,id:3 Inicio:20:14:56 Demora:00:00:33 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+509,,190425.log,20:26:26,Cierre del Servidor,,,,,,,,,0,,
+510,,190425.log,20:26:26,Cierre del Servidor,,,,,,,,,0,,
+511,,190426.log,15:47:08,Arranque del Servidor,,,,,,,,,0,, 1.647b
+512,597,190426.log,16:19:38,Cobro de PC,8,15:50:25,16:19:38,0:29:10,5,0,5,5,0,, 
+513,598,190426.log,16:20:21,Cobro de PC,8,16:19:50,16:20:21,0:00:29,3,0,3,3,0,, 
+514,599,190426.log,18:28:20,Venta de Extra,7,,,,,0,,,0,,1  Varios
+515,599,190426.log,18:28:20,Cobro de PC,7,16:20:15,18:28:20,0:45:00,7.5,0,7.5,7.5,0,, 
+516,600,190426.log,19:24:22,Venta de Extra,7,,,,,0,,,0,,1  Varios
+517,600,190426.log,19:24:22,Cobro de PC,7,18:28:31,19:24:22,0:55:49,9.5,0,9.5,9.5,0,, 
+518,,190426.log,20:29:52,Cierre del Servidor,,,,,,,,,0,,
+519,,190426.log,20:29:52,Cierre del Servidor,,,,,,,,,0,,
+520,,190427.log,15:57:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+521,601,190427.log,16:27:56,Venta de Extra,7,,,,,0,,,0,,1  Varios
+522,601,190427.log,16:27:56,Cobro de PC,7,15:57:42,16:27:56,0:30:00,5,0,5,5,0,, 
+523,602,190427.log,19:14:37,Venta de Extra,7,,,,,0,,,0,,1  Varios
+524,602,190427.log,19:14:37,Cobro de PC,7,18:47:21,19:14:37,0:27:14,4.5,0,4.5,4.5,0,, 
+525,603,190427.log,19:35:14,Cobro de PC,6,19:05:09,19:35:14,0:30:00,5,0,5,5,0,, 
+526,604,190427.log,19:44:32,Venta de Extra,7,,,,,0,,,0,,1  Varios
+527,604,190427.log,19:44:32,Cobro de PC,7,19:37:05,19:44:32,0:07:26,3,0,3,3,0,, 
+528,,190427.log,20:09:25,Cierre del Servidor,,,,,,,,,0,,
+529,,190427.log,20:09:25,Cierre del Servidor,,,,,,,,,0,,
+530,,190428.log,12:58:29,Arranque del Servidor,,,,,,,,,0,, 1.647b
+531,605,190428.log,13:29:54,Venta de Extra,7,,,,,0,,,0,,1  Varios
+532,605,190428.log,13:29:54,Cobro de PC,7,12:59:02,13:29:54,0:30:00,5,0,5,5,0,, 
+533,606,190428.log,14:03:25,Venta de Extra,7,,,,,0,,,0,,1  Varios
+534,606,190428.log,14:03:25,Cobro de PC,7,13:33:10,14:03:25,0:30:00,5,0,5,5,0,, 
+535,607,190428.log,15:03:59,Venta de Extra,7,,,,,0,,,0,,1  Varios
+536,607,190428.log,15:03:59,Cobro de PC,7,14:03:26,15:03:59,1:00:00,10,0,10,10,0,, 
+537,608,190428.log,15:07:30,Cobro de PC,9,14:07:16,15:07:30,1:00:00,10,0,10,10,0,, 
+538,609,190428.log,15:39:28,Cobro de PC,8,15:07:32,15:39:28,0:30:00,5,0,5,5,0,, 
+539,,190428.log,16:26:26,Impresión,,,,,,,,,0,,id:4 Inicio:16:25:44 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:3 Total Hojas:1 Tamako:1392671
+540,610,190428.log,16:28:57,Cobro de PC,8,15:39:29,16:28:57,0:30:00,5,0,5,5,0,, 
+541,611,190428.log,16:29:00,Cobro de PC,9,15:23:17,16:29:00,0:29:00,5,0,5,5,0,, 
+542,612,190428.log,18:18:21,Venta de Extra,7,,,,,0,,,0,,1  Varios
+543,612,190428.log,18:18:21,Cobro de PC,7,16:32:39,18:18:21,1:45:20,17.5,0,17.5,17.5,0,, 
+544,613,190428.log,18:39:36,Venta de Extra,7,,,,,0,,,0,,1  Varios
+545,613,190428.log,18:39:36,Cobro de PC,7,18:39:18,18:39:36,0:00:16,3,0,3,3,0,, 
+546,,190428.log,18:39:42,Cierre del Servidor,,,,,,,,,0,,
+547,,190428.log,18:39:42,Cierre del Servidor,,,,,,,,,0,,
+548,,190429.log,13:17:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+549,,190429.log,13:24:20,Impresión,,,,,,,,,0,,id:5 Inicio:13:24:01 Demora:00:00:19 Estado:Finalizado Doc:MicrosoftkWordk-kFormato-Carta-Responsiva-Escolark(1) Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:1 Tamako:56499
+550,614,190429.log,13:24:44,Cobro de PC,1,13:21:42,13:24:44,0:02:58,3,0,3,3,0,, 
+551,,190429.log,13:24:57,Cierre del Servidor,,,,,,,,,0,,
+552,,190429.log,15:57:49,Arranque del Servidor,,,,,,,,,0,, 1.647b
+553,,190429.log,16:25:20,Impresión,,,,,,,,,0,,id:6 Inicio:16:24:43 Demora:00:00:37 Estado:Finalizado Doc:NuevoDocumentok2019-04-23k10.39.06 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:23971968
+554,615,190429.log,16:38:13,Cobro de PC,1,16:23:05,16:38:13,0:15:00,3,0,3,3,0,, 
+555,616,190429.log,17:58:59,Venta de Extra,7,,,,,0,,,0,,1  Varios
+556,616,190429.log,17:58:59,Cobro de PC,7,17:40:39,17:58:59,0:06:14,3,0,3,3,0,, Me equivoque
+557,617,190429.log,18:27:02,Cobro de PC,9,18:03:45,18:27:02,0:23:15,4,0,4,4,0,, 
+558,,190429.log,20:40:12,Cierre del Servidor,,,,,,,,,0,,
+559,,190429.log,20:40:12,Cierre del Servidor,,,,,,,,,0,,
+560,,190430.log,17:39:49,Arranque del Servidor,,,,,,,,,0,, 1.647b
+561,618,190430.log,18:42:55,Cobro de PC,8,17:42:50,18:42:55,1:00:00,10,0,10,10,0,, 
+562,619,190430.log,19:43:55,Venta de Extra,7,,,,,0,,,0,,1  Varios
+563,619,190430.log,19:43:55,Cobro de PC,7,18:43:37,19:43:55,1:00:00,10,0,10,10,0,, 
+564,620,190430.log,19:45:13,Venta de Extra,7,,,,,0,,,0,,1  Varios
+565,620,190430.log,19:45:13,Cobro de PC,7,19:43:57,19:45:13,0:01:01,3,0,3,3,0,, 
+566,,190430.log,20:32:00,Cierre del Servidor,,,,,,,,,0,,
+567,,190430.log,20:32:00,Cierre del Servidor,,,,,,,,,0,,
+568,,190501.log,15:56:56,Arranque del Servidor,,,,,,,,,0,, 1.647b
+569,621,190501.log,16:07:10,Cobro de PC,8,15:57:10,16:07:10,0:09:54,3,0,3,3,0,, 
+570,622,190501.log,17:07:24,Venta de Extra,7,,,,,0,,,0,,1  Varios
+571,622,190501.log,17:07:24,Cobro de PC,7,15:57:15,17:07:24,1:10:00,11.5,0,11.5,11.5,0,, 
+572,623,190501.log,19:02:05,Venta de Extra,7,,,,,0,,,0,,1  Varios
+573,623,190501.log,19:02:05,Cobro de PC,7,18:31:50,19:02:05,0:30:00,5,0,5,5,0,, 
+574,624,190501.log,19:26:24,Cobro de PC,1,18:51:22,19:26:24,0:34:43,6,0,6,6,0,, 
+575,625,190501.log,19:32:36,Venta de Extra,7,,,,,0,,,0,,1  Varios
+576,625,190501.log,19:32:36,Cobro de PC,7,19:02:30,19:32:36,0:30:00,5,0,5,5,0,, 
+577,,190501.log,19:36:08,Impresión,,,,,,,,,0,,id:2 Inicio:19:35:10 Demora:00:00:58 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamako:15925248
+578,626,190501.log,19:37:41,Venta de Extra,9,,,,,6,,,0,,1  Varios
+579,626,190501.log,19:37:41,Cobro de PC,9,18:55:08,19:37:41,0:42:21,7,6,13,13,0,, 
+580,627,190501.log,19:44:10,Cobro de PC,8,19:14:00,19:44:10,0:30:00,5,0,5,5,0,, 
+581,,190501.log,20:20:47,Impresión,,,,,,,,,0,,id:4 Inicio:20:20:43 Demora:00:00:04 Estado:Finalizado Doc:received_477826596090304.jpeg Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:0
+582,,190501.log,20:21:21,Impresión,,,,,,,,,0,,id:3 Inicio:20:20:37 Demora:00:00:44 Estado:Finalizado Doc:received_477826596090304.jpeg Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:31536496
+583,628,190501.log,20:38:17,Venta de Extra,7,,,,,0,,,0,,1  Varios
+584,628,190501.log,20:38:17,Cobro de PC,7,19:39:35,20:38:17,0:58:40,10,0,10,10,0,, 
+585,,190501.log,20:43:37,Cierre del Servidor,,,,,,,,,0,,
+586,,190501.log,20:43:37,Cierre del Servidor,,,,,,,,,0,,
+587,,190502.log,16:16:36,Arranque del Servidor,,,,,,,,,0,, 1.647b
+588,629,190502.log,16:18:39,Cobro de PC,1,16:16:40,16:18:39,0:01:50,3,0,3,3,0,, Me equivoque
+589,,190502.log,16:29:13,Impresión,,,,,,,,,0,,id:5 Inicio:16:28:55 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:280563
+590,630,190502.log,16:29:32,Cobro de PC,9,16:20:05,16:29:32,0:09:22,3,0,3,3,0,, 
+591,631,190502.log,18:55:59,Cobro de PC,9,18:55:56,18:55:59,0:00:01,3,0,3,3,0,, 
+592,632,190502.log,19:31:20,Cobro de PC,6,19:01:04,19:31:20,0:30:00,5,0,5,5,0,, 
+593,633,190502.log,19:47:20,Cobro de PC,7,19:31:28,19:47:20,0:15:47,3,0,3,3,0,, 
+594,,190502.log,20:12:42,Impresión,,,,,,,,,0,,id:6 Inicio:20:11:46 Demora:00:00:56 Estado:Finalizado Doc:CURP_ROFG980923MPLDLD03.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3232176
+595,,190502.log,20:12:53,Impresión,,,,,,,,,0,,id:7 Inicio:20:12:38 Demora:00:00:15 Estado:Finalizado Doc:CURP_ROFG980923MPLDLD03.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3232152
+596,,190502.log,20:20:15,Cierre del Servidor,,,,,,,,,0,,
+597,,190502.log,20:20:15,Cierre del Servidor,,,,,,,,,0,,
+598,,190503.log,15:55:21,Arranque del Servidor,,,,,,,,,0,, 1.647b
+599,634,190503.log,16:35:59,Cobro de PC,7,15:55:38,16:35:59,0:30:00,5,0,5,5,0,, 
+600,635,190503.log,16:55:05,Cobro de PC,9,16:51:00,16:55:05,0:04:03,3,0,3,3,0,, 
+601,636,190503.log,17:50:27,Cobro de PC,7,16:50:24,17:50:27,1:00:00,10,0,10,10,0,, 
+602,637,190503.log,18:20:40,Venta de Extra,7,,,,,0.3,,,0,,1  Varios
+603,637,190503.log,18:20:40,Cobro de PC,7,17:50:35,18:20:40,0:30:00,5,0.3,5.3,5.3,0,, 
+604,638,190503.log,18:50:56,Venta de Extra,7,,,,,0.3,,,0,,1  Varios
+605,638,190503.log,18:50:56,Cobro de PC,7,18:20:43,18:50:56,0:30:00,5,0.3,5.3,5.3,0,, 
+606,639,190503.log,19:32:09,Cobro de PC,8,18:58:01,19:32:09,0:30:00,5,0,5,5,0,, 
+607,640,190503.log,19:57:49,Cobro de PC,7,18:57:43,19:57:49,1:00:04,10,0,10,10,0,, 
+608,,190503.log,20:41:00,Cierre del Servidor,,,,,,,,,0,,
+609,,190503.log,20:41:00,Cierre del Servidor,,,,,,,,,0,,
+610,,190504.log,16:06:54,Arranque del Servidor,,,,,,,,,0,, 1.647b
+611,641,190504.log,17:55:23,Cobro de PC,7,17:49:20,17:55:23,0:06:01,3,0,3,3,0,, 
+612,642,190504.log,18:21:23,Cobro de PC,7,17:55:37,18:21:23,0:25:43,4.5,0,4.5,4.5,0,, 
+613,643,190504.log,19:00:06,Cobro de PC,6,18:50:20,19:00:06,0:09:44,3,0,3,3,0,, 
+614,644,190504.log,19:20:11,Cobro de PC,7,19:00:03,19:20:11,0:20:00,3.5,0,3.5,3.5,0,, 
+615,645,190504.log,19:24:49,Venta de Extra,7,,,,,5,,,0,,1  Varios
+616,645,190504.log,19:24:49,Cobro de PC,7,19:20:27,19:24:49,0:04:20,3,5,8,8,0,, 
+617,,190505.log,15:16:43,Arranque del Servidor,,,,,,,,,0,, 1.647b
+618,646,190505.log,15:52:50,Cobro de PC,7,15:17:26,15:52:50,0:30:00,5,0,5,5,0,, 
+619,,190505.log,16:58:17,Impresión,,,,,,,,,0,,id:8 Inicio:16:56:54 Demora:00:01:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:4 Total Hojas:4 Tamako:3604752
+620,647,190505.log,17:05:17,Cobro de PC,3,16:33:49,17:05:17,0:30:00,5,0,5,5,0,, 
+621,648,190505.log,17:37:36,Cobro de PC,3,17:14:24,17:37:36,0:23:08,4,0,4,4,0,, 
+622,649,190505.log,18:04:53,Cobro de PC,7,17:30:03,18:04:53,0:30:00,5,0,5,5,0,, 
+623,650,190505.log,19:17:06,Cobro de PC,7,18:04:58,19:17:06,1:00:00,10,0,10,10,0,, 
+624,651,190505.log,19:45:40,Cobro de PC,7,19:28:45,19:45:40,0:16:53,3,0,3,3,0,, 
+625,,190505.log,19:47:01,Impresión,,,,,,,,,0,,id:9 Inicio:19:46:42 Demora:00:00:19 Estado:Finalizado Doc:GetFileAttachment Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:1 Tamako:266538
+626,,190505.log,19:54:05,Impresión,,,,,,,,,0,,id:10 Inicio:19:53:32 Demora:00:00:33 Estado:Finalizado Doc:1502732823_201904_C1.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:4 Total Hojas:5 Tamako:2846922
+627,,190505.log,19:55:49,Impresión,,,,,,,,,0,,id:11 Inicio:19:54:52 Demora:00:00:57 Estado:Finalizado Doc:1502732823_201904_C1.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:4 Total Hojas:4 Tamako:2066123
+628,652,190505.log,19:58:43,Cobro de PC,8,19:28:35,19:58:43,0:30:00,5,0,5,5,0,, 
+629,,190505.log,19:59:40,Impresión,,,,,,,,,0,,id:12 Inicio:19:59:23 Demora:00:00:17 Estado:Finalizado Doc:TEZA950402MPLPRN08.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:1 Tamako:889064
+630,653,190505.log,20:36:27,Cobro de PC,9,19:25:44,20:36:27,1:10:40,12,0,12,12,0,, 
+631,,190505.log,20:48:13,Impresión,,,,,,,,,0,,id:13 Inicio:20:41:20 Demora:00:06:53 Estado:Finalizado Doc:alumno_avance_ind_743301251484.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:2 Total Hojas:2 Tamako:1010321
+632,,190505.log,20:48:29,Impresión,,,,,,,,,0,,id:14 Inicio:20:42:51 Demora:00:05:38 Estado:Finalizado Doc:boletak5kcuatri.jsp.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:1 Tamako:412649
+633,,190505.log,20:48:50,Impresión,,,,,,,,,0,,id:15 Inicio:20:45:19 Demora:00:03:31 Estado:Finalizado Doc:alumno_avance_ind_743301251484.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:2 Tamako:1337980
+634,,190505.log,20:49:23,Impresión,,,,,,,,,0,,id:16 Inicio:20:47:24 Demora:00:01:59 Estado:Finalizado Doc:alumno_avance_ind_743301251484.pdf Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:2 Tamako:1337980
+635,,190505.log,20:50:49,Impresión,,,,,,,,,0,,id:17 Inicio:20:50:29 Demora:00:00:20 Estado:Finalizado Doc:ArchivokPDF Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:1 Total Hojas:1 Tamako:1600257
+636,,190505.log,20:51:53,Impresión,,,,,,,,,0,,id:18 Inicio:20:51:10 Demora:00:00:43 Estado:Finalizado Doc:ArchivokPDF Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::c0a0:8e36:4712:d6d7] Hojas Impresas:2 Total Hojas:2 Tamako:4503134
+637,654,190505.log,20:52:21,Cobro de PC,1,20:35:11,20:52:21,0:17:08,3,0,3,3,0,, 
+638,,190505.log,21:35:16,Cierre del Servidor,,,,,,,,,0,,
+639,,190505.log,21:35:16,Cierre del Servidor,,,,,,,,,0,,
+640,,190506.log,16:59:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+641,655,190506.log,17:16:20,Cobro de PC,1,17:16:01,17:16:20,0:00:17,3,0,3,3,0,, 
+642,,190506.log,17:22:38,Cierre del Servidor,,,,,,,,,0,,
+643,,190506.log,18:43:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+644,656,190506.log,19:13:16,Cobro de PC,1,18:44:33,19:13:16,0:28:40,5,0,5,5,0,, 
+645,,190506.log,19:13:45,Impresión,,,,,,,,,0,,id:3 Inicio:19:12:44 Demora:00:01:01 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:4 Total Hojas:4 Tamako:4093307
+646,657,190506.log,19:47:15,Cobro de PC,7,18:46:38,19:47:15,1:00:29,10,0,10,10,0,, 
+647,658,190506.log,19:55:34,Cobro de PC,7,19:47:20,19:55:34,0:07:50,3,0,3,3,0,, 
+648,,190506.log,20:22:07,Impresión,,,,,,,,,0,,id:4 Inicio:20:21:35 Demora:00:00:32 Estado:Finalizado Doc:img20190504_20181430.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:7143424
+649,,190506.log,20:50:51,Impresión,,,,,,,,,0,,id:5 Inicio:20:46:39 Demora:00:04:12 Estado:Finalizado Doc:MicrosoftkWordk-kggggggg Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:7 Total Hojas:7 Tamako:7465447
+650,,190506.log,20:52:09,Impresión,,,,,,,,,0,,id:6 Inicio:20:11:46 Demora:18:40:23 Estado:Finalizado Doc:MicrosoftkWordk-kREPORTE.007.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3232176
+651,,190506.log,20:53:50,Impresión,,,,,,,,,0,,id:7 Inicio:20:53:04 Demora:00:00:46 Estado:Finalizado Doc:RkbricakResekakCrktica.pdf Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:1779307
+652,,190506.log,20:56:04,Impresión,,,,,,,,,0,,id:8 Inicio:20:55:40 Demora:00:00:24 Estado:Finalizado Doc:CURP_CUGA140703HPLTLNA4.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3210704
+653,,190506.log,20:56:24,Impresión,,,,,,,,,0,,id:9 Inicio:20:55:55 Demora:00:00:29 Estado:Finalizado Doc:CURP_CUGA140703HPLTLNA4.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3210680
+654,,190506.log,21:05:52,Impresión,,,,,,,,,0,,id:10 Inicio:21:05:22 Demora:00:00:30 Estado:Finalizado Doc:20190505.pdf Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:739347
+655,,190506.log,21:07:21,Impresión,,,,,,,,,0,,id:11 Inicio:21:06:50 Demora:00:00:31 Estado:Finalizado Doc:INSTRUMENTO-DE-EVALUACIkN_rubrica-segundo-parcialk(1).pdf Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:1438621
+656,,190506.log,21:07:57,Impresión,,,,,,,,,0,,id:12 Inicio:21:07:36 Demora:00:00:21 Estado:Finalizado Doc:MicrosoftkWordk-kRubricakexposiciÃ³nkteoremas Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:3 Total Hojas:2 Tamako:350715
+657,,190506.log,21:08:38,Impresión,,,,,,,,,0,,id:13 Inicio:21:07:49 Demora:00:00:49 Estado:Finalizado Doc:246890222756.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:33104952
+658,,190506.log,21:08:52,Impresión,,,,,,,,,0,,id:14 Inicio:21:08:21 Demora:00:00:31 Estado:Finalizado Doc:246890222756.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:33104904
+659,,190506.log,21:09:27,Impresión,,,,,,,,,0,,id:15 Inicio:21:09:13 Demora:00:00:14 Estado:Finalizado Doc:246890222756.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:36446124
+660,,190506.log,21:12:23,Impresión,,,,,,,,,0,,id:16 Inicio:21:10:32 Demora:00:01:51 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:5 Total Hojas:5 Tamako:4618319
+661,659,190506.log,21:14:22,Venta de Extra,9,,,,,35,,,0,,1  Varios
+662,659,190506.log,21:14:22,Cobro de PC,9,20:44:45,21:14:22,0:29:34,5,35,40,40,0,, 
+663,,190506.log,21:18:51,Cierre del Servidor,,,,,,,,,0,,
+664,,190506.log,21:18:51,Cierre del Servidor,,,,,,,,,0,,
+665,,190507.log,16:11:56,Arranque del Servidor,,,,,,,,,0,, 1.647b
+666,,190507.log,16:30:12,Impresión,,,,,,,,,0,,id:17 Inicio:16:29:51 Demora:00:00:21 Estado:Finalizado Doc:AcuseDomicilioContacto.jsf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2669184
+667,660,190507.log,17:58:44,Cobro de PC,7,17:28:27,17:58:44,0:30:00,5,0,5,5,0,, 
+668,661,190507.log,18:26:16,Venta de Extra,9,,,,,5,,,0,,1  Varios
+669,661,190507.log,18:26:16,Cobro de PC,9,18:03:40,18:26:16,0:22:32,4,5,9,9,0,, 
+670,,190507.log,18:38:48,Impresión,,,,,,,,,0,,id:18 Inicio:18:38:14 Demora:00:00:34 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:1273426
+671,662,190507.log,18:39:16,Cobro de PC,1,18:23:15,18:39:16,0:15:52,3,0,3,3,0,, 
+672,,190507.log,18:41:24,Impresión,,,,,,,,,0,,id:19 Inicio:18:39:54 Demora:00:01:30 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamako:2696140
+673,663,190507.log,18:59:03,Cobro de PC,7,17:58:55,18:59:03,1:00:00,10,0,10,10,0,, 
+674,664,190507.log,19:02:11,Venta de Extra,7,,,,,10,,,0,,1  Varios
+675,664,190507.log,19:02:11,Cobro de PC,7,18:59:14,19:02:11,0:02:29,3,10,13,13,0,, 
+676,,190507.log,21:15:49,Impresión,,,,,,,,,0,,id:20 Inicio:21:15:20 Demora:00:00:29 Estado:Finalizado Doc:Carta_de_Ingresos_ROSY[1].pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2217272
+677,,190507.log,21:51:21,Impresión,,,,,,,,,0,,id:21 Inicio:21:49:15 Demora:00:02:06 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:5 Total Hojas:4 Tamako:3139253
+678,665,190507.log,21:52:51,Cobro de PC,1,20:48:31,21:52:51,1:03:14,10.5,0,10.5,10.5,0,, 
+679,,190507.log,22:01:49,Cierre del Servidor,,,,,,,,,0,,
+680,,190507.log,22:01:49,Cierre del Servidor,,,,,,,,,0,,
+681,,190508.log,15:56:28,Arranque del Servidor,,,,,,,,,0,, 1.647b
+682,666,190508.log,16:52:18,Cobro de PC,7,15:56:39,16:52:18,0:55:25,9,0,9,9,0,, 
+683,,190508.log,17:56:06,Impresión,,,,,,,,,0,,id:22 Inicio:17:55:58 Demora:00:00:08 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:171
+684,667,190508.log,18:28:15,Venta de Extra,2,,,,,5,,,0,,1  Varios
+685,667,190508.log,18:28:15,Cobro de PC,2,17:57:51,18:28:15,0:30:21,5,5,10,10,0,, 
+686,668,190508.log,18:38:33,Cobro de PC,1,17:30:11,18:38:33,1:08:12,11.5,0,11.5,11.5,0,, 
+687,,190508.log,18:41:21,Impresión,,,,,,,,,0,,id:23 Inicio:18:40:57 Demora:00:00:24 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:37132
+688,,190508.log,18:44:06,Impresión,,,,,,,,,0,,id:24 Inicio:18:43:51 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:44628
+689,669,190508.log,19:00:32,Venta de Extra,2,,,,,5,,,0,,1  Varios
+690,669,190508.log,19:00:32,Cobro de PC,2,18:28:16,19:00:32,0:30:00,5,5,10,10,0,, 
+691,,190508.log,19:07:52,Impresión,,,,,,,,,0,,id:26 Inicio:19:07:51 Demora:00:00:01 Estado:Finalizado Doc:47323945_744758742567792_995424147624427520_n.jpg Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:0 Tamako:0
+692,,190508.log,19:08:29,Impresión,,,,,,,,,0,,id:25 Inicio:19:07:50 Demora:00:00:39 Estado:Finalizado Doc:47323945_744758742567792_995424147624427520_n.jpg Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1961468
+693,670,190508.log,19:09:29,Cobro de PC,7,18:39:17,19:09:29,0:30:00,5,0,5,5,0,, 
+694,,190508.log,19:40:02,Impresión,,,,,,,,,0,,id:27 Inicio:19:39:15 Demora:00:00:47 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1180808
+695,671,190508.log,19:40:26,Venta de Extra,7,,,,,5,,,0,,1  Varios
+696,671,190508.log,19:40:26,Cobro de PC,7,19:09:38,19:40:26,0:26:52,4.5,5,9.5,9.5,0,, 
+697,,190508.log,20:00:37,Impresión,,,,,,,,,0,,id:28 Inicio:20:00:08 Demora:00:00:29 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:289484
+698,,190508.log,20:51:45,Impresión,,,,,,,,,0,,id:29 Inicio:20:49:12 Demora:00:02:33 Estado:Finalizado Doc:MicrosoftkPowerPointk-kdiakdeklakmadre.pptx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:29034588
+699,,190508.log,20:59:07,Impresión,,,,,,,,,0,,id:30 Inicio:20:58:57 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-kMerarikGutierrez.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:589824
+700,,190508.log,21:01:38,Impresión,,,,,,,,,0,,id:31 Inicio:21:01:15 Demora:00:00:23 Estado:Finalizado Doc:Copia-de-5-1-Tarjeta-de-control-de-horas-SERVICIO-SOCIAL.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:306868
+701,,190508.log,21:02:01,Impresión,,,,,,,,,0,,id:32 Inicio:21:01:24 Demora:00:00:37 Estado:Finalizado Doc:FECHA-5.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:306720
+702,,190508.log,21:02:24,Impresión,,,,,,,,,0,,id:33 Inicio:21:01:35 Demora:00:00:49 Estado:Finalizado Doc:FECHA-6.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:307152
+703,,190508.log,21:02:46,Impresión,,,,,,,,,0,,id:34 Inicio:21:01:54 Demora:00:00:52 Estado:Finalizado Doc:FECHA-7.xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:305852
+704,,190508.log,21:03:36,Impresión,,,,,,,,,0,,id:35 Inicio:21:02:06 Demora:00:01:30 Estado:Finalizado Doc:MicrosoftkWordk-kRubricakdekvideo.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:5511600
+705,,190508.log,21:03:55,Impresión,,,,,,,,,0,,id:36 Inicio:21:02:37 Demora:00:01:18 Estado:Finalizado Doc:MicrosoftkWordk-kreportekk6G Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:472898
+706,,190508.log,21:07:27,Impresión,,,,,,,,,0,,id:37 Inicio:21:07:02 Demora:00:00:25 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:70056
+707,,190508.log,21:09:03,Impresión,,,,,,,,,0,,id:38 Inicio:21:08:34 Demora:00:00:29 Estado:Finalizado Doc:MicrosoftkWordk-kservicio-social-final-CARIkO Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:1407417
+708,,190508.log,21:12:01,Impresión,,,,,,,,,0,,id:39 Inicio:21:11:39 Demora:00:00:22 Estado:Finalizado Doc:REPORTE-6-gus.xlsx Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:840369
+709,,190508.log,21:13:02,Impresión,,,,,,,,,0,,id:40 Inicio:21:12:51 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-k7-Constancia-de-terminacikn-instituciknG Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:1 Total Hojas:1 Tamako:86056
+710,672,190508.log,21:14:14,Cobro de PC,1,20:56:06,21:14:14,0:18:04,3,0,3,3,0,, 
+711,,190508.log,21:14:18,Cierre del Servidor,,,,,,,,,0,,
+712,,190508.log,21:14:18,Cierre del Servidor,,,,,,,,,0,,
+713,,190509.log,17:28:28,Arranque del Servidor,,,,,,,,,0,, 1.647b
+714,673,190509.log,18:08:06,Cobro de PC,1,17:28:38,18:08:06,0:39:23,6.5,0,6.5,6.5,0,, 
+715,674,190509.log,19:09:55,Cobro de PC,7,18:09:46,19:09:55,1:00:00,10,0,10,10,0,, 
+716,675,190509.log,19:10:18,Cobro de PC,9,18:56:15,19:10:18,0:13:59,3,0,3,3,0,, 
+717,676,190509.log,19:37:26,Cobro de PC,7,19:10:10,19:37:26,0:26:42,4.5,0,4.5,4.5,0,, 
+718,677,190509.log,20:08:54,Cobro de PC,7,19:37:53,20:08:54,0:30:58,5,0,5,5,0,, 
+719,,190509.log,20:40:59,Impresión,,,,,,,,,0,,id:46 Inicio:20:40:22 Demora:00:00:37 Estado:Finalizado Doc:MicrosoftkWordk-kcapkdekecologia.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:22556332
+720,,190509.log,20:41:24,Impresión,,,,,,,,,0,,id:47 Inicio:20:40:42 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kcapkdekecologia.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:22556332
+721,,190509.log,20:55:28,Impresión,,,,,,,,,0,,id:48 Inicio:20:50:27 Demora:00:05:01 Estado:Finalizado Doc:MANUALkECOLOGIAk.pdf Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:6956241
+722,678,190509.log,20:58:45,Cobro de PC,9,20:44:09,20:58:45,0:14:16,3,0,3,3,0,, 
+723,,190509.log,21:25:34,Impresión,,,,,,,,,0,,id:49 Inicio:21:24:20 Demora:00:01:14 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:35280252
+724,,190509.log,21:29:24,Impresión,,,,,,,,,0,,id:50 Inicio:21:29:21 Demora:00:00:03 Estado:Finalizado Doc:MicrosoftkWordk-kEjercicioskdekcalculok4kAkTRAP.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+725,,190509.log,21:34:03,Cierre del Servidor,,,,,,,,,0,,
+726,,190509.log,21:34:03,Cierre del Servidor,,,,,,,,,0,,
+727,,190510.log,15:47:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+728,,190510.log,19:27:29,Impresión,,,,,,,,,0,,id:52 Inicio:19:26:31 Demora:00:00:58 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2770440
+729,679,190510.log,19:28:40,Cobro de PC,9,18:58:32,19:28:40,0:30:00,5,0,5,5,0,, 
+730,680,190510.log,19:40:28,Cobro de PC,7,18:47:55,19:40:28,0:52:31,9,0,9,9,0,, 
+731,681,190510.log,19:40:37,Cobro de PC,8,18:48:04,19:40:37,0:52:30,9,0,9,9,0,, 
+732,682,190510.log,19:43:40,Cobro de PC,1,18:52:18,19:43:40,0:51:14,8.5,0,8.5,8.5,0,, 
+733,683,190510.log,19:53:24,Cobro de PC,2,19:29:33,19:53:24,0:23:47,4,0,4,4,0,, 
+734,684,190510.log,20:30:15,Cobro de PC,9,19:29:05,20:30:15,1:01:05,10,0,10,10,0,, 
+735,685,190510.log,20:48:57,Cobro de PC,9,20:30:47,20:48:57,0:18:09,3,0,3,3,0,, 
+736,686,190510.log,20:52:26,Cobro de PC,7,19:55:35,20:52:26,0:56:46,9.5,0,9.5,9.5,0,, 
+737,,190510.log,20:55:09,Cierre del Servidor,,,,,,,,,0,,
+738,,190510.log,20:55:09,Cierre del Servidor,,,,,,,,,0,,
+739,,190513.log,18:24:22,Arranque del Servidor,,,,,,,,,0,, 1.647b
+740,687,190513.log,18:36:09,Cobro de PC,1,18:24:42,18:36:09,0:10:21,3,0,3,3,0,, 
+741,688,190513.log,19:21:04,Cobro de PC,7,18:50:56,19:21:04,0:30:00,5,0,5,5,0,, 
+742,689,190513.log,19:37:10,Cobro de PC,9,18:43:08,19:37:10,0:53:55,9,0,9,9,0,, 
+743,,190513.log,19:42:13,Impresión,,,,,,,,,0,,id:54 Inicio:19:41:22 Demora:00:00:51 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:271784
+744,,190513.log,19:45:40,Impresión,,,,,,,,,0,,id:55 Inicio:19:45:31 Demora:00:00:09 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:2 Tamako:524288
+745,,190513.log,19:48:42,Impresión,,,,,,,,,0,,id:56 Inicio:19:48:22 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:3080192
+746,690,190513.log,19:49:35,Venta de Extra,7,,,,,5,,,0,,1  Varios
+747,690,190513.log,19:49:35,Cobro de PC,7,19:21:39,19:49:35,0:15:50,3,5,8,8,0,, 
+748,691,190513.log,21:15:26,Cobro de PC,1,20:07:15,21:15:26,1:08:03,11.5,0,11.5,11.5,0,, 
+749,,190513.log,21:49:02,Cierre del Servidor,,,,,,,,,0,,
+750,,190513.log,21:49:02,Cierre del Servidor,,,,,,,,,0,,
+751,,190514.log,16:51:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+752,692,190514.log,17:23:06,Cobro de PC,7,16:51:19,17:23:06,0:30:00,5,0,5,5,0,, 
+753,693,190514.log,17:49:03,Venta de Extra,7,,,,,5,,,0,,1  Varios
+754,693,190514.log,17:49:03,Cobro de PC,7,17:23:10,17:49:03,0:25:49,4.5,5,9.5,9.5,0,, 
+755,694,190514.log,18:54:42,Cobro de PC,9,17:49:08,18:54:42,1:05:25,11,0,11,11,0,, 
+756,,190514.log,20:50:12,Cierre del Servidor,,,,,,,,,0,,
+757,,190514.log,21:01:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+758,695,190514.log,21:32:13,Cobro de PC,2,21:02:05,21:32:13,0:30:00,5,0,5,5,0,, 
+759,,190514.log,21:32:20,Cierre del Servidor,,,,,,,,,0,,
+760,,190514.log,21:32:20,Cierre del Servidor,,,,,,,,,0,,
+761,,190515.log,14:50:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+762,,190515.log,15:03:04,Impresión,,,,,,,,,0,,id:58 Inicio:15:02:28 Demora:00:00:36 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1568876
+763,696,190515.log,15:52:45,Cobro de PC,7,14:51:42,15:52:45,1:00:00,10,0,10,10,0,, 
+764,697,190515.log,15:58:37,Venta de Extra,7,,,,,10,,,0,,1  Varios
+765,697,190515.log,15:58:37,Cobro de PC,7,15:52:56,15:58:37,0:05:39,3,10,13,13,0,, 
+766,698,190515.log,18:36:03,Cobro de PC,7,17:46:13,18:36:03,0:49:45,8.5,0,8.5,8.5,0,, 
+767,,190515.log,18:52:12,Impresión,,,,,,,,,0,,id:59 Inicio:18:51:35 Demora:00:00:37 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2031616
+768,699,190515.log,19:06:22,Cobro de PC,7,18:48:14,19:06:22,0:14:15,3,0,3,3,0,, 
+769,700,190515.log,19:26:58,Cobro de PC,7,19:06:25,19:26:58,0:20:27,3.5,0,3.5,3.5,0,, 
+770,701,190515.log,20:48:07,Cobro de PC,7,20:17:52,20:48:07,0:30:00,5,0,5,5,0,, 
+771,,190515.log,21:17:20,Impresión,,,,,,,,,0,,id:60 Inicio:21:16:57 Demora:00:00:23 Estado:Finalizado Doc:CURP_OOCA961129MPLCRR05.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3221440
+772,,190515.log,21:17:31,Impresión,,,,,,,,,0,,id:61 Inicio:21:17:08 Demora:00:00:23 Estado:Finalizado Doc:CURP_OOCA961129MPLCRR05.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3221416
+773,,190515.log,21:31:10,Cierre del Servidor,,,,,,,,,0,,
+774,,190515.log,21:31:10,Cierre del Servidor,,,,,,,,,0,,
+775,,190516.log,15:48:45,Arranque del Servidor,,,,,,,,,0,, 1.647b
+776,702,190516.log,15:58:11,Cobro de PC,1,15:56:32,15:58:11,0:01:16,3,0,3,3,0,, 
+777,703,190516.log,15:58:28,Cobro de PC,2,15:58:13,15:58:28,0:00:13,3,0,3,3,0,, 
+778,704,190516.log,16:12:31,Cobro de PC,7,15:49:05,16:12:31,0:23:01,4,0,4,4,0,, 
+779,705,190516.log,17:19:32,Venta de Extra,2,,,,,3,,,0,,1  Varios
+780,705,190516.log,17:19:32,Cobro de PC,2,15:58:39,17:19:32,1:20:48,13.5,3,16.5,16.5,0,, 
+781,,190516.log,18:09:40,Impresión,,,,,,,,,0,,id:62 Inicio:18:09:13 Demora:00:00:27 Estado:Finalizado Doc:formatoDePago.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1900544
+782,,190516.log,21:06:04,Cierre del Servidor,,,,,,,,,0,,
+783,,190516.log,21:06:04,Cierre del Servidor,,,,,,,,,0,,
+784,,190517.log,15:11:36,Arranque del Servidor,,,,,,,,,0,, 1.647b
+785,706,190517.log,17:23:36,Cobro de PC,9,17:23:33,17:23:36,0:00:01,3,0,3,3,0,, 
+786,707,190517.log,17:53:49,Cobro de PC,9,17:23:43,17:53:49,0:30:00,5,0,5,5,0,, 
+787,708,190517.log,17:54:18,Venta de Extra,9,,,,,0,,,0,,1  Varios
+788,708,190517.log,17:54:18,Cobro de PC,9,17:54:06,17:54:18,0:00:10,3,0,3,3,0,, 
+789,709,190517.log,18:54:27,Cobro de PC,8,17:54:15,18:54:27,1:00:00,10,0,10,10,0,, 
+790,710,190517.log,19:05:14,Venta de Extra,8,,,,,10,,,0,,1  Varios
+791,710,190517.log,19:05:14,Cobro de PC,8,18:54:41,19:05:14,0:10:29,3,10,13,13,0,, 
+792,711,190517.log,19:44:52,Cobro de PC,7,19:44:43,19:44:52,0:00:08,3,0,3,3,0,, 
+793,712,190517.log,20:15:49,Cobro de PC,7,19:44:58,20:15:49,0:30:00,5,0,5,5,0,, 
+794,,190517.log,21:13:14,Cierre del Servidor,,,,,,,,,0,,
+795,,190517.log,21:13:14,Cierre del Servidor,,,,,,,,,0,,
+796,,190518.log,14:39:02,Arranque del Servidor,,,,,,,,,0,, 1.647b
+797,713,190518.log,15:39:21,Cobro de PC,7,14:39:10,15:39:21,1:00:00,10,0,10,10,0,, 
+798,714,190518.log,15:39:24,Cobro de PC,9,14:39:15,15:39:24,1:00:00,10,0,10,10,0,, 
+799,715,190518.log,15:50:40,Cobro de PC,9,15:39:53,15:50:40,0:10:45,3,0,3,3,0,, 
+800,716,190518.log,16:10:02,Cobro de PC,7,15:39:54,16:10:02,0:30:00,5,0,5,5,0,, 
+801,717,190518.log,18:59:42,Cobro de PC,9,18:31:05,18:59:42,0:28:34,5,0,5,5,0,, 
+802,718,190518.log,18:59:50,Cobro de PC,7,18:48:58,18:59:50,0:10:47,3,0,3,3,0,, 
+803,719,190518.log,20:18:47,Cobro de PC,9,19:48:43,20:18:47,0:30:00,5,0,5,5,0,, 
+804,720,190518.log,20:43:36,Venta de Extra,9,,,,,5,,,0,,1  Varios
+805,720,190518.log,20:43:36,Cobro de PC,9,20:18:53,20:43:36,0:23:53,4,5,9,9,0,, 
+806,,190518.log,21:00:06,Impresión,,,,,,,,,0,,id:63 Inicio:20:58:38 Demora:00:01:28 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:4 Total Hojas:1 Tamako:30865
+807,721,190518.log,21:01:01,Cobro de PC,9,20:44:28,21:01:01,0:16:19,3,0,3,3,0,, 
+808,722,190518.log,21:02:42,Venta de Extra,4,,,,,0,,,0,,1  Varios
+809,722,190518.log,21:02:42,Cobro de PC,4,20:44:33,21:02:42,0:18:06,3,0,3,3,0,, 
+810,,190518.log,21:05:22,Cierre del Servidor,,,,,,,,,0,,
+811,,190518.log,21:05:22,Cierre del Servidor,,,,,,,,,0,,
+812,,190519.log,12:27:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+813,723,190519.log,14:27:58,Cobro de PC,9,13:26:41,14:27:58,1:00:00,10,0,10,10,0,, 
+814,724,190519.log,15:00:13,Cobro de PC,7,12:31:53,15:00:13,2:28:00,24.5,0,24.5,24.5,0,, 
+815,725,190519.log,15:33:42,Cobro de PC,9,14:28:30,15:33:42,1:04:56,11,0,11,11,0,, 
+816,726,190519.log,15:37:30,Cobro de PC,7,15:04:51,15:37:30,0:30:00,5,0,5,5,0,, 
+817,,190519.log,17:27:29,Impresión,,,,,,,,,0,,id:64 Inicio:17:26:47 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:3 Total Hojas:1 Tamako:416354
+818,727,190519.log,18:51:00,Cobro de PC,9,17:55:25,18:51:00,0:54:03,9,0,9,9,0,, 
+819,728,190519.log,19:42:43,Cobro de PC,9,18:54:11,19:42:43,0:48:14,8,0,8,8,0,, 
+820,729,190519.log,21:40:38,Cobro de PC,2,20:41:22,21:40:38,0:58:58,10,0,10,10,0,, 
+821,,190519.log,21:40:51,Cierre del Servidor,,,,,,,,,0,,
+822,,190519.log,21:40:51,Cierre del Servidor,,,,,,,,,0,,
+823,,190520.log,16:20:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+824,730,190520.log,17:00:13,Cobro de PC,1,16:59:52,17:00:13,0:00:18,3,0,3,3,0,, 
+825,731,190520.log,17:15:54,Cobro de PC,7,16:20:26,17:15:54,0:55:19,9,0,9,9,0,, 
+826,732,190520.log,17:16:00,Cobro de PC,9,16:20:20,17:16:00,0:55:37,9.5,0,9.5,9.5,0,, 
+827,733,190520.log,17:41:35,Cobro de PC,2,17:00:17,17:41:35,0:41:15,7,0,7,7,0,, 
+828,,190520.log,18:57:59,Impresión,,,,,,,,,0,,id:65 Inicio:18:57:17 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:3030988
+829,734,190520.log,18:59:02,Cobro de PC,9,18:06:37,18:59:02,0:50:59,8.5,0,8.5,8.5,0,, 
+830,,190520.log,21:09:17,Impresión,,,,,,,,,0,,id:66 Inicio:21:08:14 Demora:00:01:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:8519776
+831,735,190520.log,21:10:48,Cobro de PC,9,20:40:45,21:10:48,0:30:00,5,0,5,5,0,, 
+832,736,190520.log,21:19:36,Venta de Extra,9,,,,,5,,,0,,1  Varios
+833,736,190520.log,21:19:36,Cobro de PC,9,21:10:52,21:19:36,0:08:39,3,5,8,8,0,, 
+834,,190520.log,21:23:11,Impresión,,,,,,,,,0,,id:67 Inicio:21:22:39 Demora:00:00:32 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:589824
+835,,190520.log,22:04:53,Cierre del Servidor,,,,,,,,,0,,
+836,,190520.log,22:04:53,Cierre del Servidor,,,,,,,,,0,,
+837,,190521.log,17:28:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+838,737,190521.log,18:02:02,Cobro de PC,7,17:31:58,18:02:02,0:30:00,5,0,5,5,0,, 
+839,738,190521.log,18:31:03,Venta de Extra,7,,,,,5,,,0,,1  Varios
+840,738,190521.log,18:31:03,Cobro de PC,7,18:02:07,18:31:03,0:28:55,5,5,10,10,0,, 
+841,,190521.log,19:21:11,Impresión,,,,,,,,,0,,id:69 Inicio:19:20:27 Demora:00:00:44 Estado:Finalizado Doc:MicrosoftkWordk-kCLASEkDELk14kDEkENEROkDEk1976.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:131124
+842,,190521.log,19:43:52,Impresión,,,,,,,,,0,,id:70 Inicio:19:42:56 Demora:00:00:56 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2752512
+843,,190521.log,20:47:01,Arranque del Servidor,,,,,,,,,0,, 1.647b
+844,739,190521.log,21:18:06,Cobro de PC,2,20:47:05,21:18:06,0:30:59,5,0,5,5,0,, 
+845,,190521.log,21:18:07,Cierre del Servidor,,,,,,,,,0,,
+846,,190521.log,21:18:07,Cierre del Servidor,,,,,,,,,0,,
+847,,190522.log,16:09:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+848,,190522.log,16:11:51,Impresión,,,,,,,,,0,,id:2 Inicio:16:11:05 Demora:00:00:46 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2147152
+849,,190522.log,16:41:21,Impresión,,,,,,,,,0,,id:3 Inicio:16:40:01 Demora:00:01:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:1 Tamako:1997293
+850,740,190522.log,16:58:44,Venta de Extra,2,,,,,9,,,0,,1  Varios
+851,740,190522.log,16:58:44,Cobro de PC,2,16:09:19,16:58:44,0:48:44,8,9,17,17,0,, 
+852,741,190522.log,20:00:07,Cobro de PC,9,19:33:14,20:00:07,0:26:51,4.5,0,4.5,4.5,0,, 
+853,,190522.log,20:19:26,Impresión,,,,,,,,,0,,id:4 Inicio:20:18:56 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:262144
+854,742,190522.log,20:20:48,Cobro de PC,9,20:00:20,20:20:48,0:20:23,3.5,0,3.5,3.5,0,, 
+855,,190522.log,20:20:59,Impresión,,,,,,,,,0,,id:5 Inicio:20:20:28 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:2 Tamako:919684
+856,743,190522.log,20:23:05,Venta de Extra,9,,,,,10,,,0,,1  Varios
+857,743,190522.log,20:23:05,Cobro de PC,9,20:20:54,20:23:05,0:01:42,3,10,13,13,0,, 
+858,,190522.log,20:38:11,Impresión,,,,,,,,,0,,id:6 Inicio:20:36:39 Demora:00:01:32 Estado:Finalizado Doc:MicrosoftkWordk-kTarjetakMadre.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:26345472
+859,,190522.log,21:10:20,Cierre del Servidor,,,,,,,,,0,,
+860,,190522.log,21:15:48,Arranque del Servidor,,,,,,,,,0,, 1.647b
+861,,190522.log,21:20:56,Impresión,,,,,,,,,0,,id:7 Inicio:21:19:33 Demora:00:01:23 Estado:Finalizado Doc:MicrosoftkWordk-kmenukprinipalkcap.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:4306512
+862,,190522.log,21:21:52,Impresión,,,,,,,,,0,,id:8 Inicio:21:21:20 Demora:00:00:32 Estado:Finalizado Doc:MicrosoftkWordk-kmenukprinipalkcap.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:26047532
+863,744,190522.log,21:40:35,Cobro de PC,2,21:15:57,21:40:35,0:24:35,4,0,4,4,0,, 
+864,,190522.log,21:40:36,Cierre del Servidor,,,,,,,,,0,,
+865,,190522.log,21:40:36,Cierre del Servidor,,,,,,,,,0,,
+866,,190523.log,18:14:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+867,,190523.log,18:36:16,Impresión,,,,,,,,,0,,id:16 Inicio:18:35:40 Demora:00:00:36 Estado:Finalizado Doc:CURP_GURM900502MPLTMY01.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1613184
+868,745,190523.log,19:39:34,Cobro de PC,9,18:40:06,19:39:34,0:59:24,10,0,10,10,0,, 
+869,746,190523.log,19:50:59,Cobro de PC,8,19:50:54,19:50:59,0:00:04,3,0,3,3,0,, 
+870,,190523.log,20:50:22,Impresión,,,,,,,,,0,,id:17 Inicio:20:49:47 Demora:00:00:34 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:3079571
+871,747,190523.log,21:03:46,Cobro de PC,8,19:51:12,21:03:46,1:12:32,12,0,12,12,0,, 
+872,,190523.log,21:07:04,Impresión,,,,,,,,,0,,id:18 Inicio:21:06:35 Demora:00:00:29 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:3076304
+873,,190523.log,21:11:00,Impresión,,,,,,,,,0,,id:19 Inicio:21:10:47 Demora:00:00:13 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:644995
+874,748,190523.log,21:11:46,Cobro de PC,9,21:01:01,21:11:46,0:10:42,3,0,3,3,0,, 
+875,,190523.log,21:32:48,Impresión,,,,,,,,,0,,id:20 Inicio:21:28:42 Demora:00:04:06 Estado:Finalizado Doc:MicrosoftkWordk-k7-cartakdekliberaciknkPRkCTICASkPROFESIONALESk(institucikn) Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:1 Total Hojas:1 Tamako:257392
+876,749,190523.log,21:33:14,Cobro de PC,2,20:16:43,21:33:14,1:16:25,12.5,0,12.5,12.5,0,, 
+877,,190523.log,21:33:23,Impresión,,,,,,,,,0,,id:21 Inicio:21:32:25 Demora:00:00:58 Estado:Finalizado Doc:5.1-tarjetakdekcontrolkdekhoraskPRkCTICASkPROFESIONALESk(estudiante).xlsx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:306964
+878,750,190523.log,21:33:24,Cobro de PC,3,20:41:34,21:33:24,0:51:47,8.5,0,8.5,8.5,0,, 
+879,,190523.log,21:34:17,Cierre del Servidor,,,,,,,,,0,,
+880,,190523.log,21:36:49,Arranque del Servidor,,,,,,,,,0,, 1.647b
+881,,190523.log,21:37:37,Cierre del Servidor,,,,,,,,,0,,
+882,,190523.log,21:37:37,Cierre del Servidor,,,,,,,,,0,,
+883,,190524.log,18:11:06,Arranque del Servidor,,,,,,,,,0,, 1.647b
+884,751,190524.log,18:41:34,Cobro de PC,7,18:11:25,18:41:34,0:30:00,5,0,5,5,0,, 
+885,752,190524.log,19:07:43,Venta de Extra,7,,,,,5,,,0,,1  Varios
+886,752,190524.log,19:07:43,Cobro de PC,7,18:41:39,19:07:43,0:26:01,4.5,5,9.5,9.5,0,, 
+887,753,190524.log,20:14:51,Cobro de PC,7,19:18:30,20:14:51,0:56:08,9.5,0,9.5,9.5,0,, 
+888,,190524.log,21:37:40,Cierre del Servidor,,,,,,,,,0,,
+889,,190524.log,21:37:40,Cierre del Servidor,,,,,,,,,0,,
+890,,190525.log,15:09:42,Arranque del Servidor,,,,,,,,,0,, 1.647b
+891,754,190525.log,16:42:02,Cobro de PC,9,15:09:47,16:42:02,1:32:04,15.5,0,15.5,15.5,0,, 
+892,,190525.log,18:55:23,Impresión,,,,,,,,,0,,id:22 Inicio:18:55:06 Demora:00:00:17 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:665050
+893,755,190525.log,18:55:53,Cobro de PC,1,18:51:08,18:55:53,0:04:41,3,0,3,3,0,, 
+894,,190525.log,20:34:08,Cierre del Servidor,,,,,,,,,0,,
+895,,190525.log,20:34:08,Cierre del Servidor,,,,,,,,,0,,
+896,,190526.log,13:25:56,Arranque del Servidor,,,,,,,,,0,, 1.647b
+897,756,190526.log,14:54:07,Cobro de PC,7,13:26:07,14:54:07,1:27:37,14.5,0,14.5,14.5,0,, 
+898,757,190526.log,14:55:22,Cobro de PC,9,14:24:25,14:55:22,0:30:00,5,0,5,5,0,, 
+899,,190526.log,15:14:23,Impresión,,,,,,,,,0,,id:23 Inicio:15:13:56 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:21395920
+900,758,190526.log,16:26:59,Cobro de PC,9,14:56:56,16:26:59,1:30:00,15,0,15,15,0,, 
+901,759,190526.log,16:59:36,Cobro de PC,7,16:32:29,16:59:36,0:26:37,4.5,0,4.5,4.5,0,, 
+902,760,190526.log,19:03:07,Cobro de PC,9,17:46:41,19:03:07,1:15:53,12.5,0,12.5,12.5,0,, 
+903,761,190526.log,19:41:45,Cobro de PC,2,18:31:56,19:41:45,1:08:46,11.5,0,11.5,11.5,0,, 
+904,,190526.log,19:42:48,Impresión,,,,,,,,,0,,id:24 Inicio:19:39:37 Demora:00:03:11 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:8 Total Hojas:6 Tamako:7620235
+905,762,190526.log,19:46:43,Cobro de PC,7,17:46:40,19:46:43,2:00:00,20,0,20,20,0,, 
+906,763,190526.log,20:19:22,Cobro de PC,7,19:52:24,20:19:22,0:26:00,4.5,0,4.5,4.5,0,, 
+907,,190526.log,20:33:05,Impresión,,,,,,,,,0,,id:25 Inicio:20:32:15 Demora:00:00:50 Estado:Finalizado Doc:MicrosoftkWordk-kTrabajokdekInformatica.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:15859712
+908,,190526.log,21:03:38,Impresión,,,,,,,,,0,,id:26 Inicio:21:02:55 Demora:00:00:43 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:1 Total Hojas:1 Tamako:585240
+909,764,190526.log,21:04:38,Venta de Extra,3,,,,,6,,,0,,1  Varios
+910,764,190526.log,21:04:38,Cobro de PC,3,20:53:42,21:04:38,0:10:34,3,6,9,9,0,, 
+911,765,190526.log,21:43:02,Cobro de PC,2,20:19:26,21:43:02,1:23:33,14,0,14,14,0,, 
+912,,190526.log,21:55:58,Cierre del Servidor,,,,,,,,,0,,
+913,,190526.log,21:55:58,Cierre del Servidor,,,,,,,,,0,,
+914,,190527.log,16:42:11,Arranque del Servidor,,,,,,,,,0,, 1.647b
+915,,190527.log,17:29:59,Impresión,,,,,,,,,0,,id:27 Inicio:17:29:34 Demora:00:00:25 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:2348227
+916,,190527.log,18:00:22,Impresión,,,,,,,,,0,,id:28 Inicio:17:59:17 Demora:00:01:05 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:1637848
+917,766,190527.log,18:17:14,Cobro de PC,7,17:47:05,18:17:14,0:30:00,5,0,5,5,0,, 
+918,,190527.log,18:35:47,Impresión,,,,,,,,,0,,id:29 Inicio:18:35:24 Demora:00:00:23 Estado:Finalizado Doc:MicrosoftkWordk-kCARTAkACEPTACIONkBRAYAN.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:45832
+919,767,190527.log,18:46:57,Venta de Extra,7,,,,,5,,,0,,1  Varios
+920,767,190527.log,18:46:57,Cobro de PC,7,18:17:18,18:46:57,0:29:36,5,5,10,10,0,, 
+921,768,190527.log,18:48:06,Cobro de PC,2,18:38:03,18:48:06,0:09:56,3,0,3,3,0,, 
+922,,190527.log,19:01:12,Impresión,,,,,,,,,0,,id:30 Inicio:19:00:33 Demora:00:00:39 Estado:Finalizado Doc:MicrosoftkWordk-kVITAE.rtf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:5 Total Hojas:5 Tamako:141164
+923,,190527.log,19:06:47,Impresión,,,,,,,,,0,,id:31 Inicio:19:06:36 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kVITAE.rtf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:78512
+924,769,190527.log,19:06:58,Cobro de PC,7,18:47:09,19:06:58,0:19:48,3.5,0,3.5,3.5,0,, 
+925,,190527.log,20:18:33,Impresión,,,,,,,,,0,,id:32 Inicio:20:17:57 Demora:00:00:36 Estado:Finalizado Doc:CURP_TESP940226HPLLLR07.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+926,,190527.log,20:18:45,Impresión,,,,,,,,,0,,id:33 Inicio:20:18:09 Demora:00:00:36 Estado:Finalizado Doc:CURP_TESP940226HPLLLR07.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3214240
+927,,190527.log,20:20:11,Impresión,,,,,,,,,0,,id:34 Inicio:20:19:57 Demora:00:00:14 Estado:Finalizado Doc:CURP_AARG980904MPLLJD03.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3223936
+928,,190527.log,20:20:32,Impresión,,,,,,,,,0,,id:35 Inicio:20:20:08 Demora:00:00:24 Estado:Finalizado Doc:CURP_AARG980904MPLLJD03.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4456448
+929,,190527.log,20:21:19,Impresión,,,,,,,,,0,,id:36 Inicio:20:20:58 Demora:00:00:21 Estado:Finalizado Doc:CURP_TEAP180302HPLLLRA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+930,,190527.log,20:21:31,Impresión,,,,,,,,,0,,id:37 Inicio:20:21:06 Demora:00:00:25 Estado:Finalizado Doc:CURP_TEAP180302HPLLLRA6.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3220368
+931,,190527.log,20:24:02,Impresión,,,,,,,,,0,,id:38 Inicio:20:23:51 Demora:00:00:11 Estado:Finalizado Doc:CURP_TEAV151008MPLLLLA3.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+932,,190527.log,20:24:24,Impresión,,,,,,,,,0,,id:39 Inicio:20:24:02 Demora:00:00:22 Estado:Finalizado Doc:CURP_TEAV151008MPLLLLA3.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:96
+933,770,190527.log,20:31:47,Venta de Extra,8,,,,,2,,,0,,1  Varios
+934,770,190527.log,20:31:47,Cobro de PC,8,20:21:31,20:31:47,0:10:13,3,2,5,5,0,, 
+935,,190527.log,20:58:58,Impresión,,,,,,,,,0,,id:40 Inicio:20:58:34 Demora:00:00:24 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:102100
+936,,190527.log,22:01:01,Cierre del Servidor,,,,,,,,,0,,
+937,,190527.log,22:01:01,Cierre del Servidor,,,,,,,,,0,,
+938,,190528.log,16:57:25,Arranque del Servidor,,,,,,,,,0,, 1.647b
+939,771,190528.log,17:36:05,Cobro de PC,2,17:05:58,17:36:05,0:30:00,5,0,5,5,0,, 
+940,772,190528.log,18:27:32,Cobro de PC,7,17:57:26,18:27:32,0:30:00,5,0,5,5,0,, 
+941,,190528.log,18:27:38,Cierre del Servidor,,,,,,,,,0,,
+942,,190528.log,18:29:26,Arranque del Servidor,,,,,,,,,0,, 1.647b
+943,,190528.log,18:44:34,Impresión,,,,,,,,,0,,id:41 Inicio:18:44:24 Demora:00:00:10 Estado:Finalizado Doc:Fuenteskdekenergkakrenovables Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:589824
+944,773,190528.log,19:43:47,Cobro de PC,7,18:29:30,19:43:47,1:14:13,12.5,0,12.5,12.5,0,, 
+945,,190529.log,20:33:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+946,,190529.log,21:43:16,Impresión,,,,,,,,,0,,id:47 Inicio:21:42:13 Demora:00:01:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:7 Total Hojas:7 Tamako:4372376
+947,774,190529.log,21:44:36,Venta de Extra,2,,,,,7,,,0,,1  Varios
+948,774,190529.log,21:44:36,Cobro de PC,2,20:34:09,21:44:36,1:10:24,11.5,7,18.5,18.5,0,, 
+949,775,190529.log,21:56:59,Cobro de PC,6,20:57:25,21:56:59,0:59:31,10,0,10,10,0,, 
+950,776,190529.log,21:57:01,Cobro de PC,9,20:58:00,21:57:01,0:58:59,10,0,10,10,0,, 
+951,,190529.log,21:57:49,Cierre del Servidor,,,,,,,,,0,,
+952,,190529.log,21:57:49,Cierre del Servidor,,,,,,,,,0,,
+953,,190530.log,20:23:17,Arranque del Servidor,,,,,,,,,0,, 1.647b
+954,777,190530.log,21:34:45,Cobro de PC,1,20:23:21,21:34:45,1:11:21,12,0,12,12,0,, 
+955,,190530.log,21:36:56,Cierre del Servidor,,,,,,,,,0,,
+956,,190530.log,21:36:56,Cierre del Servidor,,,,,,,,,0,,
+957,,190531.log,16:27:20,Arranque del Servidor,,,,,,,,,0,, 1.647b
+958,778,190531.log,16:29:10,Cobro de PC,7,16:27:45,16:29:10,0:00:37,3,0,3,3,0,, 
+959,,190531.log,17:01:56,Impresión,,,,,,,,,0,,id:51 Inicio:17:01:30 Demora:00:00:26 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:262144
+960,779,190531.log,17:08:27,Cobro de PC,7,16:38:06,17:08:27,0:30:00,5,0,5,5,0,, 
+961,780,190531.log,18:29:41,Cobro de PC,7,17:57:56,18:29:41,0:31:42,5.5,0,5.5,5.5,0,, 
+962,,190531.log,21:31:53,Cierre del Servidor,,,,,,,,,0,,
+963,,190531.log,21:31:53,Cierre del Servidor,,,,,,,,,0,,
+964,,190602.log,14:57:40,Arranque del Servidor,,,,,,,,,0,, 1.647b
+965,,190602.log,15:16:02,Impresión,,,,,,,,,0,,id:52 Inicio:15:13:52 Demora:00:02:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:181075968
+966,,190602.log,15:21:30,Impresión,,,,,,,,,0,,id:53 Inicio:15:20:27 Demora:00:01:03 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:49256
+967,781,190602.log,16:05:45,Cobro de PC,9,14:57:45,16:05:45,1:07:48,11.5,0,11.5,11.5,0,, 
+968,782,190602.log,18:03:20,Cobro de PC,7,16:48:15,18:03:20,0:30:00,5,0,5,5,0,, 
+969,,190602.log,18:32:30,Impresión,,,,,,,,,0,,id:54 Inicio:18:32:12 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDoc1.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:545872
+970,783,190602.log,18:32:57,Venta de Extra,2,,,,,4,,,0,,1  Varios
+971,783,190602.log,18:32:57,Cobro de PC,2,18:12:40,18:32:57,0:19:41,3.5,4,7.5,7.5,0,, 
+972,784,190602.log,19:35:46,Cobro de PC,2,18:48:53,19:35:46,0:46:23,7.5,0,7.5,7.5,0,, 
+973,,190602.log,19:56:31,Impresión,,,,,,,,,0,,id:55 Inicio:19:55:36 Demora:00:00:55 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:11729264
+974,,190602.log,20:04:20,Impresión,,,,,,,,,0,,id:56 Inicio:20:02:57 Demora:00:01:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:95893108
+975,785,190602.log,20:43:37,Cobro de PC,7,20:03:07,20:43:37,0:40:15,6.5,0,6.5,6.5,0,, 
+976,,190602.log,20:44:27,Cierre del Servidor,,,,,,,,,0,,
+977,,190602.log,20:44:27,Cierre del Servidor,,,,,,,,,0,,
+978,,190603.log,15:38:29,Arranque del Servidor,,,,,,,,,0,, 1.647b
+979,786,190603.log,16:15:16,Cobro de PC,2,15:38:38,16:15:16,0:36:35,6,0,6,6,0,, 
+980,,190603.log,17:03:32,Impresión,,,,,,,,,0,,id:57 Inicio:17:03:17 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:1 Total Hojas:1 Tamako:1457726
+981,787,190603.log,17:03:48,Cobro de PC,3,16:47:24,17:03:48,0:16:20,3,0,3,3,0,, 
+982,,190603.log,18:05:25,Cierre del Servidor,,,,,,,,,0,,
+983,,190603.log,18:15:53,Arranque del Servidor,,,,,,,,,0,, 1.647b
+984,,190603.log,18:54:44,Impresión,,,,,,,,,0,,id:58 Inicio:18:53:11 Demora:00:01:33 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:4 Total Hojas:4 Tamako:9352419
+985,,190603.log,18:56:15,Impresión,,,,,,,,,0,,id:59 Inicio:18:54:10 Demora:00:02:05 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:3 Total Hojas:4 Tamako:11365377
+986,788,190603.log,19:20:36,Cobro de PC,7,18:45:16,19:20:36,0:35:18,6,0,6,6,0,, 
+987,,190603.log,19:25:09,Impresión,,,,,,,,,0,,id:60 Inicio:21:16:57 Demora:16:08:12 Estado:Finalizado Doc:CURP_OOCA961129MPLCRR05.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:3221440
+988,,190603.log,20:30:29,Impresión,,,,,,,,,0,,id:61 Inicio:20:30:05 Demora:00:00:24 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:0 Total Hojas:1 Tamako:1865956
+989,789,190603.log,20:31:05,Cobro de PC,2,19:27:19,20:31:05,1:03:39,10.5,0,10.5,10.5,0,, 
+990,790,190603.log,20:31:36,Cobro de PC,6,19:23:56,20:31:36,1:07:33,11.5,0,11.5,11.5,0,, 
+991,,190603.log,20:37:53,Impresión,,,,,,,,,0,,id:62 Inicio:20:36:37 Demora:00:01:16 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:2 Tamako:5636923
+992,,190603.log,20:38:58,Impresión,,,,,,,,,0,,id:63 Inicio:20:37:21 Demora:00:01:36 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:5702438
+993,,190603.log,20:39:26,Impresión,,,,,,,,,0,,id:64 Inicio:20:38:19 Demora:00:01:07 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:3728009
+994,,190603.log,20:40:12,Impresión,,,,,,,,,0,,id:65 Inicio:20:39:15 Demora:00:00:57 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:598079
+995,,190603.log,21:02:54,Cierre del Servidor,,,,,,,,,0,,
+996,,190603.log,21:02:54,Cierre del Servidor,,,,,,,,,0,,
+997,,190604.log,16:46:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+998,791,190604.log,17:19:12,Cobro de PC,7,16:49:07,17:19:12,0:30:00,5,0,5,5,0,, 
+999,,190604.log,18:59:27,Impresión,,,,,,,,,0,,id:66 Inicio:18:58:40 Demora:00:00:47 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:3 Total Hojas:3 Tamako:3460764
+1000,792,190604.log,19:00:10,Cobro de PC,2,18:44:34,19:00:10,0:15:32,3,0,3,3,0,, 
+1001,,190604.log,20:17:51,Impresión,,,,,,,,,0,,id:67 Inicio:20:17:30 Demora:00:00:21 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:237777
+1002,,190604.log,20:18:15,Cierre del Servidor,,,,,,,,,0,,
+1003,,190604.log,21:34:45,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1004,,190604.log,21:41:50,Cierre del Servidor,,,,,,,,,0,,
+1005,,190604.log,21:41:50,Cierre del Servidor,,,,,,,,,0,,
+1006,,190605.log,18:14:32,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1007,,190605.log,18:14:32,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1008,793,190605.log,18:14:47,Cobro de PC,9,18:14:42,18:14:47,0:00:03,3,0,3,3,0,, 
+1009,794,190605.log,18:45:03,Cobro de PC,9,18:14:53,18:45:03,0:30:00,5,0,5,5,0,, 
+1010,795,190605.log,19:59:25,Cobro de PC,7,19:29:21,19:59:25,0:30:00,5,0,5,5,0,, 
+1011,796,190605.log,20:08:14,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1012,796,190605.log,20:08:14,Cobro de PC,7,19:59:26,20:08:14,0:08:46,3,5,8,8,0,, 
+1013,,190605.log,20:08:35,Impresión,,,,,,,,,0,,id:69 Inicio:20:08:04 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:304240
+1014,,190605.log,21:11:01,Cierre del Servidor,,,,,,,,,0,,
+1015,,190605.log,21:11:05,Cierre del Servidor,,,,,,,,,0,,
+1016,,190605.log,21:11:05,Cierre del Servidor,,,,,,,,,0,,
+1017,,190606.log,19:39:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1018,,190606.log,19:54:40,Impresión,,,,,,,,,0,,id:11 Inicio:19:54:36 Demora:00:00:04 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:49964
+1019,797,190606.log,20:08:05,Cobro de PC,9,19:42:45,20:08:05,0:25:13,4,0,4,4,0,, 
+1020,798,190606.log,20:11:29,Venta de Extra,9,,,,,4,,,0,,1  Varios
+1021,798,190606.log,20:11:29,Cobro de PC,9,20:08:12,20:11:29,0:03:10,3,4,7,7,0,, 
+1022,799,190606.log,20:19:49,Cobro de PC,7,19:56:43,20:19:49,0:23:03,4,0,4,4,0,, 
+1023,,190606.log,20:20:02,Cierre del Servidor,,,,,,,,,0,,
+1024,,190606.log,20:24:33,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1025,,190606.log,20:33:30,Impresión,,,,,,,,,0,,id:12 Inicio:20:32:44 Demora:00:00:46 Estado:Finalizado Doc:MicrosoftkWordk-kcurriculum Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:2 Tamako:1026023
+1026,800,190606.log,20:34:29,Cobro de PC,2,20:25:16,20:34:29,0:09:09,3,0,3,3,0,, 
+1027,,190606.log,20:36:06,Cierre del Servidor,,,,,,,,,0,,
+1028,,190606.log,21:05:20,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1029,,190606.log,21:07:19,Cierre del Servidor,,,,,,,,,0,,
+1030,,190606.log,21:07:19,Cierre del Servidor,,,,,,,,,0,,
+1031,,190607.log,18:23:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1032,801,190607.log,18:58:25,Cobro de PC,7,18:28:22,18:58:25,0:30:00,5,0,5,5,0,, 
+1033,802,190607.log,19:21:06,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1034,802,190607.log,19:21:06,Cobro de PC,7,18:58:29,19:21:06,0:22:34,4,5,9,9,0,, 
+1035,803,190607.log,20:28:48,Cobro de PC,5,19:28:44,20:28:48,1:00:00,10,0,10,10,0,, 
+1036,,190607.log,20:31:07,Impresión,,,,,,,,,0,,id:13 Inicio:20:30:31 Demora:00:00:36 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4028
+1037,,190607.log,20:36:46,Impresión,,,,,,,,,0,,id:14 Inicio:20:36:22 Demora:00:00:24 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:425704
+1038,804,190607.log,20:59:18,Venta de Extra,5,,,,,10,,,0,,1  Varios
+1039,804,190607.log,20:59:18,Cobro de PC,5,20:29:10,20:59:18,0:30:00,5,10,15,15,0,, 
+1040,805,190607.log,21:04:05,Venta de Extra,5,,,,,15,,,0,,1  Varios
+1041,805,190607.log,21:04:05,Cobro de PC,5,20:59:25,21:04:05,0:04:24,3,15,18,18,0,, 
+1042,806,190607.log,21:05:16,Cobro de PC,2,19:41:53,21:05:16,1:23:20,14,0,14,14,0,, 
+1043,,190607.log,21:24:40,Cierre del Servidor,,,,,,,,,0,,
+1044,,190607.log,21:24:40,Cierre del Servidor,,,,,,,,,0,,
+1045,,190608.log,15:32:06,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1046,,190608.log,15:32:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1047,,190608.log,15:34:07,Cierre del Servidor,,,,,,,,,0,,
+1048,807,190608.log,17:09:30,Cobro de PC,7,16:39:21,17:09:30,0:30:00,5,0,5,5,0,, 
+1049,808,190608.log,19:24:55,Cobro de PC,7,18:32:19,19:24:55,0:52:34,9,0,9,9,0,, 
+1050,,190608.log,20:40:39,Impresión,,,,,,,,,0,,id:15 Inicio:20:38:38 Demora:00:02:01 Estado:Finalizado Doc:MicrosoftkWordk-kFORMATO_DE_SOLICITUD_DE_BECA_CICLO_2019-2020_1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:6 Total Hojas:4 Tamako:3461136
+1051,,190608.log,21:53:03,Cierre del Servidor,,,,,,,,,0,,
+1052,,190608.log,21:53:03,Cierre del Servidor,,,,,,,,,0,,
+1053,,190609.log,13:18:28,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1054,,190609.log,14:21:38,Impresión,,,,,,,,,0,,id:16 Inicio:14:21:31 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento3 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:0 Total Hojas:1 Tamako:171
+1055,809,190609.log,14:36:09,Cobro de PC,7,13:18:33,14:36:09,1:16:58,13,0,13,13,0,, 
+1056,810,190609.log,15:18:48,Cobro de PC,7,14:48:40,15:18:48,0:30:00,5,0,5,5,0,, 
+1057,811,190609.log,15:53:44,Cobro de PC,7,15:20:12,15:53:44,0:30:00,5,0,5,5,0,, 
+1058,812,190609.log,17:03:26,Cobro de PC,5,15:53:52,17:03:26,1:09:31,11.5,0,11.5,11.5,0,, 
+1059,813,190609.log,18:24:49,Cobro de PC,5,17:24:43,18:24:49,1:00:00,10,0,10,10,0,, 
+1060,814,190609.log,18:24:52,Cobro de PC,7,17:24:44,18:24:52,1:00:07,10,0,10,10,0,, 
+1061,815,190609.log,19:25:50,Cobro de PC,7,18:30:36,19:25:50,0:55:00,9,0,9,9,0,, 
+1062,816,190609.log,19:25:53,Cobro de PC,5,18:25:59,19:25:53,0:59:52,10,0,10,10,0,, 
+1063,817,190609.log,20:08:35,Cobro de PC,7,19:38:23,20:08:35,0:30:00,5,0,5,5,0,, 
+1064,,190610.log,16:07:52,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1065,,190610.log,17:47:58,Impresión,,,,,,,,,0,,id:17 Inicio:17:47:50 Demora:00:00:08 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:1 Tamako:68015
+1066,818,190610.log,17:54:26,Cobro de PC,2,16:08:33,17:54:26,1:45:50,17.5,0,17.5,17.5,0,, 
+1067,819,190610.log,18:07:48,Cobro de PC,4,17:40:03,18:07:48,0:27:39,4.5,0,4.5,4.5,0,, 
+1068,,190610.log,18:14:03,Impresión,,,,,,,,,0,,id:18 Inicio:18:13:43 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-k7-cartakdekliberaciknkPRkCTICASkPROFESIONALESk(institucikn) Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:120
+1069,820,190610.log,18:14:46,Cobro de PC,4,18:09:36,18:14:46,0:05:05,3,0,3,3,0,, 
+1070,821,190610.log,18:16:40,Cobro de PC,3,17:40:05,18:16:40,0:36:34,6,0,6,6,0,, 
+1071,822,190610.log,18:16:46,Cobro de PC,2,17:55:06,18:16:46,0:21:36,3.5,0,3.5,3.5,0,, 
+1072,,190610.log,19:18:51,Impresión,,,,,,,,,0,,id:19 Inicio:19:18:19 Demora:00:00:32 Estado:Finalizado Doc:webserver1.siiaa.siu.buap.mx:81/autoservicios/bwckcoms.P_Regs Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:1426480
+1073,823,190610.log,20:40:20,Cobro de PC,5,20:34:07,20:40:20,0:04:36,3,0,3,3,0,, 
+1074,,190610.log,20:57:08,Impresión,,,,,,,,,0,,id:20 Inicio:20:56:37 Demora:00:00:31 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:2812612
+1075,824,190610.log,21:08:55,Cobro de PC,4,20:34:04,21:08:55,0:34:49,6,0,6,6,0,, 
+1076,825,190610.log,21:36:59,Cobro de PC,5,20:54:22,21:36:59,0:42:36,7,0,7,7,0,, 
+1077,,190610.log,21:37:00,Cierre del Servidor,,,,,,,,,0,,
+1078,,190610.log,21:37:00,Cierre del Servidor,,,,,,,,,0,,
+1079,,190611.log,16:56:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1080,826,190611.log,17:40:46,Cobro de PC,4,16:56:34,17:40:46,0:44:06,7.5,0,7.5,7.5,0,, 
+1081,,190611.log,18:16:51,Impresión,,,,,,,,,0,,id:21 Inicio:18:14:38 Demora:00:02:13 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:3854012
+1082,,190611.log,18:16:59,Impresión,,,,,,,,,0,,id:102 Inicio:15:28:24 Demora:19:48:35 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.50 Hojas Impresas:6 Total Hojas:6 Tamako:1738426
+1083,,190611.log,18:17:14,Impresión,,,,,,,,,0,,id:22 Inicio:18:16:13 Demora:00:01:01 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3854012
+1084,,190611.log,18:20:59,Impresión,,,,,,,,,0,,id:23 Inicio:18:20:31 Demora:00:00:28 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:100
+1085,827,190611.log,18:54:27,Cobro de PC,7,18:10:17,18:54:27,0:44:08,7.5,0,7.5,7.5,0,, 
+1086,828,190611.log,19:16:02,Cobro de PC,7,18:57:23,19:16:02,0:18:37,3,0,3,3,0,, 
+1087,,190611.log,19:52:35,Impresión,,,,,,,,,0,,id:24 Inicio:19:51:54 Demora:00:00:41 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:2757418
+1088,829,190611.log,19:52:45,Cobro de PC,5,19:24:17,19:52:45,0:28:26,4.5,0,4.5,4.5,0,, 
+1089,,190611.log,20:30:53,Impresión,,,,,,,,,0,,id:25 Inicio:20:30:26 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kPERMISOkECONOMICOkenero Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:487302
+1090,,190611.log,20:33:14,Impresión,,,,,,,,,0,,id:26 Inicio:20:32:47 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kPORTADAkPLANEACIONES Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:455534
+1091,,190611.log,20:34:50,Impresión,,,,,,,,,0,,id:27 Inicio:20:34:07 Demora:00:00:43 Estado:Finalizado Doc:MicrosoftkWordk-kPORTADAkPLANEACIONES Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:1225121
+1092,,190611.log,20:35:39,Impresión,,,,,,,,,0,,id:28 Inicio:20:35:12 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kPORTADAkPLANEACIONES Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:480694
+1093,,190611.log,20:36:14,Impresión,,,,,,,,,0,,id:29 Inicio:20:35:49 Demora:00:00:25 Estado:Finalizado Doc:MicrosoftkWordk-kPORTADAkPLANEACIONES Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:458360
+1094,830,190611.log,20:37:04,Cobro de PC,4,19:39:01,20:37:04,0:57:56,9.5,0,9.5,9.5,0,, 
+1095,831,190611.log,20:50:54,Cobro de PC,7,20:20:35,20:50:54,0:30:00,5,0,5,5,0,, 
+1096,832,190611.log,21:04:59,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1097,832,190611.log,21:04:59,Cobro de PC,7,20:50:59,21:04:59,0:13:58,3,5,8,8,0,, 
+1098,833,190611.log,21:29:27,Cobro de PC,5,20:32:13,21:29:27,0:57:11,9.5,0,9.5,9.5,0,, 
+1099,,190611.log,21:43:07,Cierre del Servidor,,,,,,,,,0,,
+1100,,190611.log,21:43:07,Cierre del Servidor,,,,,,,,,0,,
+1101,,190612.log,16:02:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1102,,190612.log,16:22:19,Impresión,,,,,,,,,0,,id:30 Inicio:16:21:43 Demora:00:00:36 Estado:Finalizado Doc:MicrosoftkWordk-kengranes.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4663312
+1103,834,190612.log,16:52:35,Cobro de PC,1,16:02:12,16:52:35,0:50:17,8.5,0,8.5,8.5,0,, 
+1104,835,190612.log,17:11:00,Cobro de PC,4,16:19:59,17:11:00,0:47:58,8,0,8,8,0,, 
+1105,836,190612.log,17:21:33,Cobro de PC,4,17:18:36,17:21:33,0:02:56,3,0,3,3,0,, 
+1106,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:31 Inicio:16:30:02 Demora:00:46:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442776
+1107,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:32 Inicio:16:31:00 Demora:00:45:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442776
+1108,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:33 Inicio:16:32:30 Demora:00:43:50 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442776
+1109,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:34 Inicio:16:34:54 Demora:00:41:26 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442776
+1110,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:35 Inicio:16:35:31 Demora:00:40:49 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442776
+1111,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:36 Inicio:16:36:10 Demora:00:40:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442752
+1112,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:37 Inicio:16:38:43 Demora:00:37:37 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:443104
+1113,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:38 Inicio:16:39:53 Demora:00:36:27 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:443104
+1114,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:39 Inicio:16:40:15 Demora:00:36:05 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:442692
+1115,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:40 Inicio:16:47:01 Demora:00:29:19 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:2906432
+1116,,190612.log,20:16:20,Impresión,,,,,,,,,0,,id:41 Inicio:16:48:03 Demora:00:28:17 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:2906432
+1117,,190612.log,20:19:03,Impresión,,,,,,,,,0,,id:33 Inicio:20:18:54 Demora:00:00:09 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:442776
+1118,,190612.log,20:19:23,Impresión,,,,,,,,,0,,id:34 Inicio:20:18:54 Demora:00:00:29 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:442776
+1119,,190612.log,20:19:29,Impresión,,,,,,,,,0,,id:35 Inicio:20:18:54 Demora:00:00:35 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:442776
+1120,,190612.log,20:19:35,Impresión,,,,,,,,,0,,id:36 Inicio:20:18:54 Demora:00:00:41 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:442752
+1121,,190612.log,20:19:56,Impresión,,,,,,,,,0,,id:37 Inicio:20:18:54 Demora:00:01:02 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:443104
+1122,,190612.log,20:20:03,Impresión,,,,,,,,,0,,id:38 Inicio:20:18:54 Demora:00:01:09 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:443104
+1123,,190612.log,20:20:11,Impresión,,,,,,,,,0,,id:39 Inicio:20:18:54 Demora:00:01:17 Estado:Finalizado Doc:MicrosoftkWordk-kdocun.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:442692
+1124,,190612.log,20:20:32,Impresión,,,,,,,,,0,,id:40 Inicio:20:18:54 Demora:00:01:38 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2906432
+1125,,190612.log,20:20:42,Impresión,,,,,,,,,0,,id:42 Inicio:20:18:54 Demora:00:01:48 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:678986
+1126,,190612.log,20:20:46,Impresión,,,,,,,,,0,,id:44 Inicio:20:18:54 Demora:00:01:52 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:1 Tamako:678986
+1127,,190612.log,20:20:52,Impresión,,,,,,,,,0,,id:41 Inicio:20:18:54 Demora:00:01:58 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:2906432
+1128,,190612.log,20:22:10,Impresión,,,,,,,,,0,,id:45 Inicio:20:22:00 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:120
+1129,,190612.log,20:23:00,Impresión,,,,,,,,,0,,id:46 Inicio:20:22:53 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:1 Tamako:171
+1130,,190612.log,20:24:05,Impresión,,,,,,,,,0,,id:47 Inicio:20:23:38 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:3 Total Hojas:2 Tamako:672814
+1131,837,190612.log,20:25:55,Cobro de PC,4,19:12:05,20:25:55,1:13:01,12,0,12,12,0,, 
+1132,838,190612.log,20:44:58,Cobro de PC,7,20:14:48,20:44:58,0:30:00,5,0,5,5,0,, 
+1133,,190612.log,20:44:59,Impresión,,,,,,,,,0,,id:48 Inicio:20:42:59 Demora:00:02:00 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:11 Total Hojas:11 Tamako:3240464
+1134,,190612.log,20:49:24,Impresión,,,,,,,,,0,,id:49 Inicio:20:48:09 Demora:00:01:15 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:11 Tamako:3240904
+1135,,190612.log,20:53:08,Impresión,,,,,,,,,0,,id:51 Inicio:20:52:57 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:65536
+1136,,190612.log,20:53:47,Impresión,,,,,,,,,0,,id:52 Inicio:20:53:36 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+1137,,190612.log,21:00:54,Impresión,,,,,,,,,0,,id:54 Inicio:20:58:51 Demora:00:02:03 Estado:Finalizado Doc:MicrosoftkWordk-kLask10khabilidadeskdirectivaskesenciales.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:6 Total Hojas:6 Tamako:267044
+1138,,190612.log,21:04:29,Impresión,,,,,,,,,0,,id:55 Inicio:21:02:26 Demora:00:02:03 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1066753
+1139,,190612.log,21:05:23,Impresión,,,,,,,,,0,,id:56 Inicio:21:05:22 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:786718
+1140,,190612.log,21:05:46,Impresión,,,,,,,,,0,,id:57 Inicio:21:05:26 Demora:00:00:20 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1141,,190612.log,21:09:06,Impresión,,,,,,,,,0,,id:59 Inicio:21:07:01 Demora:00:02:05 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1328897
+1142,,190612.log,21:10:20,Impresión,,,,,,,,,0,,id:60 Inicio:21:10:19 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:786718
+1143,,190612.log,21:10:40,Impresión,,,,,,,,,0,,id:61 Inicio:21:10:21 Demora:00:00:19 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1144,,190612.log,21:11:06,Impresión,,,,,,,,,0,,id:63 Inicio:21:11:05 Demora:00:00:01 Estado:Finalizado Doc:MicrosoftkWordk-kLask10khabilidadeskdirectivaskesenciales.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:0 Tamako:0
+1145,,190612.log,21:13:24,Impresión,,,,,,,,,0,,id:66 Inicio:21:13:14 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+1146,,190612.log,21:13:53,Impresión,,,,,,,,,0,,id:67 Inicio:21:13:43 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:38956
+1147,,190612.log,21:14:17,Impresión,,,,,,,,,0,,id:68 Inicio:21:14:02 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:31024
+1148,,190612.log,21:14:35,Impresión,,,,,,,,,0,,id:69 Inicio:20:08:04 Demora:19:06:31 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:3 Tamako:304240
+1149,,190612.log,21:14:56,Impresión,,,,,,,,,0,,id:70 Inicio:21:14:45 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:38172
+1150,,190612.log,21:15:26,Impresión,,,,,,,,,0,,id:71 Inicio:21:15:16 Demora:00:00:10 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:37692
+1151,839,190612.log,21:16:02,Cobro de PC,5,20:13:06,21:16:02,1:02:54,10.5,0,10.5,10.5,0,, 
+1152,840,190612.log,21:16:12,Cobro de PC,7,20:45:01,21:16:12,0:31:10,5,0,5,5,0,, 
+1153,,190612.log,21:16:29,Impresión,,,,,,,,,0,,id:72 Inicio:21:16:18 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+1154,,190612.log,21:17:20,Impresión,,,,,,,,,0,,id:73 Inicio:21:17:09 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:65536
+1155,,190612.log,21:17:52,Impresión,,,,,,,,,0,,id:74 Inicio:21:17:45 Demora:00:00:07 Estado:Finalizado Doc:MicrosoftkWordk-kkFUENTESkDEkLASkOBLIGACIONESk.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4076
+1156,,190612.log,21:20:00,Cierre del Servidor,,,,,,,,,0,,
+1157,,190612.log,21:20:00,Cierre del Servidor,,,,,,,,,0,,
+1158,,190613.log,19:50:54,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1159,841,190613.log,20:20:32,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1160,841,190613.log,20:20:32,Cobro de PC,7,19:51:02,20:20:32,0:29:27,5,5,10,10,0,, 
+1161,842,190613.log,20:29:11,Cobro de PC,2,20:23:14,20:29:11,0:05:33,3,0,3,3,0,, 
+1162,,190613.log,20:41:32,Impresión,,,,,,,,,0,,id:76 Inicio:20:40:31 Demora:00:01:01 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:3 Total Hojas:1 Tamako:309603
+1163,,190613.log,20:42:21,Impresión,,,,,,,,,0,,id:77 Inicio:20:41:51 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kPRODUCTO-Transversal-3er_Parcial_Escultura_2Sem_070619 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:1 Tamako:780745
+1164,843,190613.log,20:43:07,Cobro de PC,4,20:29:24,20:43:07,0:13:19,3,0,3,3,0,, 
+1165,844,190613.log,20:53:13,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1166,844,190613.log,20:53:13,Cobro de PC,7,20:20:33,20:53:13,0:30:00,5,5,10,10,0,, 
+1167,845,190613.log,21:02:21,Venta de Extra,7,,,,,10,,,0,,1  Varios
+1168,845,190613.log,21:02:21,Cobro de PC,7,20:53:19,21:02:21,0:08:57,3,10,13,13,0,, 
+1169,,190613.log,21:43:16,Impresión,,,,,,,,,0,,id:79 Inicio:21:42:57 Demora:00:00:19 Estado:Finalizado Doc:ArchivokPDF Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:868403
+1170,,190613.log,21:48:09,Impresión,,,,,,,,,0,,id:80 Inicio:21:47:28 Demora:00:00:41 Estado:Finalizado Doc:ArchivokPDF Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:5 Total Hojas:3 Tamako:565775
+1171,846,190613.log,21:48:49,Cobro de PC,2,20:53:28,21:48:49,0:55:17,9,0,9,9,0,, 
+1172,,190613.log,21:53:24,Cierre del Servidor,,,,,,,,,0,,
+1173,,190613.log,21:53:24,Cierre del Servidor,,,,,,,,,0,,
+1174,,190614.log,17:20:32,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1175,847,190614.log,17:52:34,Cobro de PC,4,17:22:22,17:52:34,0:30:00,5,0,5,5,0,, 
+1176,848,190614.log,18:54:54,Cobro de PC,7,18:24:45,18:54:54,0:30:00,5,0,5,5,0,, 
+1177,849,190614.log,18:57:15,Venta de Extra,7,,,,,5,,,0,,1  Varios
+1178,849,190614.log,18:57:15,Cobro de PC,7,18:55:02,18:57:15,0:02:08,3,5,8,8,0,, 
+1179,,190614.log,18:57:16,Cierre del Servidor,,,,,,,,,0,,
+1180,,190614.log,18:57:38,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1181,,190614.log,20:02:04,Cierre del Servidor,,,,,,,,,0,,
+1182,,190614.log,20:02:04,Cierre del Servidor,,,,,,,,,0,,
+1183,,190615.log,16:59:18,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1184,850,190615.log,17:29:52,Cobro de PC,4,16:59:36,17:29:52,0:30:00,5,0,5,5,0,, 
+1185,851,190615.log,18:00:28,Cobro de PC,4,17:30:06,18:00:28,0:30:03,5,0,5,5,0,, 
+1186,852,190615.log,19:56:04,Cobro de PC,4,18:55:49,19:56:04,1:00:03,10,0,10,10,0,, 
+1187,853,190615.log,19:56:07,Cobro de PC,7,18:55:51,19:56:07,1:00:03,10,0,10,10,0,, 
+1188,854,190615.log,20:26:28,Cobro de PC,4,19:56:22,20:26:28,0:30:03,5,0,5,5,0,, 
+1189,855,190615.log,20:26:31,Cobro de PC,7,19:56:14,20:26:31,0:30:03,5,0,5,5,0,, 
+1190,856,190615.log,20:35:25,Cobro de PC,7,20:34:58,20:35:25,0:00:26,3,0,3,3,0,, 
+1191,857,190615.log,20:42:39,Cobro de PC,2,20:01:40,20:42:39,0:40:56,7,0,7,7,0,, 
+1192,,190615.log,21:42:33,Impresión,,,,,,,,,0,,id:78 Inicio:21:33:31 Demora:18:09:02 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:2 Tamako:2550891
+1193,,190615.log,21:44:50,Impresión,,,,,,,,,0,,id:81 Inicio:21:43:29 Demora:00:01:21 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:401708
+1194,858,190615.log,22:35:42,Cobro de PC,7,20:35:39,22:35:42,2:00:02,20,0,20,20,0,, 
+1195,,190615.log,22:35:46,Cierre del Servidor,,,,,,,,,0,,
+1196,,190615.log,22:35:46,Cierre del Servidor,,,,,,,,,0,,
+1197,,190617.log,18:08:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1198,859,190617.log,19:16:41,Cobro de PC,7,18:08:55,19:16:41,1:06:55,11,0,11,11,0,, 
+1199,,190617.log,19:57:21,Impresión,,,,,,,,,0,,id:2 Inicio:19:57:01 Demora:00:00:20 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:456655
+1200,860,190617.log,19:58:23,Cobro de PC,2,18:46:08,19:58:23,1:12:12,12,0,12,12,0,, 
+1201,,190617.log,20:04:52,Impresión,,,,,,,,,0,,id:3 Inicio:20:04:29 Demora:00:00:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4849664
+1202,,190617.log,20:06:13,Impresión,,,,,,,,,0,,id:4 Inicio:20:05:22 Demora:00:00:51 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:2871393
+1203,861,190617.log,20:09:57,Cobro de PC,4,18:46:07,20:09:57,1:21:10,13.5,0,13.5,13.5,0,, 
+1204,,190617.log,20:42:24,Impresión,,,,,,,,,0,,id:5 Inicio:20:41:55 Demora:00:00:29 Estado:Finalizado Doc:12e06da990d3de4ff2072bd1c8dc64d8 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:1 Total Hojas:1 Tamako:1322858
+1205,862,190617.log,20:48:00,Cobro de PC,3,20:07:17,20:48:00,0:38:17,6.5,0,6.5,6.5,0,, 
+1206,,190617.log,20:49:18,Cierre del Servidor,,,,,,,,,0,,
+1207,,190617.log,20:49:27,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1208,,190617.log,20:50:09,Cierre del Servidor,,,,,,,,,0,,
+1209,,190617.log,21:03:19,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1210,,190617.log,21:06:40,Cierre del Servidor,,,,,,,,,0,,
+1211,,190617.log,21:07:08,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1212,,190617.log,21:09:40,Cierre del Servidor,,,,,,,,,0,,
+1213,,190617.log,21:10:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1214,,190617.log,21:14:41,Cierre del Servidor,,,,,,,,,0,,
+1215,,190617.log,21:14:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1216,,190617.log,21:15:23,Cierre del Servidor,,,,,,,,,0,,
+1217,,190617.log,21:15:23,Cierre del Servidor,,,,,,,,,0,,
+1218,,190618.log,17:11:46,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1219,863,190618.log,17:55:25,Cobro de PC,4,17:26:42,17:55:25,0:28:37,5,0,5,5,0,, 
+1220,864,190618.log,18:09:46,Cobro de PC,5,17:13:20,18:09:46,0:56:24,9.5,0,9.5,9.5,0,, 
+1221,865,190618.log,18:25:37,Cobro de PC,4,17:55:28,18:25:37,0:30:00,5,0,5,5,0,, 
+1222,866,190618.log,19:24:47,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1223,866,190618.log,19:24:47,Cobro de PC,7,17:54:38,19:24:47,1:30:03,15,0,15,15,0,, 
+1224,867,190618.log,19:26:54,Cobro de PC,4,18:25:58,19:26:54,1:00:33,10,0,10,10,0,, 
+1225,868,190618.log,19:39:38,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1226,868,190618.log,19:39:38,Cobro de PC,7,19:26:57,19:39:38,0:12:39,3,0,3,3,0,, 
+1227,,190618.log,19:45:53,Impresión,,,,,,,,,0,,id:2 Inicio:19:45:17 Demora:00:00:36 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:262144
+1228,,190618.log,20:03:58,Impresión,,,,,,,,,0,,id:6 Inicio:17:11:48 Demora:00:52:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:9 Tamako:2321306
+1229,,190618.log,20:04:06,Impresión,,,,,,,,,0,,id:3 Inicio:19:59:18 Demora:00:04:48 Estado:Finalizado Doc:Examen_Trimestral_Bloque_III.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:13 Total Hojas:13 Tamako:11254344
+1230,,190618.log,20:30:30,Cierre del Servidor,,,,,,,,,0,,
+1231,,190618.log,20:54:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1232,869,190618.log,21:58:48,Cobro de PC,2,20:54:53,21:58:48,1:03:52,10.5,0,10.5,10.5,0,, 
+1233,,190618.log,21:58:49,Cierre del Servidor,,,,,,,,,0,,
+1234,,190618.log,21:58:49,Cierre del Servidor,,,,,,,,,0,,
+1235,,190620.log,16:09:22,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1236,870,190620.log,17:16:12,Cobro de PC,4,17:13:38,17:16:12,0:02:31,3,0,3,3,0,, 
+1237,,190620.log,17:32:27,Impresión,,,,,,,,,0,,id:4 Inicio:17:32:12 Demora:00:00:15 Estado:Finalizado Doc:CartaAsignacion_MEFD070618MPLNLNA0_20-06-201917_29_14.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:156
+1238,,190620.log,18:43:40,Impresión,,,,,,,,,0,,id:5 Inicio:18:43:08 Demora:00:00:32 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:761228
+1239,,190620.log,19:02:32,Impresión,,,,,,,,,0,,id:6 Inicio:17:11:48 Demora:19:50:44 Estado:Finalizado Doc:Fotografkakdekpkginakcompleta Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:0 Total Hojas:9 Tamako:2321306
+1240,871,190620.log,20:16:39,Cobro de PC,2,20:00:18,20:16:39,0:16:17,3,0,3,3,0,, 
+1241,872,190620.log,20:47:28,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1242,872,190620.log,20:47:28,Cobro de PC,7,20:09:33,20:47:28,0:37:47,6.5,0,6.5,6.5,0,, 
+1243,873,190620.log,21:50:08,Cobro de PC,2,21:37:11,21:50:08,0:12:48,3,0,3,3,0,, 
+1244,,190620.log,21:56:26,Impresión,,,,,,,,,0,,id:7 Inicio:21:55:57 Demora:00:00:29 Estado:Finalizado Doc:file:///C:/Users/SERVIDOR/Desktop/PASE.html Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:890864
+1245,874,190620.log,21:59:15,Cobro de PC,5,20:47:58,21:59:15,1:11:13,12,0,12,12,0,, 
+1246,,190620.log,21:59:19,Cierre del Servidor,,,,,,,,,0,,
+1247,,190620.log,22:00:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1248,,190620.log,22:02:55,Cierre del Servidor,,,,,,,,,0,,
+1249,,190620.log,22:02:55,Cierre del Servidor,,,,,,,,,0,,
+1250,,190621.log,17:26:03,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1251,875,190621.log,21:12:24,Cobro de PC,5,20:07:36,21:12:24,1:04:45,11,0,11,11,0,, 
+1252,,190621.log,21:58:48,Cierre del Servidor,,,,,,,,,0,,
+1253,,190621.log,21:58:48,Cierre del Servidor,,,,,,,,,0,,
+1254,,190623.log,12:59:37,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1255,876,190623.log,14:11:44,Venta de Extra,7,,,,,1,,,0,,1  Varios
+1256,876,190623.log,14:11:44,Cobro de PC,7,13:05:59,14:11:44,1:05:12,11,1,12,12,0,, 
+1257,,190623.log,14:55:11,Impresión,,,,,,,,,0,,id:12 Inicio:14:52:25 Demora:00:02:46 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:9 Total Hojas:9 Tamako:3765996
+1258,877,190623.log,15:48:48,Cobro de PC,4,15:02:19,15:48:48,0:45:03,7.5,0,7.5,7.5,0,, 
+1259,,190623.log,16:34:22,Impresión,,,,,,,,,0,,id:13 Inicio:16:33:59 Demora:00:00:23 Estado:Finalizado Doc:CARTA-PODER_1.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1176480
+1260,,190623.log,16:35:17,Impresión,,,,,,,,,0,,id:14 Inicio:16:35:07 Demora:00:00:10 Estado:Finalizado Doc:CARTA-PODER12.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:944680
+1261,878,190623.log,17:01:48,Cobro de PC,4,16:00:57,17:01:48,1:00:00,10,0,10,10,0,, 
+1262,879,190623.log,17:01:49,Cobro de PC,7,16:00:58,17:01:49,1:00:00,10,0,10,10,0,, 
+1263,,190623.log,19:00:10,Impresión,,,,,,,,,0,,id:15 Inicio:18:59:54 Demora:00:00:16 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:30015488
+1264,,190623.log,19:01:17,Impresión,,,,,,,,,0,,id:16 Inicio:19:00:59 Demora:00:00:18 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:30015488
+1265,880,190623.log,19:30:22,Cobro de PC,7,18:28:33,19:30:22,1:00:00,10,0,10,10,0,, 
+1266,881,190623.log,20:04:33,Cobro de PC,7,19:30:25,20:04:33,0:34:00,5.5,0,5.5,5.5,0,, 
+1267,,190623.log,21:26:54,Cierre del Servidor,,,,,,,,,0,,
+1268,,190623.log,21:26:54,Cierre del Servidor,,,,,,,,,0,,
+1269,,190624.log,16:39:02,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1270,,190624.log,16:54:09,Impresión,,,,,,,,,0,,id:17 Inicio:16:53:25 Demora:00:00:44 Estado:Finalizado Doc:MicrosoftkWordk-kCURP_SAFJ010908MPLNLSA9 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:2 Total Hojas:1 Tamako:1228710
+1271,,190624.log,16:57:24,Impresión,,,,,,,,,0,,id:18 Inicio:16:57:13 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kCURP_SAFF090603MPLNLBA7 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:0 Total Hojas:1 Tamako:544570
+1272,882,190624.log,16:58:54,Cobro de PC,2,16:39:46,16:58:54,0:19:03,3,0,3,3,0,, 
+1273,,190624.log,17:55:47,Impresión,,,,,,,,,0,,id:19 Inicio:17:55:05 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:2 Total Hojas:2 Tamako:3589411
+1274,883,190624.log,17:57:17,Cobro de PC,4,16:57:37,17:57:17,0:59:36,10,0,10,10,0,, 
+1275,884,190624.log,19:58:22,Cobro de PC,7,19:58:05,19:58:22,0:00:15,3,0,3,3,0,, 
+1276,885,190624.log,20:28:47,Cobro de PC,7,19:58:31,20:28:47,0:30:00,5,0,5,5,0,, 
+1277,886,190624.log,20:49:07,Cobro de PC,7,20:28:51,20:49:07,0:19:54,3.5,0,3.5,3.5,0,, 
+1278,887,190624.log,20:49:48,Cobro de PC,5,19:12:19,20:49:48,1:37:19,16,0,16,16,0,, 
+1279,,190624.log,21:01:32,Cierre del Servidor,,,,,,,,,0,,
+1280,,190624.log,21:15:13,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1281,888,190624.log,22:00:39,Cobro de PC,2,21:24:20,22:00:39,0:36:05,6,0,6,6,0,, 
+1282,,190624.log,22:05:22,Cierre del Servidor,,,,,,,,,0,,
+1283,,190624.log,22:05:22,Cierre del Servidor,,,,,,,,,0,,
+1284,,190625.log,15:47:35,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1285,,190625.log,15:49:36,Cierre del Servidor,,,,,,,,,0,,
+1286,,190625.log,16:50:03,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1287,889,190625.log,17:50:24,Cobro de PC,5,16:50:15,17:50:24,1:00:00,10,0,10,10,0,, 
+1288,890,190625.log,18:16:50,Cobro de PC,5,17:50:34,18:16:50,0:25:52,4.5,0,4.5,4.5,0,, 
+1289,891,190625.log,18:29:32,Cobro de PC,6,17:59:01,18:29:32,0:30:00,5,0,5,5,0,, 
+1290,892,190625.log,18:35:14,Cobro de PC,7,17:38:12,18:35:14,0:56:49,9.5,0,9.5,9.5,0,, 
+1291,893,190625.log,18:35:17,Cobro de PC,4,17:38:16,18:35:17,0:57:00,9.5,0,9.5,9.5,0,, 
+1292,894,190625.log,18:37:39,Cobro de PC,6,18:29:40,18:37:39,0:07:56,3,0,3,3,0,, 
+1293,,190625.log,21:43:04,Cierre del Servidor,,,,,,,,,0,,
+1294,,190625.log,21:43:04,Cierre del Servidor,,,,,,,,,0,,
+1295,,190626.log,15:55:00,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1296,895,190626.log,16:55:52,Cobro de PC,7,16:06:30,16:55:52,0:49:20,8,0,8,8,0,, 
+1297,,190626.log,16:59:33,Impresión,,,,,,,,,0,,id:20 Inicio:16:58:42 Demora:00:00:51 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:997956
+1298,896,190626.log,17:47:52,Cobro de PC,4,16:20:53,17:47:52,1:26:55,14.5,0,14.5,14.5,0,, 
+1299,,190626.log,21:40:45,Impresión,,,,,,,,,0,,id:21 Inicio:21:40:15 Demora:00:00:30 Estado:Finalizado Doc:MicrosoftkWordk-kalejandro Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.53 Hojas Impresas:1 Total Hojas:1 Tamako:1086185
+1300,897,190626.log,21:41:23,Cobro de PC,2,20:56:54,21:41:23,0:44:22,7.5,0,7.5,7.5,0,, 
+1301,,190626.log,21:47:14,Cierre del Servidor,,,,,,,,,0,,
+1302,,190626.log,21:47:14,Cierre del Servidor,,,,,,,,,0,,
+1303,,190627.log,16:16:58,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1304,898,190627.log,16:46:55,Cobro de PC,2,16:17:19,16:46:55,0:28:32,5,0,5,5,0,, 
+1305,899,190627.log,17:59:32,Cobro de PC,1,17:59:28,17:59:32,0:00:01,3,0,3,3,0,, 
+1306,900,190627.log,18:00:20,Cobro de PC,2,17:16:51,18:00:20,0:42:42,7,0,7,7,0,, 
+1307,901,190627.log,18:10:41,Cobro de PC,7,17:14:06,18:10:41,0:56:32,9.5,0,9.5,9.5,0,, 
+1308,,190627.log,18:35:44,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1309,902,190627.log,18:41:41,Cobro de PC,7,18:11:11,18:41:41,0:30:00,5,0,5,5,0,, 
+1310,903,190627.log,19:56:33,Cobro de PC,2,19:50:18,19:56:33,0:06:12,3,0,3,3,0,, 
+1311,904,190627.log,20:59:00,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1312,904,190627.log,20:59:00,Cobro de PC,7,19:36:43,20:59:00,1:22:14,13.5,0,13.5,13.5,0,, 
+1313,905,190627.log,20:59:09,Cobro de PC,4,19:50:20,20:59:09,1:08:44,11.5,0,11.5,11.5,0,, 
+1314,,190627.log,21:14:39,Cierre del Servidor,,,,,,,,,0,,
+1315,,190627.log,21:14:39,Cierre del Servidor,,,,,,,,,0,,
+1316,,190628.log,17:01:22,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1317,906,190628.log,19:46:22,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1318,906,190628.log,19:46:22,Cobro de PC,7,18:56:37,19:46:22,0:49:43,8.5,0,8.5,8.5,0,, 
+1319,907,190628.log,20:03:17,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1320,907,190628.log,20:03:17,Cobro de PC,7,19:46:50,20:03:17,0:16:25,3,0,3,3,0,, 
+1321,,190628.log,21:53:40,Cierre del Servidor,,,,,,,,,0,,
+1322,,190628.log,21:53:40,Cierre del Servidor,,,,,,,,,0,,
+1323,,190629.log,14:28:10,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1324,908,190629.log,14:29:13,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1325,908,190629.log,14:29:13,Cobro de PC,7,14:29:06,14:29:13,0:00:06,3,0,3,3,0,, 
+1326,909,190629.log,14:42:33,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1327,909,190629.log,14:42:33,Cobro de PC,7,14:29:19,14:42:33,0:13:04,3,0,3,3,0,, 
+1328,910,190629.log,15:29:19,Cobro de PC,5,14:29:05,15:29:19,1:00:00,10,0,10,10,0,, 
+1329,911,190629.log,16:00:04,Cobro de PC,5,15:29:26,16:00:04,0:30:00,5,0,5,5,0,, 
+1330,912,190629.log,17:53:25,Cobro de PC,5,17:14:01,17:53:25,0:39:23,6.5,0,6.5,6.5,0,, 
+1331,913,190629.log,17:58:57,Cobro de PC,9,16:58:48,17:58:57,1:00:00,10,0,10,10,0,, 
+1332,,190629.log,19:46:44,Impresión,,,,,,,,,0,,id:7 Inicio:19:46:10 Demora:00:00:34 Estado:Finalizado Doc:CURP_PEVI400420MPLRTN09.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3168744
+1333,,190629.log,19:46:57,Impresión,,,,,,,,,0,,id:8 Inicio:19:46:24 Demora:00:00:33 Estado:Finalizado Doc:CURP_PEVI400420MPLRTN09.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3168720
+1334,,190629.log,19:56:16,Impresión,,,,,,,,,0,,id:9 Inicio:19:54:22 Demora:00:01:54 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:13 Total Hojas:20 Tamako:9194250
+1335,,190629.log,20:16:15,Impresión,,,,,,,,,0,,id:10 Inicio:20:13:48 Demora:00:02:27 Estado:Finalizado Doc:10kCaracterksticaskdeklakMotivacikn Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:6 Total Hojas:5 Tamako:8540716
+1336,,190629.log,20:31:21,Impresión,,,,,,,,,0,,id:11 Inicio:20:31:06 Demora:00:00:15 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:1 Total Hojas:1 Tamako:120
+1337,914,190629.log,20:32:30,Cobro de PC,2,19:43:43,20:32:30,0:48:17,8,0,8,8,0,, 
+1338,,190629.log,21:21:43,Cierre del Servidor,,,,,,,,,0,,
+1339,,190629.log,21:21:43,Cierre del Servidor,,,,,,,,,0,,
+1340,,190630.log,14:16:24,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1341,,190630.log,15:04:09,Impresión,,,,,,,,,0,,id:12 Inicio:15:03:42 Demora:00:00:27 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:1 Total Hojas:2 Tamako:2358436
+1342,915,190630.log,15:19:09,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1343,915,190630.log,15:19:09,Cobro de PC,7,14:16:41,15:19:09,1:02:04,10.5,0,10.5,10.5,0,, 
+1344,916,190630.log,16:49:38,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1345,916,190630.log,16:49:38,Cobro de PC,7,16:18:30,16:49:38,0:31:04,5,0,5,5,0,, 
+1346,,190630.log,17:14:52,Impresión,,,,,,,,,0,,id:13 Inicio:17:14:41 Demora:00:00:11 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:40288
+1347,917,190630.log,17:54:23,Cobro de PC,4,16:20:02,17:54:23,1:34:18,15.5,0,15.5,15.5,0,, 
+1348,918,190630.log,19:26:49,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1349,918,190630.log,19:26:49,Cobro de PC,7,18:56:33,19:26:49,0:30:00,5,0,5,5,0,, 
+1350,,190630.log,20:45:08,Cierre del Servidor,,,,,,,,,0,,
+1351,,190630.log,20:45:08,Cierre del Servidor,,,,,,,,,0,,
+1352,,190701.log,20:29:13,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1353,919,190701.log,20:59:33,Cobro de PC,4,20:29:26,20:59:33,0:30:00,5,0,5,5,0,, 
+1354,920,190701.log,20:59:49,Cobro de PC,4,20:59:36,20:59:49,0:00:12,3,0,3,3,0,, 
+1355,921,190701.log,21:34:07,Cobro de PC,4,20:59:58,21:34:07,0:34:03,5.5,0,5.5,5.5,0,, 
+1356,,190701.log,21:39:33,Cierre del Servidor,,,,,,,,,0,,
+1357,,190701.log,21:39:33,Cierre del Servidor,,,,,,,,,0,,
+1358,,190702.log,17:27:12,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1359,922,190702.log,18:29:41,Cobro de PC,3,18:18:19,18:29:41,0:00:02,3,0,3,3,0,, 
+1360,923,190702.log,18:30:11,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1361,923,190702.log,18:30:11,Cobro de PC,7,17:58:05,18:30:11,0:30:00,5,0,5,5,0,, 
+1362,924,190702.log,18:35:04,Cobro de PC,4,17:35:09,18:35:04,0:59:53,10,0,10,10,0,, 
+1363,,190702.log,18:41:27,Impresión,,,,,,,,,0,,id:18 Inicio:18:39:11 Demora:00:02:16 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1066753
+1364,,190702.log,18:45:04,Impresión,,,,,,,,,0,,id:19 Inicio:18:45:03 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:786718
+1365,,190702.log,18:45:32,Impresión,,,,,,,,,0,,id:20 Inicio:18:45:12 Demora:00:00:20 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1366,,190702.log,18:49:00,Impresión,,,,,,,,,0,,id:22 Inicio:18:46:55 Demora:00:02:05 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1066753
+1367,,190702.log,18:49:58,Impresión,,,,,,,,,0,,id:23 Inicio:18:49:57 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:286
+1368,,190702.log,18:50:18,Impresión,,,,,,,,,0,,id:24 Inicio:18:49:59 Demora:00:00:19 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1369,,190702.log,18:53:33,Impresión,,,,,,,,,0,,id:26 Inicio:18:51:28 Demora:00:02:05 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1328897
+1370,,190702.log,18:55:15,Impresión,,,,,,,,,0,,id:27 Inicio:18:55:14 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:786718
+1371,,190702.log,18:55:38,Impresión,,,,,,,,,0,,id:28 Inicio:18:55:19 Demora:00:00:19 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1372,,190702.log,18:56:12,Impresión,,,,,,,,,0,,id:29 Inicio:18:56:11 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1048799
+1373,,190702.log,19:00:30,Impresión,,,,,,,,,0,,id:31 Inicio:19:00:29 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:66
+1374,925,190702.log,19:05:04,Cobro de PC,2,18:34:47,19:05:04,0:30:00,5,0,5,5,0,, 
+1375,,190702.log,19:06:29,Impresión,,,,,,,,,0,,id:32 Inicio:19:04:25 Demora:00:02:04 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1328897
+1376,,190702.log,19:07:51,Impresión,,,,,,,,,0,,id:33 Inicio:19:07:50 Demora:00:00:01 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1048862
+1377,,190702.log,19:08:39,Impresión,,,,,,,,,0,,id:34 Inicio:19:07:53 Demora:00:00:46 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1378,,190702.log,19:09:02,Impresión,,,,,,,,,0,,id:35 Inicio:19:09:00 Demora:00:00:02 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:786655
+1379,,190702.log,19:09:26,Impresión,,,,,,,,,0,,id:36 Inicio:19:09:06 Demora:00:00:20 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1380,,190702.log,19:42:49,Impresión,,,,,,,,,0,,id:41 Inicio:19:42:21 Demora:00:00:28 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:9201428
+1381,,190702.log,20:11:55,Impresión,,,,,,,,,0,,id:42 Inicio:20:11:29 Demora:00:00:26 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:5242880
+1382,,190702.log,20:13:00,Impresión,,,,,,,,,0,,id:43 Inicio:20:12:39 Demora:00:00:21 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4194304
+1383,,190702.log,20:16:12,Impresión,,,,,,,,,0,,id:44 Inicio:20:14:08 Demora:00:02:04 Estado:Finalizado Doc:Documentoklocalkdekbajoknivel Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1066753
+1384,,190702.log,20:16:16,Impresión,,,,,,,,,0,,id:45 Inicio:20:14:56 Demora:00:01:20 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1048862
+1385,,190702.log,20:22:45,Impresión,,,,,,,,,0,,id:46 Inicio:20:20:41 Demora:00:02:04 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1066753
+1386,,190702.log,20:24:02,Impresión,,,,,,,,,0,,id:48 Inicio:20:23:42 Demora:00:00:20 Estado:Finalizado Doc:Maintenance Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:0 Total Hojas:1 Tamako:1150368
+1387,,190702.log,20:27:10,Impresión,,,,,,,,,0,,id:50 Inicio:20:26:43 Demora:00:00:27 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4277772
+1388,,190702.log,20:28:10,Impresión,,,,,,,,,0,,id:51 Inicio:20:27:49 Demora:00:00:21 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:4194304
+1389,,190702.log,21:28:38,Impresión,,,,,,,,,0,,id:52 Inicio:20:51:31 Demora:00:37:07 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:91 Total Hojas:88 Tamako:219019176
+1390,,190702.log,21:33:32,Impresión,,,,,,,,,0,,id:53 Inicio:21:32:46 Demora:00:00:46 Estado:Finalizado Doc:GUIA_DE_ESTUDIO_2019.pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:2501464
+1391,,190702.log,21:33:59,Impresión,,,,,,,,,0,,id:54 Inicio:21:33:18 Demora:00:00:41 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.54 Hojas Impresas:0 Total Hojas:1 Tamako:347973
+1392,,190702.log,21:38:44,Cierre del Servidor,,,,,,,,,0,,
+1393,,190702.log,21:38:44,Cierre del Servidor,,,,,,,,,0,,
+1394,,190703.log,18:35:10,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1395,926,190703.log,19:07:11,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1396,926,190703.log,19:07:11,Cobro de PC,7,18:37:02,19:07:11,0:30:00,5,0,5,5,0,, 
+1397,927,190703.log,19:37:20,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1398,927,190703.log,19:37:20,Cobro de PC,7,19:07:12,19:37:20,0:30:00,5,0,5,5,0,, 
+1399,928,190703.log,20:29:53,Cobro de PC,5,19:02:58,20:29:53,1:26:53,14.5,0,14.5,14.5,0,, 
+1400,,190703.log,20:56:30,Impresión,,,,,,,,,0,,id:58 Inicio:20:56:01 Demora:00:00:29 Estado:Finalizado Doc:MicrosoftkWordk-k4-OficiokdekAceptaciknkSERVICIOkSOCIALkcambiokdekpresidencia.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1096040
+1401,929,190703.log,20:56:36,Cobro de PC,2,20:50:04,20:56:36,0:06:15,3,0,3,3,0,, 
+1402,,190703.log,23:03:53,Cierre del Servidor,,,,,,,,,0,,
+1403,,190703.log,23:03:53,Cierre del Servidor,,,,,,,,,0,,
+1404,,190704.log,13:37:45,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1405,,190704.log,13:43:49,Cierre del Servidor,,,,,,,,,0,,
+1406,,190704.log,18:16:52,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1407,,190704.log,18:16:52,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1408,,190704.log,18:17:26,Cierre del Servidor,,,,,,,,,0,,
+1409,930,190704.log,20:24:31,Cobro de PC,5,19:02:05,20:24:31,1:22:22,13.5,0,13.5,13.5,0,, 
+1410,931,190704.log,20:24:55,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1411,931,190704.log,20:24:55,Cobro de PC,7,19:03:57,20:24:55,1:20:56,13.5,0,13.5,13.5,0,, 
+1412,,190704.log,22:34:06,Cierre del Servidor,,,,,,,,,0,,
+1413,,190704.log,22:34:06,Cierre del Servidor,,,,,,,,,0,,
+1414,,190705.log,18:16:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1415,932,190705.log,19:18:18,Cobro de PC,4,18:17:15,19:18:18,1:00:00,10,0,10,10,0,, 
+1416,933,190705.log,19:57:47,Cobro de PC,5,19:31:36,19:57:47,0:26:09,4.5,0,4.5,4.5,0,, 
+1417,,190705.log,21:02:33,Impresión,,,,,,,,,0,,id:63 Inicio:21:01:16 Demora:00:01:17 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3560622
+1418,,190705.log,21:09:29,Impresión,,,,,,,,,0,,id:64 Inicio:20:38:19 Demora:18:31:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:2 Tamako:3728009
+1419,,190705.log,21:12:48,Impresión,,,,,,,,,0,,id:65 Inicio:21:11:31 Demora:00:01:17 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:4871342
+1420,,190705.log,21:14:23,Impresión,,,,,,,,,0,,id:66 Inicio:21:13:15 Demora:00:01:08 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3560622
+1421,,190705.log,21:15:55,Impresión,,,,,,,,,0,,id:67 Inicio:21:14:49 Demora:00:01:06 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3872715
+1422,,190705.log,21:18:01,Impresión,,,,,,,,,0,,id:68 Inicio:21:16:52 Demora:00:01:09 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3822766
+1423,,190705.log,21:21:02,Impresión,,,,,,,,,0,,id:69 Inicio:21:19:54 Demora:00:01:08 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3708977
+1424,,190705.log,21:24:52,Impresión,,,,,,,,,0,,id:70 Inicio:21:23:44 Demora:00:01:08 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3560622
+1425,934,190705.log,21:28:03,Cobro de PC,4,20:31:51,21:28:03,0:56:10,9.5,0,9.5,9.5,0,, 
+1426,,190705.log,21:29:14,Impresión,,,,,,,,,0,,id:71 Inicio:21:28:07 Demora:00:01:07 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:3560622
+1427,,190705.log,21:30:13,Impresión,,,,,,,,,0,,id:72 Inicio:21:29:35 Demora:00:00:38 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:2527237
+1428,,190705.log,21:32:49,Impresión,,,,,,,,,0,,id:73 Inicio:21:32:32 Demora:00:00:17 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:0 Total Hojas:1 Tamako:120
+1429,,190705.log,21:33:55,Impresión,,,,,,,,,0,,id:74 Inicio:21:32:49 Demora:00:01:06 Estado:Finalizado Doc:MicrosoftkWordk-kimagenes Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:1 Total Hojas:1 Tamako:6643532
+1430,,190705.log,21:45:34,Impresión,,,,,,,,,0,,id:75 Inicio:21:45:15 Demora:00:00:19 Estado:Finalizado Doc:Sinktktulo-2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2696
+1431,,190705.log,21:49:17,Impresión,,,,,,,,,0,,id:76 Inicio:21:49:09 Demora:00:00:08 Estado:Finalizado Doc:Sinktktulo-3 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2672
+1432,,190705.log,21:51:09,Impresión,,,,,,,,,0,,id:77 Inicio:21:51:00 Demora:00:00:09 Estado:Finalizado Doc:Sinktktulo-4 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:2952
+1433,,190705.log,21:53:07,Impresión,,,,,,,,,0,,id:78 Inicio:21:53:05 Demora:00:00:02 Estado:Finalizado Doc:Sinktktulo-5 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1592
+1434,,190705.log,21:57:18,Impresión,,,,,,,,,0,,id:79 Inicio:21:57:06 Demora:00:00:12 Estado:Finalizado Doc:Sinktktulo-5 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:68
+1435,,190705.log,21:58:05,Cierre del Servidor,,,,,,,,,0,,
+1436,,190705.log,21:58:05,Cierre del Servidor,,,,,,,,,0,,
+1437,,190706.log,13:19:03,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1438,935,190706.log,15:20:54,Cobro de PC,4,14:55:39,15:20:54,0:25:13,4,0,4,4,0,, 
+1439,,190706.log,16:10:13,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1440,936,190706.log,16:21:10,Cobro de PC,4,15:21:03,16:21:10,1:00:00,10,0,10,10,0,, 
+1441,937,190706.log,16:52:06,Cobro de PC,4,16:21:34,16:52:06,0:30:00,5,0,5,5,0,, 
+1442,938,190706.log,20:10:04,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1443,938,190706.log,20:10:04,Cobro de PC,7,19:53:17,20:10:04,0:16:45,3,0,3,3,0,, 
+1444,,190706.log,21:39:58,Cierre del Servidor,,,,,,,,,0,,
+1445,,190706.log,21:39:58,Cierre del Servidor,,,,,,,,,0,,
+1446,,190707.log,12:43:42,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1447,939,190707.log,14:00:23,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1448,939,190707.log,14:00:23,Cobro de PC,7,12:47:10,14:00:23,1:00:00,10,0,10,10,0,, 
+1449,,190707.log,15:55:07,Impresión,,,,,,,,,0,,id:80 Inicio:15:54:03 Demora:00:01:04 Estado:Finalizado Doc:CV[1].pdf Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:3246060
+1450,,190707.log,19:13:22,Cierre del Servidor,,,,,,,,,0,,
+1451,,190707.log,19:13:22,Cierre del Servidor,,,,,,,,,0,,
+1452,,190708.log,19:53:41,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1453,940,190708.log,20:29:57,Venta de Extra,4,,,,,4,,,0,,1  Varios
+1454,940,190708.log,20:29:57,Cobro de PC,4,19:55:40,20:29:57,0:33:55,5.5,4,9.5,9.5,0,, 
+1455,941,190708.log,20:31:25,Venta de Extra,4,,,,,8,,,0,,1  Varios
+1456,941,190708.log,20:31:25,Cobro de PC,4,20:30:53,20:31:25,0:00:03,3,8,11,11,0,, 
+1457,,190708.log,21:10:17,Cierre del Servidor,,,,,,,,,0,,
+1458,,190708.log,21:11:29,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1459,,190708.log,21:15:03,Cierre del Servidor,,,,,,,,,0,,
+1460,,190708.log,21:15:03,Cierre del Servidor,,,,,,,,,0,,
+1461,,190709.log,18:03:07,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1462,,190709.log,18:32:26,Impresión,,,,,,,,,0,,id:83 Inicio:18:31:03 Demora:00:01:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::7c94:acb3:c41f:33f] Hojas Impresas:7 Total Hojas:6 Tamako:8579603
+1463,942,190709.log,18:35:12,Cobro de PC,2,18:03:16,18:35:12,0:29:51,5,0,5,5,0,, 
+1464,943,190709.log,19:36:41,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1465,943,190709.log,19:36:41,Cobro de PC,7,19:06:35,19:36:41,0:30:00,5,0,5,5,0,, 
+1466,944,190709.log,19:47:00,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1467,944,190709.log,19:47:00,Cobro de PC,7,19:36:43,19:47:00,0:10:10,3,0,3,3,0,, 
+1468,945,190709.log,21:10:56,Cobro de PC,1,20:34:27,21:10:56,0:36:28,6,0,6,6,0,, 
+1469,,190710.log,19:44:18,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1470,,190710.log,20:10:36,Impresión,,,,,,,,,0,,id:5 Inicio:20:09:26 Demora:00:01:10 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:3 Total Hojas:3 Tamako:157676
+1471,946,190710.log,20:54:41,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1472,946,190710.log,20:54:41,Cobro de PC,7,19:45:09,20:54:41,1:09:22,11.5,0,11.5,11.5,0,, 
+1473,947,190710.log,21:00:37,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1474,947,190710.log,21:00:37,Cobro de PC,5,19:44:43,21:00:37,1:15:29,12.5,0,12.5,12.5,0,, 
+1475,948,190710.log,21:11:00,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1476,948,190710.log,21:11:00,Cobro de PC,5,21:02:18,21:11:00,0:08:40,3,0,3,3,0,, 
+1477,,190710.log,21:11:58,Cierre del Servidor,,,,,,,,,0,,
+1478,,190710.log,21:11:58,Cierre del Servidor,,,,,,,,,0,,
+1479,,190711.log,15:40:30,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1480,,190711.log,18:16:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1481,,190711.log,18:18:48,Cierre del Servidor,,,,,,,,,0,,
+1482,,190711.log,18:18:53,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1483,949,190711.log,19:06:33,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1484,949,190711.log,19:06:33,Cobro de PC,4,18:20:11,19:06:33,0:46:16,7.5,0,7.5,7.5,0,, 
+1485,950,190711.log,19:06:40,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1486,950,190711.log,19:06:40,Cobro de PC,7,18:20:23,19:06:40,0:46:14,7.5,0,7.5,7.5,0,, 
+1487,,190711.log,19:49:02,Cierre del Servidor,,,,,,,,,0,,
+1488,,190711.log,19:49:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1489,951,190711.log,19:50:21,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1490,951,190711.log,19:50:21,Cobro de PC,7,19:50:17,19:50:21,0:00:03,3,0,3,3,0,, 
+1491,952,190711.log,19:51:07,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1492,952,190711.log,19:51:07,Cobro de PC,7,19:50:43,19:51:07,0:00:23,3,0,3,3,0,, 
+1493,,190711.log,19:51:09,Cierre del Servidor,,,,,,,,,0,,
+1494,,190711.log,19:51:15,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1495,,190711.log,20:46:37,Impresión,,,,,,,,,0,,id:6 Inicio:20:45:30 Demora:00:01:07 Estado:Finalizado Doc:MicrosoftkWordk-kdictamenkbalistica.kadi.docx Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:4 Total Hojas:4 Tamako:196836
+1496,953,190711.log,20:52:20,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1497,953,190711.log,20:52:20,Cobro de PC,5,19:51:41,20:52:20,1:00:00,10,0,10,10,0,, 
+1498,954,190711.log,21:02:33,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1499,954,190711.log,21:02:33,Cobro de PC,5,20:52:30,21:02:33,0:09:58,3,0,3,3,0,, 
+1500,,190711.log,21:19:33,Cierre del Servidor,,,,,,,,,0,,
+1501,,190711.log,21:19:33,Cierre del Servidor,,,,,,,,,0,,
+1502,,190712.log,18:13:14,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1503,955,190712.log,19:14:39,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1504,955,190712.log,19:14:39,Cobro de PC,7,18:14:33,19:14:39,1:00:00,10,0,10,10,0,, 
+1505,956,190712.log,19:22:28,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1506,956,190712.log,19:22:28,Cobro de PC,7,19:14:55,19:22:28,0:07:20,3,0,3,3,0,, 
+1507,957,190712.log,19:42:48,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1508,957,190712.log,19:42:48,Cobro de PC,7,19:27:51,19:42:48,0:14:56,3,0,3,3,0,, 
+1509,,190712.log,20:04:21,Impresión,,,,,,,,,0,,id:2 Inicio:20:03:58 Demora:00:00:23 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1966080
+1510,,190712.log,21:19:22,Cierre del Servidor,,,,,,,,,0,,
+1511,,190712.log,21:19:22,Cierre del Servidor,,,,,,,,,0,,
+1512,,190713.log,16:34:09,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1513,958,190713.log,17:07:45,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1514,958,190713.log,17:07:45,Cobro de PC,7,16:37:16,17:07:45,0:30:00,5,0,5,5,0,, 
+1515,959,190713.log,18:22:08,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1516,959,190713.log,18:22:08,Cobro de PC,4,17:51:54,18:22:08,0:30:00,5,0,5,5,0,, 
+1517,960,190713.log,18:47:45,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1518,960,190713.log,18:47:45,Cobro de PC,4,18:22:15,18:47:45,0:25:26,4,0,4,4,0,, 
+1519,961,190713.log,20:11:09,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1520,961,190713.log,20:11:09,Cobro de PC,4,19:10:58,20:11:09,1:00:00,10,0,10,10,0,, 
+1521,962,190713.log,20:22:06,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1522,962,190713.log,20:22:06,Cobro de PC,4,20:11:14,20:22:06,0:10:49,3,0,3,3,0,, 
+1523,,190713.log,21:30:16,Cierre del Servidor,,,,,,,,,0,,
+1524,,190713.log,21:30:16,Cierre del Servidor,,,,,,,,,0,,
+1525,,190714.log,13:01:39,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1526,963,190714.log,13:51:03,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1527,963,190714.log,13:51:03,Cobro de PC,7,13:04:51,13:51:03,0:45:41,7.5,0,7.5,7.5,0,, 
+1528,964,190714.log,14:21:44,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1529,964,190714.log,14:21:44,Cobro de PC,4,13:26:45,14:21:44,0:54:15,9,0,9,9,0,, 
+1530,965,190714.log,15:43:37,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1531,965,190714.log,15:43:37,Cobro de PC,7,14:43:59,15:43:37,0:28:00,4.5,0,4.5,4.5,0,, 
+1532,966,190714.log,17:20:43,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1533,966,190714.log,17:20:43,Cobro de PC,7,16:30:38,17:20:43,0:50:00,8.5,0,8.5,8.5,0,, 
+1534,967,190714.log,21:19:17,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1535,967,190714.log,21:19:17,Cobro de PC,7,20:44:49,21:19:17,0:34:01,5.5,0,5.5,5.5,0,, 
+1536,,190714.log,21:51:05,Cierre del Servidor,,,,,,,,,0,,
+1537,,190714.log,21:51:05,Cierre del Servidor,,,,,,,,,0,,
+1538,,190715.log,15:54:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1539,,190715.log,15:54:57,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1540,,190715.log,15:55:06,Cierre del Servidor,,,,,,,,,0,,
+1541,968,190715.log,16:43:58,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1542,968,190715.log,16:43:58,Cobro de PC,7,15:55:08,16:43:58,0:48:46,8,0,8,8,0,, 
+1543,969,190715.log,17:27:44,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1544,969,190715.log,17:27:44,Cobro de PC,7,16:57:38,17:27:44,0:30:00,5,0,5,5,0,, 
+1545,,190715.log,17:36:00,Impresión,,,,,,,,,0,,id:3 Inicio:17:35:18 Demora:00:00:42 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:1061416
+1546,970,190715.log,18:13:30,Cobro de PC,6,17:43:17,18:13:30,0:30:00,5,0,5,5,0,, 
+1547,971,190715.log,18:28:19,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1548,971,190715.log,18:28:19,Cobro de PC,5,17:30:33,18:28:19,0:57:35,9.5,0,9.5,9.5,0,, 
+1549,972,190715.log,18:39:23,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1550,972,190715.log,18:39:23,Cobro de PC,7,17:39:06,18:39:23,1:00:00,10,0,10,10,0,, 
+1551,973,190715.log,18:44:00,Cobro de PC,6,18:13:32,18:44:00,0:30:00,5,0,5,5,0,, 
+1552,974,190715.log,19:09:08,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1553,974,190715.log,19:09:08,Cobro de PC,7,18:39:25,19:09:08,0:29:40,5,0,5,5,0,, 
+1554,975,190715.log,19:16:43,Venta de Extra,4,,,,,0,,,0,,1  Varios
+1555,975,190715.log,19:16:43,Cobro de PC,4,18:46:27,19:16:43,0:30:00,5,0,5,5,0,, 
+1556,976,190715.log,19:44:19,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1557,976,190715.log,19:44:19,Cobro de PC,5,18:44:09,19:44:19,0:58:36,10,0,10,10,0,, 
+1558,,190715.log,21:23:58,Cierre del Servidor,,,,,,,,,0,,
+1559,,190715.log,21:23:58,Cierre del Servidor,,,,,,,,,0,,
+1560,,190716.log,15:09:50,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1561,,190716.log,16:22:00,Impresión,,,,,,,,,0,,id:4 Inicio:16:21:05 Demora:00:00:55 Estado:Finalizado Doc:ACFrOgDTKfiC03LjA3XXu9nJYnbYTSGiZdSnBXF...USIxXwdgW8cgPhkcNARezk7Ne4PBZJm32gxuA= Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:2 Total Hojas:2 Tamako:3002150
+1562,,190716.log,16:23:12,Impresión,,,,,,,,,0,,id:5 Inicio:16:22:18 Demora:00:00:54 Estado:Finalizado Doc:ACFrOgDTKfiC03LjA3XXu9nJYnbYTSGiZdSnBXF...USIxXwdgW8cgPhkcNARezk7Ne4PBZJm32gxuA= Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:2 Total Hojas:2 Tamako:3002150
+1563,977,190716.log,16:24:31,Venta Directa,,,,,,,,,0,1,1  PICA FRESA
+1564,,190716.log,16:25:27,Impresión,,,,,,,,,0,,id:6 Inicio:16:25:01 Demora:00:00:26 Estado:Finalizado Doc:ACFrOgBBXDZ7v3U62j5qj5DRGhdJEUBHGXtiuuk...i1RwnY5b5Cc53_LxUwNW-BT32jhKpyMZi-5OE= Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:1 Total Hojas:1 Tamako:1159417
+1565,,190716.log,16:26:38,Impresión,,,,,,,,,0,,id:7 Inicio:16:26:20 Demora:00:00:18 Estado:Finalizado Doc:ACFrOgCDTA1PcEIgsKES6bbz9m-c1373ugvTpb6...6hx7N57zW86ColRIkk1A2h16ON5yNCD2lpEEI= Imp:EPSONkColor Usuario:Invitado PC:\\[fe80::649f:2d32:41fe:3588] Hojas Impresas:1 Total Hojas:1 Tamako:919264
+1566,978,190716.log,16:28:01,Venta de Extra,4,,,,,23,,,0,,1  Varios
+1567,978,190716.log,16:28:01,Cobro de PC,4,16:16:21,16:28:01,0:10:50,3,23,26,26,0,, 
+1568,979,190716.log,16:40:03,Venta Directa,,,,,,,,,0,8,2  MAZAPAN
+1569,,190716.log,17:19:49,Impresión,,,,,,,,,0,,id:8 Inicio:17:19:12 Demora:00:00:37 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:1 Total Hojas:1 Tamako:58760
+1570,980,190716.log,18:10:53,Venta Directa,,,,,,,,,0,1,1  PICA FRESA
+1571,,190716.log,19:13:36,Impresión,,,,,,,,,0,,id:9 Inicio:19:12:53 Demora:00:00:43 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:402228
+1572,981,190716.log,19:18:02,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1573,981,190716.log,19:18:02,Cobro de PC,7,18:38:56,19:18:02,0:30:00,5,0,5,5,0,, 
+1574,,190716.log,19:28:59,Impresión,,,,,,,,,0,,id:10 Inicio:19:28:21 Demora:00:00:38 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento2 Imp:EPSONkColor Usuario:SERVIDOR PC:\\SERVIDOR-PC Hojas Impresas:2 Total Hojas:2 Tamako:4194304
+1575,982,190716.log,19:48:25,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1576,982,190716.log,19:48:25,Cobro de PC,7,19:18:12,19:48:25,0:30:00,5,0,5,5,0,, 
+1577,983,190716.log,20:00:31,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1578,983,190716.log,20:00:31,Cobro de PC,7,19:48:26,20:00:31,0:11:41,3,0,3,3,0,, 
+1579,984,190716.log,20:27:56,Venta Directa,,,,,,,,,0,4,1  MAZAPAN
+1580,,190716.log,21:07:56,Cierre del Servidor,,,,,,,,,0,,
+1581,,190716.log,21:07:56,Cierre del Servidor,,,,,,,,,0,,
+1582,,190717.log,16:04:27,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1583,985,190717.log,16:04:40,Venta Directa,,,,,,,,,0,4,1  MAZAPAN
+1584,986,190717.log,17:21:02,Venta Directa,,,,,,,,,0,2,1  DUVALIN
+1585,987,190717.log,17:45:08,Venta Directa,,,,,,,,,0,1,1  PICA FRESA
+1586,988,190717.log,18:10:36,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1587,988,190717.log,18:10:36,Cobro de PC,7,16:57:01,18:10:36,1:13:34,12.5,0,12.5,12.5,0,, 
+1588,989,190717.log,18:34:51,Venta Directa,,,,,,,,,0,2,2  PICA FRESA
+1589,990,190717.log,18:59:47,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1590,990,190717.log,18:59:47,Cobro de PC,7,18:29:39,18:59:47,0:30:00,5,0,5,5,0,, 
+1591,991,190717.log,19:07:29,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1592,991,190717.log,19:07:29,Cobro de PC,7,18:59:48,19:07:29,0:07:33,3,0,3,3,0,, 
+1593,,190717.log,22:13:13,Cierre del Servidor,,,,,,,,,0,,
+1594,,190717.log,22:13:13,Cierre del Servidor,,,,,,,,,0,,
+1595,,190718.log,15:27:51,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1596,992,190718.log,15:49:32,Venta Directa,,,,,,,,,0,2,1  DUVALIN
+1597,993,190718.log,16:49:21,Venta Directa,,,,,,,,,0,1,1  PICA FRESA
+1598,994,190718.log,19:07:03,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1599,994,190718.log,19:07:03,Cobro de PC,5,19:06:36,19:07:03,0:00:17,3,0,3,3,0,, 
+1600,995,190718.log,20:03:34,Cobro de PC,4,19:06:33,20:03:34,0:56:42,9.5,0,9.5,9.5,0,, 
+1601,996,190718.log,20:22:50,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1602,996,190718.log,20:22:50,Cobro de PC,5,19:11:28,20:22:50,1:10:45,12,0,12,12,0,, 
+1603,,190718.log,21:49:23,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1604,,190718.log,21:49:57,Cierre del Servidor,,,,,,,,,0,,
+1605,,190718.log,21:49:57,Cierre del Servidor,,,,,,,,,0,,
+1606,,190719.log,15:15:17,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1607,997,190719.log,15:19:55,Venta Directa,,,,,,,,,0,1,1  PICA FRESA
+1608,998,190719.log,15:45:46,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1609,998,190719.log,15:45:46,Cobro de PC,7,15:15:33,15:45:46,0:30:00,5,0,5,5,0,, 
+1610,999,190719.log,19:20:58,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1611,999,190719.log,19:20:58,Cobro de PC,7,15:45:48,19:20:58,0:30:00,5,0,5,5,0,, Me equivoque
+1612,1000,190719.log,20:01:47,Venta Directa,,,,,,,,,0,8,2  MAZAPAN
+1613,1000,190719.log,20:01:47,Venta Directa,,,,,,,,,0,2,2  PICA FRESA
+1614,1001,190719.log,20:06:49,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1615,1001,190719.log,20:06:49,Cobro de PC,7,20:06:42,20:06:49,0:00:04,3,0,3,3,0,, 
+1616,1002,190719.log,20:21:22,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1617,1002,190719.log,20:21:22,Cobro de PC,5,19:21:15,20:21:22,1:00:00,10,0,10,10,0,, 
+1618,1003,190719.log,20:40:48,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1619,1003,190719.log,20:40:48,Cobro de PC,7,20:06:55,20:40:48,0:33:51,5.5,0,5.5,5.5,0,, 
+1620,1004,190719.log,20:47:10,Venta de Extra,5,,,,,0,,,0,,1  Varios
+1621,1004,190719.log,20:47:10,Cobro de PC,5,20:21:26,20:47:10,0:25:41,4.5,0,4.5,4.5,0,, 
+1622,,190719.log,22:03:55,Cierre del Servidor,,,,,,,,,0,,
+1623,,190719.log,22:03:55,Cierre del Servidor,,,,,,,,,0,,
+1624,,190720.log,17:20:47,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1625,1005,190720.log,19:09:20,Cobro de PC,2,19:07:39,19:09:20,0:01:37,3,0,3,3,0,, 
+1626,1006,190720.log,19:40:22,Cobro de PC,4,19:09:24,19:40:22,0:30:55,5,0,5,5,0,, 
+1627,,190720.log,19:40:45,Impresión,,,,,,,,,0,,id:7 Inicio:19:40:10 Demora:00:00:35 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:2504946
+1628,,190720.log,19:42:39,Impresión,,,,,,,,,0,,id:8 Inicio:19:42:17 Demora:00:00:22 Estado:Finalizado Doc:MicrosoftkWordk-kDocumento1 Imp:EPSONkColor Usuario:Invitado PC:\\192.168.80.51 Hojas Impresas:1 Total Hojas:1 Tamako:923974
+1629,,190720.log,20:03:28,Cierre del Servidor,,,,,,,,,0,,
+1630,,190720.log,20:03:28,Cierre del Servidor,,,,,,,,,0,,
+1631,,190721.log,12:50:12,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1632,1007,190721.log,13:10:25,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1633,1007,190721.log,13:10:25,Cobro de PC,7,12:58:18,13:10:25,0:12:00,3,0,3,3,0,, 
+1634,,190721.log,13:46:23,Cierre del Servidor,,,,,,,,,0,,
+1635,,190721.log,14:44:41,Arranque del Servidor,,,,,,,,,0,, 1.647b
+1636,1008,190721.log,15:52:18,Venta de Extra,7,,,,,0,,,0,,1  Varios
+1637,1008,190721.log,15:52:18,Cobro de PC,7,14:44:47,15:52:18,1:07:29,11,0,11,11,0,, 
